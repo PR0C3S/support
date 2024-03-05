@@ -1,7 +1,5 @@
 from ftplib import FTP
-from dotenv import load_dotenv
-import os
-load_dotenv()
+from decouple import config
 
 class FtpConnection:
     def __init__(self):
@@ -9,8 +7,8 @@ class FtpConnection:
         pass
     
     def connecToFTP(self):
-        self.ftp.connect(os.getenv("SITEFTP"), 21)
-        self.ftp.login(os.getenv("IDFTP"), os.getenv("PWDFTP"))
+        self.ftp.connect(config("FTP_SITE"), 21)
+        self.ftp.login(config("FTP_ID"), config("FTP_PWD"))
         print(self.ftp.getwelcome())
         print('Connected to FTP server')
         

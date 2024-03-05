@@ -1,0 +1,1716 @@
+Int,float,float,int,int,int,varchar,varchar,int,varchar,vharchar,varchar,int,varchar,varchar,varchar
+ID,Pricesold,Cost,Yearsold,Zipcode,Mileage,Make,Model,Year,Trim,Engine,BodyType,NumCylinders,DriveType,Sales_Person,Store
+137178,7500,7506,2020,786**,84430,Ford,Mustang,1988,LX,5.0L Gas V8,Sedan,0,RWD,Franklin Richards,Luisiana
+96705,15000,13776,2019,81006,0,Replica/Kit Makes,Jaguar Beck Lister,1958,,383 Fuel injected,Convertible,8,RWD,Absalon Mercator,Delaware
+119660,8750,9434,2020,33449,55000,Jaguar,XJS,1995,2+2 Cabriolet,4.0L In-Line 6 Cylinder,Convertible,6,RWD,Erik Lensherr,Virgina
+80773,11600,11636,2019,7852,97200,Ford,Mustang,1968,Stock,289 cu. in. V8,Coupe,8,RWD,Jean Grey,Arizona
+64287,44000,31254,2019,7728,40703,Porsche,911,2002,Turbo X-50,3.6L,Coupe,6,AWD,Robert Drake,Delaware
+132695,950,1961,2020,462**,71300,Mercury,Montclair,1965,,NO ENGINE,Sedan,0,RWD,Scott Summers,Virgina
+132829,950,3468,2020,105**,71300,Mercury,Montclair,1965,,,Sedan,0,,James Howlett,Arizona
+5250,70000,50954,2019,7627,6500,Land Rover,Defender,1997,,4.0 Liter Fuel Injected V8,,0,4WD,Franklin Richards,Delaware
+29023,1330,3860,2019,7043,167000,Honda,Civic,2001,EX,,Coupe,4,FWD,Absalon Mercator,Virgina
+80293,25200,21002,2019,33759,15000,Pontiac,GTO,1970,,,,0,,Franklin Richards,Arizona
+158271,20000,17019,2020,333**,51674,Jeep,Wrangler,2015,SPORT,3.6L Flexible V6,SUV,6,4WD,Absalon Mercator,Luisiana
+72418,14100,11717,2019,7014,109500,Jeep,Wrangler,2012,Unlimited,3.6L,SUV,6,4WD,Franklin Richards,Delaware
+91661,5700,7623,2020,76051,1000000,Ford,F-100,1949,,,Standard Cab Pickup,8,RWD,Absalon Mercator,Luisiana
+119358,6000,6991,2020,384**,101501,Toyota,Prius,2009,,1.5L Electric and Gas Hybrid I4,4 door/hatchback,4,FWD,Robert Drake,Delaware
+131969,4000,4378,2020,027**,118513,Toyota,Celica,1985,,2.8L Gas I6,Hatchback,0,RWD,Scott Summers,Luisiana
+84062,3820,5626,2019,V1W 5L6,377000,Jeep,Wrangler,1997,,4,,6,AWD,James Howlett,Delaware
+144540,3330,2768,2020,856**,47692,Buick,LeSabre,2004,CUSTOM,3.8L Gas V6,Sedan,6,FWD,Erik Lensherr,Luisiana
+142951,650,959,2020,628**,99999,Austin,,1970,,,,0,,Jean Grey,Delaware
+142336,1480,1823,2020,601**,166000,Nissan,Altima,2006,,,Sedan,6,,Franklin Richards,Luisiana
+59728,18550,16081,2019,60448,6714,Chevrolet,Camaro,2002,"Z28,SS,SLP",5.7 liter v8,Coupe,8,RWD,Absalon Mercator,Delaware
+74813,4300,4306,2019,76705,140309,Ford,F-100,1960,,223,Standard Cab Pickup,6,RWD,Erik Lensherr,Luisiana
+74812,4750,3960,2019,76705,151361,Ford,F-250,1978,Ranger XLT,460,Standard Cab Pickup,8,RWD,Jean Grey,Delaware
+78263,3050,2521,2020,7840,95600,Nissan,Maxima,2004,SE,3.5L,Sedan,6,FWD,Robert Drake,Luisiana
+78272,4050,3614,2020,7840,100427,Nissan,Altima,2009,Hybrid,2.5L DOHC,Sedan,4,FWD,Franklin Richards,Delaware
+45651,5390,4649,2019,7840,134000,Chrysler,300 Series,2009,,5.7L HEMI,,8,AWD,Absalon Mercator,Luisiana
+136843,4050,4236,2020,078**,82301,Toyota,Corolla,2008,,,Sedan,4,FWD,Erik Lensherr,Delaware
+136599,5000,4390,2020,078**,92605,Toyota,Tacoma,2002,,,Standard Cab Pickup,4,RWD,Jean Grey,Delaware
+136841,3550,3773,2020,078**,87201,Subaru,Impreza,2008,,,Sedan,4,AWD,Robert Drake,Virgina
+77898,3500,4899,2019,7840,144868,Honda,CR-V,2006,LX,2.4L VTECH,SUV,4,FWD,Absalon Mercator,Arizona
+77900,2550,4876,2019,7840,174102,Toyota,Yaris,2009,,1.5L DOHC 16V,,4,FWD,Franklin Richards,Delaware
+78273,1730,2207,2020,7840,93100,Chevrolet,Aveo,2009,,,,4,FWD,Absalon Mercator,Delaware
+116641,3020,2611,2020,6810,94700,Jeep,Liberty,2011,,,,0,,Robert Drake,Delaware
+79126,17980,14894,2019,11727,64020,Oldsmobile,442,1967,,400 turbo engine,2 Door Hard Top,0,,Scott Summers,Delaware
+84279,3400,4314,2019,60542,182000,Jeep,Grand Cherokee,2005,,5.7 liter 8 Cylinder Hemi,SUV,8,4WD,James Howlett,Delaware
+8978,4600,3905,2019,60542,180000,Mercedes-Benz,S-Class,2003,S55 AMG,m1135 5.4 Liter Supercharged,Sedan,8,RWD,Erik Lensherr,Delaware
+117593,2500,3310,2020,605**,125000,Porsche,944,1985,,2.5L Gas I4,Coupe,0,RWD,Jean Grey,Delaware
+62409,18000,12956,2019,16048,22000,Studebaker,Daytona,1964,,289,Wagon,8,,Franklin Richards,Delaware
+145186,10600,10292,2020,160**,12057,Studebaker,Daytona,1964,,,Wagon,8,,Absalon Mercator,Delaware
+153239,8800,6790,2020,329**,13127,Chevrolet,Corvette,1976,L82,,Coupe,0,,Erik Lensherr,Delaware
+117385,15500,12995,2020,11427,40500,Toyota,Sienna,2015,,,,6,,Jean Grey,Delaware
+160148,2000,3985,2020,601**,167435,Chevrolet,Astro,2001,,4.3L Gas V6,Standard Cargo Van,6,AWD,Robert Drake,Delaware
+57895,560,3109,2019,48225,95918,Ford,Thunderbird,1979,,V8,,8,,Franklin Richards,Delaware
+76801,24600,17879,2019,59101,50,Chevrolet,Nova,1968,Pro Street 540BBC,540 BBC,Coupe,8,RWD,Absalon Mercator,Delaware
+45861,45400,33565,2019,59101,2357,Ford,Mustang,2016,Roush,5.0L Supercharged,Coupe,8,RWD,Erik Lensherr,Luisiana
+55855,49810,38747,2019,13039,2640,Dodge,Charger,2016,SRT Hellcat,6.2L Supercharged,Sedan,8,RWD,Jean Grey,Luisiana
+129741,3500,3675,2020,871**,106433,Mazda,MX-5 Miata,1994,,1.8,,0,,Robert Drake,Luisiana
+68560,20000,17934,2019,87120,106555,Ford,Bronco,1967,,,,6,,Robert Drake,Luisiana
+138692,6100,5203,2020,130**,88600,Ford,Mustang,1988,,,Convertible,8,RWD,Robert Drake,Luisiana
+9704,17000,13128,2019,72223,0,Dodge,Other,1936,,,,0,,Franklin Richards,Luisiana
+19688,3810,4820,2019,37642,80000,Chevrolet,Bel Air/150/210,1957,Chrome,v8,Wagon,8,RWD,Absalon Mercator,Arizona
+102288,5600,7314,2019,60491,143250,Cadillac,CTS,2010,Performance,3.6,Wagon,6,AWD,Franklin Richards,Arizona
+88979,6500,6151,2019,6268,89000,Cadillac,Allante,1988,,4.1 Liter V-8,2-seater convertible,8,FWD,Absalon Mercator,Arizona
+64048,500,3693,2019,90028,40000,Buick,Riviera,1977,,,,0,,Erik Lensherr,Arizona
+50079,16450,13145,2019,59806,4327,Ford,TUDOR,1946,,350,Sedan,8,RWD,Jean Grey,Arizona
+157991,4000,3046,2020,197**,264000,Ford,E-450 Super Duty,2009,E450 SUPER DUTY COMMERCIAL STRIPPED CHASSIS,5.4L Gas V8,,0,RWD,Robert Drake,Arizona
+126032,5100,7060,2020,322**,99200,Jaguar,XJR,2004,XJR,4.2 V8,Sedan,8,RWD,Scott Summers,Arizona
+67537,760,1610,2019,32533,144002,Ford,Mustang,1987,LX,5.0 V8,Coupe,8,RWD,James Howlett,Arizona
+92293,13410,11177,2019,75904,51793,Ford,Mustang,1992,GT,5.0L V8,Coupe,8,RWD,Franklin Richards,Arizona
+77211,1000,2757,2019,75758,234110,Chevrolet,HHR,2008,,2.2L,LL,4,FWD,Absalon Mercator,Arizona
+90242,5600,5046,2019,,85000,Mercedes-Benz,G-Class,1990,,2990,Wagon,0,,Franklin Richards,Virgina
+111571,2150,4392,2020,337**,216932,Mercedes-Benz,300-Series,1991,300D Diesel No Minimum No Reserve,Diesel,Sedan,5,RWD,Absalon Mercator,Virgina
+1559,4940,5029,2019,33731,168544,Mercedes-Benz,300-Series,1991,300D Diesel Low Miles No Reserve Auction,2.5 L Diesel,Sedan,5,,Franklin Richards,Virgina
+32742,8600,6796,2019,33731,70850,Mercedes-Benz,SL-Class,1991,,,,8,,Absalon Mercator,Virgina
+131515,9600,7615,2020,402**,18100,Cadillac,Fleetwood,1984,Brougham dâ€™Elegance,4.1L V8 OHV 16V,Sedan,8,RWD,Robert Drake,Virgina
+51342,20500,15636,2019,40222,97000,GMC,Suburban,2011,LTZ,V8,,0,4WD,Erik Lensherr,Virgina
+44820,16000,13324,2019,40222,24800,BMW,7-Series,1998,,V8,Sedan,0,,Jean Grey,Virgina
+51171,31000,23200,2019,40222,26000,Maserati,Gran Turismo,2009,S,4.7 liter,Coupe,8,,Robert Drake,Virgina
+149334,10000,8579,2020,800**,101862,Cadillac,DeVille Sedan,1966,,7.0l,Sedan,0,RWD,Absalon Mercator,Virgina
+47786,11500,9070,2019,80020,155861,Plymouth,Belvedere,1966,BASIC,v8 383,Convertible,8,RWD,Franklin Richards,Arizona
+150216,5000,4921,2020,800**,170285,BMW,3-Series,1989,I AUTOMATIC,2.5L Gas I6,Convertible,6,RWD,Absalon Mercator,Arizona
+19071,15000,14369,2019,90260,6756,Ford,Model A,1931,Cabriolet,4cyl,Convertible,4,RWD,Robert Drake,Arizona
+96419,22770,19414,2019,5733,31008,Ford,Wagon,1949,,350 ci,Wagon,8,,Scott Summers,Virgina
+44319,15700,13663,2019,16001,81976,Dodge,Sprinter,2006,3500 CARGO VAN,2.7L Turbocharged Diesel,Cargo Van,5,RWD,James Howlett,Virgina
+81191,69000,48966,2019,,49983,Mercedes-Benz,SLS AMG,2012,,,,0,,Erik Lensherr,Virgina
+137943,25100,21034,2020,730**,99999,Dodge,Challenger,1970,SE,440 Magnum,Coupe,8,RWD,Jean Grey,Virgina
+88927,1380,3476,2019,83860,100000,Chevrolet,Bel Air/150/210,1956,,,Sedan,6,RWD,Franklin Richards,Virgina
+121144,3500,5471,2020,430**,101249,Chrysler,300 Series,2006,TOURING,3.5L MPI 24-VALVE HO V6,Sedan,6,RWD,Absalon Mercator,Virgina
+155642,29000,22930,2020,386**,25165,Chevrolet,Corvette,2007,,,Coupe,0,,Erik Lensherr,Virgina
+59517,4000,5064,2019,33707,210500,Chevrolet,Silverado 2500,2002,LT,6.6L Turbo Diesel Duramax,Crew Cab Pickup,8,4WD,Jean Grey,Luisiana
+56873,10010,9557,2019,1501,21632,Chevrolet,Camaro,1987,,350,Coupe,8,RWD,Franklin Richards,Luisiana
+5550,34200,26197,2018,90046,21750,Ferrari,Mondial,1989,T Cabriolet,,Convertible,8,,Absalon Mercator,Arizona
+46260,5500,5470,2019,86314,10000,Volkswagen,Beetle - Classic,1973,,1600 Dual Port,Coupe,4,RWD,Franklin Richards,Arizona
+73673,5000,6371,2019,48450,286731,Chevrolet,C/K Pickup 3500,1997,Slt,6.5L V8 Diesel,Extended Cab Pickup,8,RWD,Absalon Mercator,Arizona
+84557,3900,4991,2019,59601,186207,Mercedes-Benz,S-Class,2007,S550 4dr Sedan 5.5L V8 4MATIC,,Sedan,8,,Robert Drake,Arizona
+15603,16600,15400,2019,65080,1008,Ford,Mustang,1967,GT,351 V-8,Coupe,8,RWD,Scott Summers,Arizona
+159763,9400,8072,2020,950**,56054,Ford,Mustang,1985,GT,5.7L Gas V8,Convertible,8,RWD,James Howlett,Delaware
+159811,30000,21243,2020,950**,18745,Ford,Bronco,1973,EXPLORER,302,SUV,8,4WD,Erik Lensherr,Delaware
+94091,750,3688,2019,10541,184923,Lexus,ES,1998,,,,6,FWD,Jean Grey,Delaware
+132490,5100,5054,2020,870**,58694,Chevrolet,Other Pickups,1983,Silverado,6.2L Diesel V8,Crew Cab Pickup,8,RWD,Franklin Richards,Delaware
+161768,3700,6156,2020,708**,51939,BMW,X1,2014,,,,4,AWD,Absalon Mercator,Luisiana
+85945,3500,2734,2019,46319,60200,Dodge,Power Wagon,1977,M880/W200,5.2 Liter 318 V8,Standard Cab Pickup,8,4WD,Erik Lensherr,Luisiana
+58533,9600,8663,2019,49068,0,Dodge,Dart,1973,Swinger,408 stroker,Sedan,8,RWD,Jean Grey,Luisiana
+60897,1500,2568,2019,2445,220,Toyota,Tundra,2000,Base,6 cylinder,Standard Cab Pickup,6,RWD,Robert Drake,Luisiana
+91309,6700,5767,2020,85017,100000,Jeep,CJ,1978,,360 AMC V8,SUV,8,4WD,Franklin Richards,Arizona
+139014,7100,6651,2020,750**,135000,Porsche,Boxster,1999,,,Convertible,6,RWD,Absalon Mercator,Arizona
+158856,31100,23222,2020,296**,999999,Chevrolet,Blazer,1972,,350,SUV,0,4WD,Erik Lensherr,Delaware
+165573,2650,4721,2020,330**,89592,Ford,Mustang,1993,LX,2.3L Gas I4,Convertible,4,RWD,Jean Grey,Delaware
+164846,2850,4088,2020,330**,127001,Jaguar,XK8,1998,,4.0L Gas V8,Coupe,8,RWD,Robert Drake,Delaware
+165408,3900,3832,2020,330**,89759,Jaguar,XK8,1999,2 Door Convertible,4.0L Gas V8,Convertible,8,RWD,Absalon Mercator,Delaware
+129794,2720,2600,2020,330**,92450,Jaguar,XK8,1997,,4.0 V8,Convertible,8,RWD,Franklin Richards,Luisiana
+165147,3950,5454,2020,330**,143001,Jaguar,XK8,1997,,4.0L Gas V8,Coupe,8,RWD,Absalon Mercator,Luisiana
+165327,4600,3950,2020,330**,109321,Jaguar,XK8,1999,2 Door Convertible,4.0L Gas V8,Convertible,8,RWD,Robert Drake,Luisiana
+33291,25000,19921,2019,95355,11885,Chevrolet,C-10,1968,Short bed step side,427,Truck,0,2 wheel drive,Scott Summers,Luisiana
+74172,9930,10212,2019,92037,12551,Replica/Kit Makes,,1983,,1600cc,,4,RWD,James Howlett,Luisiana
+140294,5010,4713,2020,857**,323000,Mercedes-Benz,300-Series,1979,300CD,5 cylinder 3.0L Diesel,Coupe,5,RWD,Erik Lensherr,Luisiana
+161889,3150,3300,2020,199**,98000,Ford,Thunderbird,1960,,,,0,,Jean Grey,Arizona
+136503,2030,4380,2020,840**,225000,Ford,Mustang,2003,GT,4.6L Gas V8,Convertible,8,RWD,Franklin Richards,Arizona
+41416,4110,4612,2019,34479,62241,Oldsmobile,66,1947,,,Sedan,6,RWD,Absalon Mercator,Delaware
+116134,3050,3497,2020,232**,54856,Mercedes-Benz,200-Series,1973,,6,,6,RWD,Erik Lensherr,Delaware
+116133,920,3888,2020,232**,76494,Volkswagen,Karmann Ghia,1974,,4,Convertible,4,RWD,Jean Grey,Virgina
+131274,850,4225,2020,140**,234000,Volkswagen,Passat,2004,GLS TDI,2.0L Diesel I4,Sedan,4,FWD,Robert Drake,Virgina
+105651,6200,7447,2020,76063,10,Ford,Mustang,1971,Mach 1,351C,Fastback,8,RWD,Scott Summers,Virgina
+132281,41500,30833,2020,117**,16000,Ford,Mustang,2018,,,Coupe,0,,Scott Summers,Virgina
+71334,2000,4293,2019,32223,153451,BMW,3-Series,2006,325i,3.0 I6,Sedan,6,RWD,Scott Summers,Virgina
+51180,14100,11315,2019,53511,99999,Ford,Mustang,1966,,5.0L 302ci,Fastback,8,RWD,Scott Summers,Virgina
+102536,23000,17671,2019,25313,79990,Chevrolet,Bel Air/150/210,1956,150 Patina RatRod Hotrod,350,Sedan,8,RWD,Scott Summers,Luisiana
+102329,34000,26194,2019,25313,57190,Dodge,Ram 3500,2011,Laramie,6.7,Crew Cab Pickup,6,4WD,Scott Summers,Luisiana
+49249,4200,4842,2019,25313,1234567,Chevrolet,Bel Air/150/210,1956,210 Patina,None,Wagon,0,RWD,Scott Summers,Arizona
+66877,15000,12601,2019,25313,13901,Dodge,Power Wagon,1978,Ram 1500,318,Standard Cab Pickup,8,4WD,Scott Summers,Arizona
+102221,6110,6945,2019,25313,130000,International Harvester,Other,1952,RatRod,3.9 V6,Standard Cab Pickup,6,RWD,Scott Summers,Arizona
+87061,6200,4687,2019,33023,0,Austin Healey,3000,1961,,,,6,,Scott Summers,Arizona
+72404,2130,1929,2019,93722,182,Ford,F-350,2002,,7.3 Diesel,Crew Cab Pickup,8,FWD,Scott Summers,Arizona
+121588,3000,3156,2020,840**,25848,Dodge,Charger,1974,Se Brougham,400 cu,,8,RWD,Scott Summers,Delaware
+1326,8650,6758,2019,65721,79400,Ford,Mustang,1997,Roush Cobra,4.6 32 valve,Coupe,8,RWD,Scott Summers,Delaware
+91901,8200,8452,2019,4284,50000,Cadillac,Other,1937,LIMOUSINE,346 cubic inches,Limousine,8,RWD,Scott Summers,Delaware
+91820,1080,2698,2019,4284,60000,Riley,,1953,Four door,Six cylinder,Sedan,6,RWD,Scott Summers,Delaware
+91902,5500,7518,2019,4284,50000,Packard,,1940,,,,0,,Scott Summers,Luisiana
+54860,600,1881,2019,66002,190000,Chevrolet,Malibu,2011,,,,0,,Scott Summers,Luisiana
+131464,7100,5997,2020,342**,100000,Chevrolet,Corvette,1994,,"5,7",cpe,8,RWD,Scott Summers,Luisiana
+71362,2800,2783,2019,34203,108060,Pontiac,Firebird,1987,,5.7,,8,RWD,Scott Summers,Luisiana
+58216,2500,2886,2019,34203,100000,Pontiac,Firebird,1987,,350,fast back,8,RWD,Scott Summers,Arizona
+39425,26000,18788,2019,34203,100000,Chevrolet,Bel Air/150/210,1957,,283,Coupe,8,RWD,Scott Summers,Arizona
+159715,6300,4636,2020,217**,92500,Ford,Mustang,2002,,,Convertible,8,,Scott Summers,Virgina
+32080,6430,5500,2019,21702,82000,Ford,Mustang,2003,GT,,Convertible,8,RWD,Scott Summers,Arizona
+126322,10650,10558,2020,217**,84000,Chevrolet,Monte Carlo,1987,ss,350,Coupe,8,RWD,Scott Summers,Delaware
+102867,9600,8661,2019,21702,72000,Chevrolet,Monte Carlo,1988,SS,305,Coupe,8,RWD,Scott Summers,Virgina
+159144,17000,15271,2020,,30000,Chevrolet,Monte Carlo,1987,SS,,Coupe,8,RWD,Scott Summers,Arizona
+66971,6400,5004,2019,21702,100,Oldsmobile,442,1987,,350,Coupe,8,RWD,Jean Grey,Luisiana
+122603,6360,7839,2020,29404,62123,Dodge,Power Wagon,1978,CAMPER SPECIAL,400,Extended Cab Pickup,8,2WD,Jean Grey,Delaware
+130344,6500,5951,2020,184**,31750,Volkswagen,Beetle (Pre-1980),1978,,4 cyl 1.6 ltr fuel injected engine,Convertible,0,RWD,Jean Grey,Luisiana
+49349,17000,12624,2019,91302,21861,Nash,,1961,Convertible,4 Cyl,Convertible,4,,Jean Grey,Delaware
+123670,16000,14214,2020,95124,30000,International Harvester,150,1975,,345 V8,Standard Cab Pickup,8,4WD,Jean Grey,Luisiana
+73591,720,4138,2020,33774,100000,Ford,Ranchero,1978,500,351,Pickup,8,RWD,Jean Grey,Delaware
+48143,12000,11630,2019,23604,12360,Chevrolet,Camaro,2002,SS SLP,LS1 V8,Coupe,0,,Jean Grey,Luisiana
+122601,10500,10420,2020,7901,89000,Jeep,Wrangler,2005,,4 L,SUV,6,,Jean Grey,Delaware
+89912,13700,13010,2019,47150,68000,Chevrolet,Corvette,2001,Red,V-8,Convertible,8,RWD,Jean Grey,Luisiana
+89909,4500,4095,2019,47150,186000,Jeep,Wrangler,1991,,,Convertible,4,4WD,Jean Grey,Delaware
+108166,2080,4966,2020,20744,110000,Pontiac,Grand Prix,2005,GTP,,,6,,Jean Grey,Luisiana
+73586,6800,6205,2020,78589,252600,Chevrolet,C/K Pickup 1500,1989,Silverado,5.0 Liter V8,Standard Cab Pickup,8,RWD,Jean Grey,Delaware
+122806,12100,9782,2020,20785,95000,Ford,Mustang,2003,SVT Cobra,4L SC V8 double overhead cam (DOHC) 32V,2dr Car,8,2dr Cpe SVT Cobra,Jean Grey,Luisiana
+152534,3500,3135,2020,207**,216000,Mercury,Marauder,2003,,,,8,,Jean Grey,Delaware
+45088,1030,1154,2019,29625,100000,Ford,Mustang,1968,,302,,8,,Jean Grey,Luisiana
+13647,3250,2656,2019,79015,53085,Jeep,CJ,1977,,V8 304,,8,4WD,Absalon Mercator,Delaware
+151984,27600,21227,2020,216**,2500,Chevrolet,C-10,1967,,,,0,,Absalon Mercator,Delaware
+81245,6600,8260,2019,1031,0,Other Makes,Devin Crosley,1950,,Crosley,Convertible,4,RWD,Absalon Mercator,Virgina
+149332,13280,12839,2020,337**,0,Plymouth,Barracuda,1967,,318,Fastback,8,RWD,Absalon Mercator,Arizona
+18176,1930,4427,2019,33069,70728,Chevrolet,Camaro,1987,IROC-Z,V8,Coupe,8,RWD,Absalon Mercator,Delaware
+88803,3050,3372,2019,33062,5000,Volkswagen,Beetle - Classic,1977,,1300CC,Convertible,4,,Absalon Mercator,Delaware
+75800,10000,8585,2019,33478,274000,Ford,F-350,2001,Lariat,,Extended Cab Pickup,8,4WD,Absalon Mercator,Delaware
+42405,560,3548,2019,61008,143344,Chevrolet,Impala,2003,,3.8,Sedan,6,FWD,Absalon Mercator,Delaware
+1013,15100,11159,2019,27976,1,Chevrolet,C-10,1969,,V8,Standard Cab Pickup,0,4WD,Absalon Mercator,Delaware
+17667,1280,1374,2019,43725,79652,Ford,Fairmont,1979,,2.3 liter,Sedan,6,RWD,Absalon Mercator,Delaware
+90583,30100,23967,2019,,112000,Hummer,H1,2001,,6.5 TD,SUV,8,4WD,Absalon Mercator,Delaware
+109930,610,2276,2019,14830,22943,Pontiac,Grand Am,1992,GT,3.3L,Coupe,6,FWD,Absalon Mercator,Delaware
+109929,1080,4395,2019,14830,212412,Nissan,Titan,2004,SE,5.6L V8,Crew Cab Pickup,8,4WD,Absalon Mercator,Delaware
+109824,41400,32665,2019,14830,12952,Alfa Romeo,4C,2016,SPIDER,1.7L,Convertible,4,RWD,Robert Drake,Delaware
+146207,10000,10808,2020,549**,5000,Chevrolet,Other Pickups,1969,,,,8,RWD,Robert Drake,Luisiana
+47269,6300,4821,2019,54913,112000,Mercedes-Benz,SL-Class,1990,,3.0 inline 6,Convertible,6,,Robert Drake,Luisiana
+8670,185000,132010,2019,6000,30000,Ferrari,Mondial,1953,,4 cyl,barchetta,0,,Robert Drake,Luisiana
+123240,28500,20480,2020,442**,7200,Ford,Mustang,2007,SHELBY GT500,5.4L Gas V8,Coupe,0,RWD,Robert Drake,Luisiana
+140773,1720,2138,2020,467**,307540,Subaru,Baja,2003,,,,0,,Robert Drake,Luisiana
+140891,23500,17132,2020,028**,26949,Pontiac,Le Mans,1966,Sports Coupe,326 V8,Coupe,8,RWD,Robert Drake,Luisiana
+79902,7800,8510,2019,40356,115100,Dodge,Ram 2500,2001,,,,0,,Robert Drake,Arizona
+93212,4200,4625,2019,91770,33000,Lexus,IS,2009,,,,8,,Robert Drake,Arizona
+1295,15000,12591,2019,90045,50000,Ford,,1934,,429 Cad V8,,0,,Robert Drake,Arizona
+1297,15800,13215,2019,90045,50000,Chevrolet,Other Pickups,1937,,350 Small Block Chevy,Standard Cab Pickup,0,,Robert Drake,Arizona
+139779,32000,24796,2020,900**,34498,Ford,Mustang,2007,GT,302,Coupe,8,RWD,Robert Drake,Arizona
+123157,44100,31656,2020,750**,3096,Jeep,Wrangler,2018,RUBICON JL,,SUV,6,4WD,Robert Drake,Delaware
+16265,12600,11342,2019,75032,1000,Ford,Mustang,1989,lx coupe,5,Coupe,8,,Franklin Richards,Delaware
+16264,17000,14248,2019,75032,51370,Ford,Mustang,1991,GT,347CI V8,Hatchback,8,RWD,Franklin Richards,Delaware
+144927,4150,6661,2020,917**,274000,Lincoln,Town Car,2007,,,Limousine,8,,Franklin Richards,Delaware
+75758,7000,5610,2019,92108,102700,BMW,M3,2005,Automatic,3.2,Convertible,6,RWD,Franklin Richards,Luisiana
+82230,3000,5290,2019,27295,73000,Pontiac,Trans Am,1975,,,,0,,Franklin Richards,Luisiana
+152133,20100,16724,2020,,77000,Chevrolet,Malibu,1968,,,,0,,Franklin Richards,Luisiana
+95366,10500,10168,2020,,66000,Chevrolet,Corvette,2004,,350,,8,RWD,Franklin Richards,Luisiana
+94313,5550,6363,2019,2720,44000,Cadillac,Seville,1977,,,Sedan,8,RWD,Franklin Richards,Luisiana
+31668,9600,7844,2019,2720,1000000,AMC,Hornet,1973,,304 V8,Hatchback,8,RWD,Franklin Richards,Luisiana
+149316,7700,6628,2020,91***,36333,Chevrolet,Other Pickups,1955,,,,4,,Franklin Richards,Delaware
+96819,5000,6400,2019,32817,101677,Pontiac,GTO,2004,,Ls1 5.7,Coupe,8,RWD,Franklin Richards,Virgina
+118395,1160,4769,2020,,219721,Honda,Accord,2002,ex,,Sedan,4,FWD,Franklin Richards,Arizona
+86290,1110,1639,2019,21037,225000,Nissan,300ZX,1988,base,v6,Coupe,6,rear,Franklin Richards,Delaware
+145400,450,1195,2020,210**,188888,Volkswagen,Touareg,2005,,,,0,AWD,Franklin Richards,Virgina
+138219,10200,10966,2020,760**,44671,Plymouth,Roadrunner,1969,,383,Sedan,8,RWD,Jean Grey,Arizona
+13696,3750,3004,2019,4957,83552,Ford,Mustang,1995,gt,5,Convertible,8,RWD,Robert Drake,Delaware
+13695,6000,6088,2019,4957,100000,Pontiac,GTO,1971,,none,,0,RWD,Franklin Richards,Virgina
+108990,4500,4528,2019,2301,100000,Ford,Mustang,1969,,351w,Fastback,8,RWD,Absalon Mercator,Arizona
+108784,25060,19666,2019,2301,100000,Dodge,Challenger,1971,rt,340,Coupe,8,RWD,Erik Lensherr,Luisiana
+158107,8000,9343,2020,023**,135000,Dodge,Charger,1973,se,318,Coupe,8,RWD,Jean Grey,Delaware
+121467,3500,4025,2020,335**,73500,Cadillac,DTS,2007,Professional,,Sedan,0,,Robert Drake,Luisiana
+151282,14500,13754,2020,446**,102000,Ford,Explorer,2014,,,SUV,6,4WD,Absalon Mercator,Delaware
+151928,15500,12982,2020,446**,86000,Chevrolet,C1500,1993,C1500,7.4L Gas V8,Pickup,8,RWD,Franklin Richards,Luisiana
+14523,12500,10709,2019,44691,179523,Toyota,Tundra,2007,Crew Max Limited Double Cab,5.7 Liter V-8,Crew Cab Pickup,0,4WD,Absalon Mercator,Delaware
+9643,3750,2880,2019,85014,0,Chevrolet,Other Pickups,1966,,455 olds,,8,4WD,Robert Drake,Luisiana
+113595,6500,6959,2020,89178,7,Oldsmobile,Cutlass,1973,,350 v8,Coupe,8,RWD,Scott Summers,Delaware
+116329,5000,4784,2020,853**,107777,Dodge,Charger,2006,R/T,Hemi,Sedan,8,RWD,James Howlett,Luisiana
+142084,2750,2867,2020,427**,60000,Hyundai,Genesis,2012,,,Coupe,0,RWD,Erik Lensherr,Delaware
+3731,8360,6837,2019,74451,100,Dodge,Other,1929,none,460,Coupe,8,RWD,Jean Grey,Luisiana
+28827,10000,8944,2019,32514,80797,Ford,Mustang,1966,Convertible,,Convertible,6,RWD,Franklin Richards,Delaware
+90857,4500,7052,2019,85326,0,Chevrolet,Camaro,1971,,v8,,0,,Absalon Mercator,Luisiana
+7805,970,1083,2019,16667,104805,Ford,Bronco,1989,Custom,5,SUV,8,4WD,Erik Lensherr,Delaware
+61535,1320,2855,2019,16667,162461,Honda,Accord,2008,,,Sedan,4,FWD,Jean Grey,Luisiana
+153904,10000,9471,2020,927**,70653,Buick,Riviera,1965,,,Sedan,8,,Robert Drake,Delaware
+118451,19500,15900,2020,275**,46239,Honda,Odyssey,2016,EX-L with DVD Rear Entertainment,Gasoline - V-6 3.5 L,Minivan,6,FWD,Scott Summers,Delaware
+51853,33000,25493,2019,61010,11200,Ford,Mustang,2011,Shelby GT500,5.4 Supercharged,Coupe,8,RWD,Absalon Mercator,Virgina
+4525,710,3500,2019,44147,140979,Ford,Ranger,1999,,4.0 LITER,,6,4WD,Erik Lensherr,Arizona
+4333,1580,2073,2019,44147,176695,GMC,Yukon,2001,,6.0 LITER,SUV,8,4WD,Jean Grey,Delaware
+3628,1580,3747,2019,44147,101410,Toyota,Matrix,2009,Matrix S,2.4 Liter 4-Cylinder,,4,FWD,Robert Drake,Delaware
+4334,1010,1954,2019,44147,200781,BMW,5-Series,2000,,2.8l L6,,6,,Scott Summers,Delaware
+16682,2900,3064,2019,38017,265000,Ford,F-150,2008,XLT,5.4,Extended Crew Cab Pickup,8,2WD,James Howlett,Delaware
+134576,5100,6381,2020,482**,91062,Ford,Mustang,1996,COBRA,4.6L Gas V8,Convertible,0,RWD,Franklin Richards,Delaware
+19049,7370,6416,2019,48239,137999,Ford,F-350,1999,Lariat,7.3 Diesel,Crew Cab Pickup,0,4WD,Absalon Mercator,Delaware
+85457,7700,7551,2020,13167,42630,Pontiac,GTO,1969,Gto,400,Coupe,8,Automatic,Franklin Richards,Delaware
+142945,10560,11177,2020,131**,48832,Chevrolet,Suburban,2007,K2500,6.0L Gas V8,SUV,8,4WD,Absalon Mercator,Delaware
+143064,6700,6366,2020,131**,150447,Subaru,Impreza,2006,,,Sedan,4,,Absalon Mercator,Delaware
+45724,2030,5159,2019,90703,127456,Mitsubishi,3000GT,1999,,V6,Coupe,6,RWD,Erik Lensherr,Delaware
+112230,8000,7522,2020,28601,52500,CHEVROLET,SEDAN,1931,2 DOOR SEDAN,INLINE 6,SEDAN,6,RWD,Jean Grey,Delaware
+58226,15200,11866,2019,28601,13935,Ford,F-150,2013,XL,V6,Standard Cab Pickup,6,RWD,Robert Drake,Delaware
+111691,9100,8044,2020,286**,37858,Cadillac,Fleetwood,1995,FLEETWOOD BROUGHAM,5.7L LT1 V8,Sedan,8,RWD,Scott Summers,Delaware
+1047,12700,12214,2019,28601,75688,Chevrolet,Silverado 1500,1987,,V8 350,TRUCK,8,4WD,James Howlett,Delaware
+71911,6200,8308,2020,28601,197320,Nissan,Frontier,2007,CREW CAB LE,V6 4.0,Crew Cab Pickup,6,4WD,Franklin Richards,Luisiana
+158121,5200,7169,2020,286**,131259,BMW,3-Series,2007,,,Coupe,6,,Absalon Mercator,Luisiana
+801,9600,7539,2018,28601,26478,Dodge,Charger,1973,CHARGER,V8 318,Coupe,8,RWD,Franklin Richards,Luisiana
+158023,41100,32551,2020,286**,90565,Dodge,Charger,1968,,,,8,RWD,Absalon Mercator,Luisiana
+89280,6100,4895,2019,6804,73411,Chevrolet,Corvette,1978,25th Silver Anniversary Original Paint 90+ HD Pics,350 L48 - V8,Coupe,8,RWD,Absalon Mercator,Luisiana
+119940,14000,13640,2020,068**,63085,Chevrolet,Silverado 1500,2010,Work Truck,4.8L V8 16V,Pickup Truck,8,4WD,Erik Lensherr,Luisiana
+84981,540,4180,2019,53042,32000,Chevrolet,Other,1975,,350,,8,,Jean Grey,Arizona
+100610,1730,4528,2019,65018,177000,Ford,Thunderbird,1994,super coupe,3.8 supercharged,Coupe,6,RWD,Robert Drake,Arizona
+93199,20100,15490,2019,80209,0,Replica/Kit Makes,,1968,,,,8,,Scott Summers,Arizona
+100369,3930,6029,2019,2703,999999,DODGE CHARGER,Bbody,1973,BBODY,383,,8,RWD,James Howlett,Arizona
+135601,4500,5142,2020,076**,50500,MG,MGB,1980,,1.8 numbers matching,Convertible,0,RWD,Franklin Richards,Arizona
+84574,1500,1360,2019,34652,103000,Mini,Cooper S,2013,,,,0,,Absalon Mercator,Arizona
+93351,1000,2849,2019,52410,75000,Pontiac,Grand Prix,2003,,3100,,6,,Franklin Richards,Arizona
+94282,8500,9545,2019,87035,75000,Plymouth,Duster,1970,Valiant,225,Coupe,6,RWD,Absalon Mercator,Arizona
+68275,20600,15469,2019,2493,65000,Chevrolet,Blazer,1972,K5,350ci V8,Truck 4x4,8,,Absalon Mercator,Arizona
+39367,7100,7411,2019,85339,1,Chevrolet,Impala,1964,"Super Sport, SS",,,8,,Erik Lensherr,Arizona
+8351,4500,5044,2019,85339,1,Dodge,Charger,1966,,361,,8,,Jean Grey,Virgina
+106689,2740,2634,2020,92649,390000,Dodge,Sprinter,2006,SUPER HIGH CEILING 158WB,2.7L,CARGO VAN,5,RWD,Robert Drake,Virgina
+38120,28500,22072,2019,50249,28000,Mercedes-Benz,Sprinter,2013,"Wheel Chair Lift in Rear Handicap 26,000 Miles",3.0L,Extended Passenger Van,6,RWD,Scott Summers,Virgina
+103380,1730,2379,2019,51028,50432,Chrysler,Cordoba,1979,,,,0,,James Howlett,Virgina
+147367,14000,11837,2020,920**,0,Ford,F-250,1975,,,,0,4WD,Franklin Richards,Virgina
+7314,9900,7510,2019,92592,1,Chevrolet,Nova,1964,Wagon,350,Wagon,0,RWD,Absalon Mercator,Virgina
+41374,500,1897,2019,7921,278594,Dodge,Ram 1500,1997,,5.9,Standard Cab Pickup,8,4WD,Franklin Richards,Virgina
+62269,940,971,2019,7921,122602,Ram,2500,2002,4x4,5.9 gas,Standard Cab Pickup,8,4WD,Absalon Mercator,Virgina
+67193,3550,6052,2019,99148,141095,Ford,Transit Connect,2011,XL,2,VAN,4,FWD,Absalon Mercator,Virgina
+13530,6800,7497,2019,72653,107164,Toyota,Other,1991,DXL,3.0 V6,Extended Cab Pickup,6,4WD,Erik Lensherr,Arizona
+129969,21000,17591,2020,301**,110,Ford,Model T,1927,,V8,Convertible,0,RWD,Jean Grey,Arizona
+34684,1280,1412,2019,72601,0,Jeep,CJ,1948,,GAS,SUV,4,4WD,Robert Drake,Arizona
+17707,5950,7748,2019,DELETED,137000,Ford,Fusion,2013,SE,,Sedan,0,FWD,Scott Summers,Virgina
+46100,3500,6410,2019,60505,19000,Puma,GTC,1983,,1600cc VW,Convertible,4,RWD,James Howlett,Virgina
+87723,34900,27013,2019,30316,119880,Volkswagen,Bus/Vanagon,1967,,,,0,,Franklin Richards,Virgina
+145253,11600,9507,2020,,1075,Other Makes,,1960,,,,0,,Absalon Mercator,Virgina
+145571,6000,6813,2020,320**,3219,Jeep,CJ,1971,,,,0,,Franklin Richards,Virgina
+145735,19350,15366,2020,302**,210015,Volkswagen,Bus/Vanagon,1988,,,,0,,Absalon Mercator,Virgina
+153922,6850,6770,2020,370**,123000,Lincoln,Town Car,2010,SIGNATURE LIMITED,4.6L Flexible V8,Sedan,8,RWD,Franklin Richards,Virgina
+39346,2080,2373,2019,6040,129000,BMW,3-Series,2005,325i Low miles Cold Weather Package Htd seats,2.5L Inline 6,Sedan,6,RWD,Franklin Richards,Luisiana
+84873,5900,7624,2019,15216,57531,Suzuki,Kizashi,2012,Leather Interior,2.4 L,Sedan,4,AWD,Franklin Richards,Luisiana
+14099,6000,5247,2018,11208,144120,Kia,Optima,2015,EX,2.4L,Sedan,4,FWD,Franklin Richards,Arizona
+14077,3950,5920,2018,11208,122603,BMW,3-Series,2007,328i,3.0L,Convertible,6,RWD,Franklin Richards,Arizona
+99962,4050,5437,2019,49015,89823,Ford,E-Series Van,1963,,,Pickup,6,RWD,Franklin Richards,Arizona
+39464,1700,4024,2019,7305,10000,Hummer,H1,1985,,,,0,,Jean Grey,Arizona
+152902,8400,6284,2020,373**,0,Jeep,CJ,1974,,,,0,4WD,Robert Drake,Arizona
+33787,27500,21710,2019,19977,70400,Chevrolet,Chevelle,1966,,396,Coupe,8,RWD,Franklin Richards,Delaware
+58171,8500,6163,2019,30040,330000,Dodge,Ram 2500,2001,,Cummins,Extended Cab Pickup,6,4WD,Absalon Mercator,Delaware
+92475,9500,10309,2019,76115,1000000,Cadillac,60 Special,1959,,390 3x2,Sedan,8,FWD,Erik Lensherr,Delaware
+80139,2500,4619,2019,48509,102000,Buick,Grand National,1985,T-type,,Coupe,6,RWD,Jean Grey,Delaware
+87683,5600,6138,2019,92112,59851,Mercury,Meteor,1963,S-33,260 Windsor V-8 to 302,2 Door Hardtop Coupe,8,RWD,Robert Drake,Luisiana
+33731,1800,5106,2019,66092,76000,Ford,F-350,1989,,,,0,,Absalon Mercator,Luisiana
+45508,5900,7603,2019,66092,147000,Ford,F-450,2006,,,,0,,Franklin Richards,Luisiana
+76082,6100,5909,2019,66092,184300,Toyota,4Runner,2002,SR5,3.4L V6,SUV,6,4WD,Absalon Mercator,Luisiana
+81731,18900,16765,2019,37072,0,Chevrolet,Chevy,1956,,,Wagon,0,,Robert Drake,Arizona
+63220,12100,9469,2019,37087,108000,Porsche,Cayman,2007,,2.7L,Coupe,6,RWD,Scott Summers,Arizona
+132002,2550,2728,2020,754**,100000,Chevrolet,Impala,1960,,,Sedan,0,,James Howlett,Delaware
+33597,11300,10991,2019,83607,93700,Chevrolet,C/K Pickup 1500,1990,,454,,8,RWD,Erik Lensherr,Delaware
+4246,5600,7757,2019,83607,100000000,Chevrolet,C-10,1969,,350,Standard Cab Pickup,8,RWD,Jean Grey,Delaware
+75208,5950,5376,2019,83607,1000000000,Ford,F-250,1978,,400,,8,4WD,Franklin Richards,Delaware
+76527,9010,9005,2020,83607,10000000,Jeep,CJ,1978,Renegade,304,SUV,8,4WD,Absalon Mercator,Luisiana
+69253,12000,9787,2019,21787,17000,Ford,Mustang,2003,,,,0,,Erik Lensherr,Luisiana
+80779,3050,5882,2019,97720,140000,GMC,Suburban,1984,,6.2 diesel,,8,4WD,Jean Grey,Luisiana
+73831,12900,11989,2019,96817,41789,Ford,Mustang,1970,,V8 3514v,2 door convertible,8,,Robert Drake,Luisiana
+51723,10100,9401,2019,96822,134098,Lincoln,Continental,1964,,430,Sedan,8,RWD,Scott Summers,Luisiana
+143243,10100,9010,2020,841**,59114,Jeep,Wrangler,1993,Base,4.0 I6,SUV,6,4WD,Absalon Mercator,Luisiana
+16756,2430,2518,2019,84115,165402,Mazda,B-Series Pickups,1984,Standerd cab truck,2.2,2dr pickup,4,RWD,Erik Lensherr,Arizona
+9082,2130,4355,2019,84115,110272,Mazda,B-Series Pickups,1988,LX,I4 2.2,pickup truck club cab,4,RWD,Jean Grey,Arizona
+29058,1530,5044,2019,22310,158329,Volkswagen,EuroVan,2003,MV,V6,,6,FWD,Robert Drake,Delaware
+32549,2800,5229,2019,29860,111320,Chevrolet,Impala,1969,16469,327 ci,4 dr sedan,8,RWD,Scott Summers,Delaware
+115687,820,4188,2020,945**,10000,Ford,F-150,1972,,360,Extended Cab Pickup,0,2wd,James Howlett,Virgina
+82845,9200,8727,2019,49448,26347,Ford,Mustang,1969,Mach 1,351 Cleveland,Mach 1,8,RWD,Franklin Richards,Virgina
+61475,2000,3256,2019,49441,75029,International Harvester,Scout,1965,,152 comanche,,4,4WD,Absalon Mercator,Virgina
+60504,1700,2797,2019,91901,79933,Chevrolet,Bel Air/150/210,1958,Bel Air,,Hardtop,0,RWD,Franklin Richards,Virgina
+80211,7000,6363,2019,87068,60180,Plymouth,Duster,1974,,,,0,,Absalon Mercator,Virgina
+2373,3600,4674,2019,44875,16000,Ford,f900,1979,,,Tanker,0,,Absalon Mercator,Virgina
+126560,8000,6327,2020,738**,68134,Jeep,J10,1977,Honcho,360 V8,Pickup Truck,8,,Erik Lensherr,Luisiana
+10774,13900,13001,2019,35565,91000,Ford,Mustang,1991,,,,0,,Jean Grey,Luisiana
+47031,3500,5572,2019,94901,172000,BMW,7-Series,1985,,,Sedan,6,RWD,Robert Drake,Arizona
+143210,28100,21890,2020,624**,11000,Ford,Crown Victoria,1955,Chrome,,,8,,Robert Drake,Arizona
+141150,10500,7572,2020,146**,100000,Chevrolet,Chevelle,1970,,,Coupe,0,,Robert Drake,Arizona
+116223,12100,8777,2020,146**,100000,Chevrolet,Corvette,1968,,,Coupe,8,,Robert Drake,Arizona
+32821,19940,16031,2019,43560,24000,Volvo,XC90,2017,Xc90 momentum t6,2.0l turbo super charge,SUV,4,4WD,Franklin Richards,Arizona
+65535,3500,3501,2019,10310,216363,Cadillac,XTS,2013,,,Sedan,6,,Franklin Richards,Delaware
+95815,10500,8609,2019,10310,6866,Land Rover,Evoque,2016,,,,4,AWD,Franklin Richards,Delaware
+45756,1750,3852,2019,92505,280600,Honda,Accord,2003,EX,2.4L,Sedan,4,FWD,Franklin Richards,Delaware
+41596,16600,14455,2019,92672,0,Ford,3 Window Coupe,1935,,n/a,,0,,Robert Drake,Delaware
+42942,1580,4836,2019,89108,0,Volkswagen,Karmann Ghia,1960,,stock,Convertible,4,RWD,Robert Drake,Luisiana
+96135,8100,7681,2019,89108,0,Chevrolet,Brookwood,1959,BROOKWOOD WAGON BARN FIND SURVIVOR PATINA ORIGINAL CAR,6,station wagon,6,RWD,Robert Drake,Luisiana
+111363,6000,7614,2020,7456,151000,Ford,F-350,2004,,,,0,4WD,Robert Drake,Luisiana
+113551,400,516,2020,019**,150321,Volvo,XC90,2006,,2.5l,SUV,5,,Franklin Richards,Luisiana
+119355,15100,11239,2020,288**,165000,Acura,Integra,1996,GSR,1.8L Gas I4,Hatchback,4,FWD,Franklin Richards,Arizona
+143681,14000,12313,2020,170**,152000,BMW,7-Series,2015,,,,0,AWD,Franklin Richards,Arizona
+146666,36200,28011,2020,770**,41950,Jeep,Wrangler,2015,,,SUV,6,4WD,Franklin Richards,Virgina
+88420,4000,3722,2019,85140,71200,Ford,E-Series Van,1970,Chateau,302 c.i. (5.0 litre),Extended Passenger Van,8,RWD,Absalon Mercator,Arizona
+96481,1080,3392,2019,24084,121352,Ford,Explorer,1998,XLT,5,SUV,8,AWD,Absalon Mercator,Delaware
+96480,16100,14030,2019,24084,12094,Chevrolet,Corvette,2005,Coupe,6.0L NA V8 overhead valves (OHV) 16V,Coupe,8,,Absalon Mercator,Virgina
+77855,11000,11509,2019,76234,20787,Ford,Escape,2017,SE,1.5 Ecoboost,SUV,4,FWD,Absalon Mercator,Arizona
+77942,14100,10439,2019,76234,65000,Ford,F-150,2015,XLT,2.7 Ecoboost,Crew Cab Pickup,6,RWD,Absalon Mercator,Luisiana
+59997,7600,6602,2019,76234,172960,Ford,F-250,2005,Lariat,6.0 Powerstroke,Crew Cab Pickup,8,4WD,Absalon Mercator,Delaware
+108809,9600,9310,2019,76234,198226,Ford,F-250,2010,Lariat,6.4 V8,Crew Cab Pickup,8,4WD,Robert Drake,Luisiana
+59963,7200,6586,2019,76234,225600,Chevrolet,Silverado 3500,2006,WT,6.6 Duramax Diesel,Extended Cab Pickup,8,RWD,Robert Drake,Delaware
+77854,5210,4676,2019,76234,835,Nissan,Sentra,2019,SV,,Sedan,4,FWD,Robert Drake,Luisiana
+67338,680,1586,2019,11772,164483,GMC,Yukon,1999,Denali,5.7L,SUV,8,4WD,Robert Drake,Delaware
+92819,1530,3379,2019,95223,243095,BMW,X5,2004,,4.4,,0,AWD,Robert Drake,Luisiana
+111666,4100,6339,2020,028**,104500,Chevrolet,Corvette,1990,,5.7L Gas V8,Convertible,8,RWD,Jean Grey,Delaware
+71515,2000,2065,2019,8827,179774,Chevrolet,C/K Pickup 1500,1992,sport,5.7L,Standard Cab Pickup,8,RWD,Jean Grey,Luisiana
+117790,24200,20903,2020,330**,39814,Dodge,Viper,2004,,V10,Standard Cab Pickup,10,RWD,Jean Grey,Delaware
+46440,15200,12950,2019,95301,46814,Ford,Mustang,1968,S Code GT 4 Spd.,390 Big Block,Coupe,8,RWD,Jean Grey,Luisiana
+94694,5150,4445,2019,44412,66500,Chevrolet,Bel Air/150/210,1964,,,,0,,Absalon Mercator,Delaware
+64667,4700,4475,2019,44412,67220,Jeep,CJ,1977,,304,,8,4WD,Absalon Mercator,Luisiana
+56968,4600,5997,2019,30341,110830,Honda,Civic,2011,gx,,Sedan,4,FWD,Absalon Mercator,Delaware
+67204,800,3729,2019,30341,201000,Dodge,Ram 1500,2007,,5.7 HEMI,,8,RWD,Absalon Mercator,Luisiana
+49536,2800,3151,2019,30341,54713,Cadillac,Allante,1993,,32v North Star,Convertible,8,RWD,Absalon Mercator,Delaware
+49615,5100,7051,2019,30341,111754,Jeep,Cherokee,2000,classic,4,SUV,6,4WD,Franklin Richards,Delaware
+49535,2500,2463,2019,30341,165522,Mitsubishi,Montero,2000,,V6,SUV,6,4WD,Absalon Mercator,Virgina
+67218,4650,6211,2019,30341,77500,Isuzu,Trooper,2002,ls 3.5 4x4,3.5,,6,4WD,Robert Drake,Arizona
+67219,3150,5258,2019,30341,87329,Mercedes-Benz,S-Class,1999,S CLASS,4.2 L V8,Sedan,8,RWD,Scott Summers,Delaware
+105446,6000,7861,2019,30341,160250,Mercedes-Benz,E-Class,2009,,3.0 V6,Sedan,6,RWD,James Howlett,Delaware
+88160,15650,12792,2019,27229,22000,Oldsmobile,Cutlass,1964,,330 cu in,Convertible,8,,Erik Lensherr,Delaware
+3625,2550,2962,2019,14612,502000,Ford,F-350,2000,,7.3 diesel,Standard Cab Pickup,8,4WD,Jean Grey,Delaware
+39270,5800,6814,2019,49546,17533,Chevrolet,Corvair,1964,,,Convertible,6,,Franklin Richards,Delaware
+137169,1030,1257,2020,483**,120114,Jeep,Cherokee,2001,,,,6,4WD,Absalon Mercator,Delaware
+139764,26800,21984,2020,806**,39600,Dodge,Viper,2004,,,,0,,Erik Lensherr,Delaware
+139395,5250,4559,2020,806**,82500,Ford,Thunderbird,2002,Convertible,,Convertible,8,RWD,Jean Grey,Delaware
+139639,4700,6722,2020,806**,127400,Ford,Thunderbird,2002,Convertible,,Convertible,8,RWD,Robert Drake,Delaware
+139596,6400,8480,2020,806**,62650,Chevrolet,Corvette,1981,,5.7L V-8,Coupe,8,RWD,Scott Summers,Delaware
+115277,5200,5535,2020,806**,12345,Replica/Kit Makes,,1987,,,Coupe,8,RWD,Scott Summers,Luisiana
+138666,3250,5809,2020,806**,99608,Pontiac,Fiero,1986,,small block Chevy V8,Coupe,8,RWD,Scott Summers,Luisiana
+139661,8000,7930,2020,806**,128000,Jeep,Wrangler,2008,,,,6,,Scott Summers,Luisiana
+115695,5400,6287,2020,806**,74500,Chevrolet,Corvette,1980,Corvette,V8,Coupe,8,RWD,Scott Summers,Luisiana
+139330,12100,10908,2020,806**,49950,Dodge,Challenger,2009,,5.7L Hemi V-8,Coupe,8,RWD,Scott Summers,Luisiana
+138757,7330,5370,2020,806**,1234,Ford,Ranchero,1957,,302 cu. in.V-8,Standard Cab Pickup,8,RWD,Scott Summers,Luisiana
+42021,7000,6614,2019,94928,148000,Plymouth,Scamp,1971,,V8,,8,,Scott Summers,Arizona
+111629,2430,5419,2020,207**,204000,Ford,Mustang,2000,,8,Coupe,8,RWD,Absalon Mercator,Arizona
+111633,710,778,2020,207**,230909,Nissan,Xterra,2001,,6,Sedan,6,RWD,Franklin Richards,Arizona
+30549,2130,2538,2019,20715,135000,BMW,5-Series,2003,,,,0,,Franklin Richards,Arizona
+12904,4470,6676,2019,K2M 1B5,1000,Pontiac,Fiero,1988,,6 cylinder 5 speed,GT,6,RWD,Franklin Richards,Arizona
+115235,3000,4703,2020,119**,92000,Chevrolet,Camaro,1989,IROC,V8,Coupe,8,RWD,Franklin Richards,Delaware
+91427,26790,21850,2020,29671,59000,Morgan,Plus Four,1961,,,,0,,Franklin Richards,Delaware
+78680,6800,5198,2019,31093,65000,Ford,Bronco II,1988,XLT,2.9 V6,,6,2WD,Franklin Richards,Delaware
+35345,7400,6446,2019,42757,120000,Jeep,CJ,1985,Base,258,Fiberglass,6,4WD,Jean Grey,Delaware
+31042,510,2812,2019,33952,999999,Volkswagen,Beetle - Classic,1970,Standard,1600,Sedan,4,RWD,Robert Drake,Luisiana
+130737,3500,4780,2020,641**,290000,GMC,Sierra 2500,2006,,,Extended Cab Pickup,8,RWD,Franklin Richards,Luisiana
+514,6000,7279,2019,64114,52650,Ford,Fiesta,2014,ST,1.6l turbo,,4,FWD,Absalon Mercator,Luisiana
+48314,2250,1954,2019,95003,60800,Mazda,Mazda3,2015,,,,0,,Erik Lensherr,Luisiana
+160394,5850,6938,2020,*****-****,200000,Porsche,912,1968,,,,0,,Jean Grey,Virgina
+115989,26000,19359,2020,53110,100000,Ford,Fairlane,1957,,,,0,RWD,Robert Drake,Virgina
+142169,8300,8087,2020,261**,29531,Ford,Mustang,1966,Coupe,289 cubic inch,Coupe,8,RWD,Absalon Mercator,Luisiana
+142711,7000,7084,2020,264**,116000,Ford,Mustang,1966,,,,6,,Franklin Richards,Luisiana
+41533,18400,14926,2019,98002,25000,PONTlAC,G T O,1970,,,,0,,Absalon Mercator,Arizona
+78242,5500,5134,2020,80433,188536,Chevrolet,Tahoe,2008,LS,5.3L Flex Fuel,SUV,8,4WD,Robert Drake,Arizona
+40450,11900,11871,2019,88011,54940,Lincoln,Mark Series,1970,,460,Coupe,8,RWD,Scott Summers,Arizona
+6144,8600,6997,2019,88011,106800,Willys,,1954,,134,Jeep,4,4WD,James Howlett,Arizona
+57952,20500,16408,2019,29303,72000,Ford,F-150,2013,Limited,3.5L V6 EcoBoost,,6,AWD,Erik Lensherr,Arizona
+68902,7200,7457,2019,29303,56100,Ford,Mustang,2005,GT Convertible,4.6 Liter V8,,8,RWD,Jean Grey,Delaware
+126723,1000,1010,2020,344**,170000,Infiniti,G35,2008,G35,3.5,Sedan,6,RWD,Franklin Richards,Delaware
+92951,200,1427,2019,87124,140303,Dodge,Neon,1999,Sport,2.0l,Sedan,4,FWD,Absalon Mercator,Delaware
+102524,8800,9427,2019,17853,154300,Jeep,Wrangler,2004,unlimited,4,SUV,6,4WD,Erik Lensherr,Delaware
+145838,1200,3536,2020,344**,136484,Ford,E-Series Van,1994,,,,8,RWD,Jean Grey,Luisiana
+144807,2550,4115,2020,371**,94450,Cadillac,Allante,1987,,,Convertible,8,RWD,Robert Drake,Luisiana
+121797,6450,5452,2020,37916,81000,Chevrolet,Corvette,1996,Collector Edition,,Coupe,8,RWD,Scott Summers,Luisiana
+94578,2130,5434,2019,37916,89752,Ford,Crown Victoria,1985,,,,0,,Absalon Mercator,Luisiana
+151480,6600,8508,2020,379**,125000,BMW,3-Series,1991,,,Convertible,6,RWD,Erik Lensherr,Arizona
+151977,16400,11939,2020,379**,143116,BMW,M6,1987,,,Coupe,0,,Jean Grey,Delaware
+14253,10000,10638,2019,37916,97000,BMW,M3,1999,,,,0,,Robert Drake,Delaware
+36822,2360,2223,2019,37916,160000,Mercedes-Benz,SL-Class,1990,,,,0,,Scott Summers,Delaware
+94114,30600,23182,2019,37916,109000,Porsche,911,2003,,,Coupe,0,,James Howlett,Luisiana
+94592,48600,37318,2019,37916,60500,Porsche,911,2005,S,,Coupe,0,,Franklin Richards,Luisiana
+151903,17600,15025,2020,379**,127868,Porsche,911,2004,,,Convertible,6,,Absalon Mercator,Luisiana
+14195,34540,26550,2019,37916,41023,Porsche,911,1990,,,,0,,Franklin Richards,Luisiana
+121952,12450,12449,2020,379**,105000,Porsche,Cayenne,2008,Turbo,4.8,,8,AWD,Absalon Mercator,Luisiana
+95134,39100,28090,2019,37916,55456,Ferrari,308,1980,,,,0,,Absalon Mercator,Luisiana
+14907,40600,29568,2019,37932,54411,Ferrari,348,1992,,,,0,,Erik Lensherr,Arizona
+28434,52500,39138,2019,37916,27290,Ferrari,355,1999,,,,0,,Jean Grey,Arizona
+130574,7500,7099,2020,,100253,BMW,3-Series,2009,I SULEV,3.0L Gas I6,Convertible,6,RWD,Robert Drake,Delaware
+88056,6000,7900,2020,82801,42000,Chevrolet,Corvair,1960,,,Sedan,6,RWD,Robert Drake,Delaware
+35286,410,1837,2019,20657,180000,Infiniti,M45,2003,,V8 4.5l,Sedan,8,RWD,Robert Drake,Virgina
+100937,700,1943,2019,87801,202975,Nissan,Other Pickups,1995,XE,V6 3.0L,Extended Cab Pickup,6,4WD,Robert Drake,Virgina
+12083,17100,14234,2019,7057,35450,Toyota,Supra,1994,,,,6,RWD,Franklin Richards,Virgina
+130810,1200,4528,2020,900**,200000,Honda,Accord,1993,10TH ANNIVERSARY,2.2L Gas I4,Sedan,4,FWD,Franklin Richards,Virgina
+110943,3550,2872,2020,857**,91555,Toyota,4Runner,1987,RN60,2.4L Gas I4,SUV,0,4WD,Franklin Richards,Virgina
+146070,12000,11192,2020,335**,95000,Jeep,J10,1984,,360 V8,Standard Cab Pickup,8,4WD,Franklin Richards,Virgina
+7491,6900,6608,2018,71667,112000,Lexus,LS,2005,,,Sedan,8,,Robert Drake,Luisiana
+18210,2850,4596,2019,42164,82750,Chevrolet,HHR,2009,LS,2.2,Hatchback,4,FWD,Robert Drake,Luisiana
+39255,45000,32248,2019,45424,5600,Dodge,Challenger,2016,,6.2,Coupe,8,,Robert Drake,Arizona
+130267,100300,72795,2020,453**,17550,Lamborghini,Gallardo,2012,,5.2L Gas V10,Coupe,0,RWD,Robert Drake,Arizona
+126465,22000,16354,2020,774**,166500,Land Rover,Defender,1989,,2.5 na Diesel,SUV,4,4WD,Franklin Richards,Arizona
+145607,2500,4030,2020,984**,400000,Mercedes-Benz,300TD,1980,,OM617,Wagon,5,RWD,Franklin Richards,Arizona
+86749,8300,6646,2019,98270,52000,BMW,3-Series,2015,,,Sedan,4,RWD,Franklin Richards,Arizona
+142546,10870,9589,2020,800**,66393,Pontiac,Bonneville,1964,,,Coupe,8,RWD,Franklin Richards,Delaware
+139843,700,2827,2020,441**,205000,Chevrolet,Blazer,1994,,,SUV,8,4WD,Absalon Mercator,Delaware
+151123,5000,4344,2020,145**,0,Replica/Kit Makes,,1989,,,,0,,Absalon Mercator,Delaware
+36638,38000,29344,2019,60131,34303,Ferrari,308,1983,,3.0L V8,Convertible,8,RWD,Absalon Mercator,Delaware
+62467,6500,5183,2019,11710,83000,Mercury,Comet,1961,,2.8,Sedan,6,RWD,Absalon Mercator,Luisiana
+82380,470,1147,2020,11222,220679,Toyota,Land Cruiser,1988,,,,6,,Absalon Mercator,Luisiana
+143643,3500,3725,2020,411**,92000,Dodge,Other Pickups,1975,,,,6,,Absalon Mercator,Luisiana
+154570,9700,8586,2020,330**,99300,Jeep,Commander,2009,Limited,V8 4.7L,SUV,8,4WD,Robert Drake,Luisiana
+36233,8430,6188,2019,2067,41000,Alfa Romeo,Spider,1992,,,Convertible,4,RWD,Robert Drake,Arizona
+131077,1000,3408,2020,335**,49800,Chevrolet,Camaro,1994,,,Coupe,0,,Robert Drake,Arizona
+2494,1600,1596,2019,72834,1000,International Harvester,Other,1955,,450 Red Diamond,,6,,Robert Drake,Virgina
+2590,1600,3912,2019,72834,117000,Chevrolet,Other Pickups,1997,,,Cab & Chassis,0,,Robert Drake,Arizona
+99959,1550,3467,2019,34743,63346,Shelby,,1987,,,,4,,Jean Grey,Delaware
+100265,2860,5474,2019,34743,234545,Ford,F-150,1993,,,,0,,Jean Grey,Virgina
+19529,5000,6977,2019,37076,100000,International Harvester,Other,1971,,345,SUV,8,FWD,Jean Grey,Arizona
+108226,300,1656,2019,11590,1000000,Triumph,Herald,1964,,,,0,,Jean Grey,Luisiana
+1835,19300,15575,2019,84047,100000,Chevrolet,Impala,1964,SS,327,Coupe,8,RWD,Absalon Mercator,Delaware
+98530,5200,7110,2019,25314,52740,Cadillac,Fleetwood,1993,,5.7 V8,Limousine,8,RWD,Absalon Mercator,Luisiana
+17373,9010,9371,2019,25314,104000,Chevrolet,C-10,1986,,305 V8,Standard Cab Pickup,8,RWD,Absalon Mercator,Delaware
+45362,7500,9125,2019,42104,132000,Chevrolet,Corvette,1979,,350,Coupe,8,,Absalon Mercator,Luisiana
+115354,2980,4215,2020,926**,148000,Chevrolet,Trailblazer,2006,LS,V6,SUV,6,RWD,Absalon Mercator,Delaware
+139221,10900,8433,2020,926**,85000,Chevrolet,El Camino,1985,,,,0,,Franklin Richards,Luisiana
+47062,29100,22962,2019,V6R1L3,104,Porsche,911,1991,Base,flat 6,Convertible,6,RWD,Absalon Mercator,Arizona
+84187,4000,6765,2020,68503,282040,Ford,F-350,2006,,6,Crew Cab Pickup,8,4WD,Robert Drake,Arizona
+84194,2180,5190,2020,68503,128243,Chevrolet,Corvette,1984,C4,5.7,Coupe,8,RWD,Scott Summers,Arizona
+41151,3500,3755,2019,68503,163300,Mazda,MX-5 Miata,1999,,1.8 L,Convertible,4,RWD,James Howlett,Arizona
+52862,6500,5049,2019,22405,20,Replica/Kit Makes,BRA Morgan,1979,,Honda CX 500,Trike,2,RWD,Erik Lensherr,Arizona
+153393,2050,2545,2020,373**,163000,Toyota,Corolla,2001,le,,Sedan,4,FWD,Franklin Richards,Delaware
+62956,1200,4149,2019,20187,305319,Chevrolet,Tahoe,2004,Z71,5.3,SUV,8,4WD,Absalon Mercator,Delaware
+38265,7100,8817,2019,53020,37300,Chevrolet,Corvette Stingray,1974,,350 V8,Coupe,8,RWD,Erik Lensherr,Delaware
+32172,9100,9577,2019,44641,84592,Dodge,B200 Van,1976,,V8,Extended Passenger Van,8,RWD,Jean Grey,Delaware
+131110,13100,12942,2020,305**,95846,BMW,M3,1996,,,Coupe,6,RWD,Robert Drake,Luisiana
+2645,7000,7690,2019,62240,15033,Jeep,M151A1,1967,,,,4,4WD,Scott Summers,Luisiana
+41453,5200,5468,2019,7738,87000,Ford,Mustang,2007,Premium,V6 4.0L,Coupe,6,RWD,James Howlett,Luisiana
+66742,15900,14076,2019,38222,18352,Ford,F-150,2011,f150,305 v6 ffv,Regular Cab Pickup,6,4WD Reg Cab,Franklin Richards,Luisiana
+63602,5150,4697,2019,45322,35000,Chevrolet,Other Pickups,1958,3100,Chevy V8,,8,RWD,Absalon Mercator,Virgina
+125802,1500,2633,2020,89139,175622,Mini,Cooper S,2005,,1.6L I4 16V,Hatchback,4,FWD,Franklin Richards,Virgina
+12189,5300,5870,2019,11236,46918,Pontiac,Six silver streak,1938,Silver streak touring coup,6 cylenders,,0,RWD,Absalon Mercator,Luisiana
+44663,8000,5808,2019,59833,10000,Volkswagen,Bus/Vanagon,1968,,1971 Rebuilt 1600 cc,Van Camper,4,RWD,Franklin Richards,Luisiana
+34223,25500,19724,2019,60010,99999999,Chevrolet,Blazer,1972,,350,,8,,Absalon Mercator,Arizona
+112588,38000,29853,2020,925**,500,Mercedes-Benz,300-Series,1983,,,,0,,Robert Drake,Arizona
+51909,11200,10489,2019,6413,688,Ford,Other Pickups,1930,,"2.3 Liter, Turbo charged, Fuel Injected",Roadster Pickup,4,RWD,Scott Summers,Arizona
+79327,6000,8079,2019,8015,108772,Ford,Mustang,1973,,351C,Fastback,8,,James Howlett,Arizona
+13944,17200,15827,2019,12989,10000,Chevrolet,Chevelle,1968,,ZZ383,,8,RWD,Erik Lensherr,Arizona
+49201,6800,5836,2019,29671,121000,Chevrolet,Corvette,1995,CONVERTABLE,300 HP V8,Convertible,8,RWD,Jean Grey,Delaware
+126529,6000,7413,2020,339**,93273,Mazda,MX-5 Miata,1999,,1.8L Gas I4,Convertible,4,RWD,Franklin Richards,Delaware
+56532,6800,8541,2019,33955,89700,Toyota,Supra,1990,,,Hatchback w/ Targa Top,0,RWD,Absalon Mercator,Delaware
+16958,15500,14327,2019,33444,5800,Ford,Galaxie,1959,,,,0,,Erik Lensherr,Delaware
+154853,4000,4735,2020,334**,78000,DeSoto,Explorer,1957,,V8,station wagon,8,RWD,Jean Grey,Luisiana
+31312,1530,2200,2019,63060,0,Pontiac,Bonneville,1965,,,,0,,Robert Drake,Luisiana
+150702,85000,60076,2020,342**,30,Chevrolet,Corvette,2020,,,Coupe,8,RWD,Franklin Richards,Luisiana
+62640,14000,12094,2019,11937,40000,Mercedes-Benz,G-Class,1986,,,,0,,Absalon Mercator,Luisiana
+35264,15500,14373,2019,33411,85200,Acura,MDX,2012,Advance,3.7,SUV,6,AWD,Erik Lensherr,Arizona
+64351,3900,6704,2019,92553,89000,GMC,Sierra 2500,1971,Camper custom,402,Standard Cab Pickup,8,RWD,Jean Grey,Delaware
+35721,5000,4819,2019,32065,0,Volkswagen,Beetle - Classic,1963,,1600,,4,RWD,Robert Drake,Delaware
+56535,340,4157,2019,75154,108000,Pontiac,Parisienne,1985,,,Hearse,8,RWD,Absalon Mercator,Delaware
+56531,3300,2900,2019,75154,112764,Cadillac,Fleetwood,1994,,Lt1,Hearse,8,RWD,Franklin Richards,Luisiana
+49376,21500,16293,2019,75154,81565,Cadillac,Commercial Chassis,1959,Hearse/ambulance combo,390 v8,Hearse,8,RWD,Absalon Mercator,Luisiana
+43785,4200,4160,2019,75154,112000,Cadillac,Commercial Chassis,1967,Hearse/ambulance combo,429 v8,Hearse,8,RWD,Robert Drake,Luisiana
+117053,3600,3218,2020,025**,85732,Land Rover,Range Rover,1995,CLASSIC,3.9L Gas V8,SUV,0,4WD,Scott Summers,Luisiana
+5446,8500,7431,2019,32763,78000,Honda,Odyssey,2016,,,Minivan,0,,James Howlett,Luisiana
+4707,8600,9254,2019,32137,95000,BMW,3-Series,2012,328i,2.0 Turbo,Sedan,4,RWD,Erik Lensherr,Virgina
+138659,4200,5078,2020,331**,123279,Ford,Expedition,2009,,,,0,,Jean Grey,Virgina
+16557,1580,1491,2019,80504,77087,Mazda,RX-8,2005,Standard,Rotary,Coupe,0,RWD,Franklin Richards,Virgina
+33572,20300,16615,2019,33332,0,Chevrolet,Camaro,1970,rs z28,lt1 350,Coupe,8,,Absalon Mercator,Virgina
+119461,660,3842,2020,462**,188000,GMC,Safari,2003,,4.3,Van Camper,6,AWD,Erik Lensherr,Luisiana
+92498,1400,2547,2019,81240,183023,Chevrolet,Monte Carlo,2004,LS,3400,Coupe,6,FWD,Jean Grey,Luisiana
+146230,5000,5766,2020,985**,143568,Chevrolet,G20 Van,1995,,5.7L Gas V8,Standard Cargo Van,8,RWD,Robert Drake,Arizona
+160579,14700,10547,2020,985**,104015,Volkswagen,EuroVan,1997,CAMPER,2.8L Gas I6,Van Camper,6,FWD,Franklin Richards,Arizona
+43905,10200,10535,2019,98568,75370,Volkswagen,Bus/Vanagon,1987,Riviera,2.1L 4 Cylinder,Van Camper,4,RWD,Absalon Mercator,Arizona
+19428,3000,5360,2019,52768,157000,Chevrolet,Silverado 1500,2006,Z71,,Crew Cab Pickup,0,4WD,Erik Lensherr,Arizona
+100478,10750,11114,2019,21613,72000,Chevrolet,Express,2003,3500,6L V8 16V,Extended Passenger Van,8,RWD,Jean Grey,Arizona
+88322,3050,5577,2019,41042,146373,Ford,F-250,2001,Super Duty XLT,6.8l,Extended Crew Cab Pickup,10,4WD,Robert Drake,Delaware
+162328,1180,1528,2020,370**,177000,Ford,Escape,2010,XLT,3.0L Flexible V6,SUV,6,4WD,Robert Drake,Delaware
+63458,36000,26413,2019,97470,117341,Porsche,911,1977,Sporty 911 S in Exceptional Condition!,164,Coupe,0,RWD,Robert Drake,Delaware
+59483,38300,29703,2019,95368,7550,Chevrolet,Camaro,1969,rs/ss,396,Convertible,8,RWD,Franklin Richards,Delaware
+59421,46100,33929,2019,95368,7550,Chevrolet,Camaro,1969,rs/ss,396,Convertible,8,RWD,Absalon Mercator,Luisiana
+151892,7200,6185,2020,244**,50381,Ford,E-Series Van,2000,,,Standard Passenger Van,8,RWD,Franklin Richards,Luisiana
+151864,1830,3132,2020,244**,77532,Datsun,Pickup,1973,,,Standard Cab Pickup,0,,Absalon Mercator,Luisiana
+42747,1330,2756,2019,32148,150000,Dodge,Other Pickups,1984,Custom/Royal SE,360,Standard Cab Pickup,8,RWD,Erik Lensherr,Luisiana
+87305,10300,10656,2019,69101,104000,Datsun,Z-Series,1978,280z Coupe,L28,Coupe,6,RWD,Jean Grey,Arizona
+111952,7800,7131,2020,070**,50000,Chevrolet,Corvette,1977,,350,Coupe,8,RWD,Robert Drake,Arizona
+10886,7000,8341,2019,32968,68352,Cadillac,Other,1942,,346 V-8,Sedan,8,RWD,Scott Summers,Virgina
+130587,11800,9917,2020,760**,1900,Chevrolet,Other Pickups,1972,,350 Crate Goodwrench,Standard Cab Pickup,8,RWD,James Howlett,Arizona
+86333,17100,12539,2019,27893,69768,Porsche,911,1977,,,Coupe,6,RWD,Franklin Richards,Delaware
+35387,24200,17394,2019,27893,72000,Porsche,911,1979,,Air cooled,Coupe,6,RWD,Absalon Mercator,Virgina
+86975,22000,17741,2019,27893,64048,Chevrolet,Other Pickups,1954,,,Standard Cab Pickup,6,RWD,Franklin Richards,Arizona
+47988,36600,28293,2019,L4E 0H7,0,Chevrolet,Chevelle,1969,SS L78 4sp Convertible,396-L78,Convertible,8,RWD,Absalon Mercator,Luisiana
+619,7800,6200,2019,97386,0,Chevrolet,Chevelle,1974,,350,Coupe,8,RWD,Franklin Richards,Delaware
+76705,3850,5663,2019,15613,148000,Chevrolet,Suburban,2002,LT,,,0,,Absalon Mercator,Luisiana
+83970,6200,4613,2019,49445,125001,GMC,Yukon,2001,Denali,6.0L,SUV,8,AWD,Robert Drake,Delaware
+74589,4950,6114,2019,19004,114735,Acura,TL,2005,,,,0,,Erik Lensherr,Luisiana
+74212,7100,8643,2019,19004,77900,Honda,Odyssey,2011,Touring,3.5L V6,Minivan,6,FWD,Jean Grey,Delaware
+151133,28300,21243,2020,953**,87000,Chevrolet,Camaro,1967,,,Convertible,0,,Robert Drake,Luisiana
+95617,8300,7664,2020,95350,89000,Chevrolet,Silverado 1500,1987,C10,350,Crew Cab Pickup,8,RWD,Absalon Mercator,Arizona
+4889,7000,5815,2019,27834,6877,Chevrolet,SS,2017,Ss,6.2 417 hp,Sedan,8,RWD,Franklin Richards,Arizona
+41693,4960,4656,2019,77856,222000,Ford,F-350,1999,,,,0,,Absalon Mercator,Arizona
+88885,1550,4129,2019,77856,150000,GMC,Sierra 3500,1992,,,,0,,Robert Drake,Arizona
+11048,11100,8295,2019,77856,275000,Dodge,Ram 3500,2006,,5.9 Cummins,,0,4WD,Scott Summers,Arizona
+77284,14300,13044,2019,19350,85987,Plymouth,Barracuda,1972,2 door,318,Coupe,8,318 auto,James Howlett,Delaware
+114145,12750,12170,2020,19350,114000,Buick,Grand National,1987,,,,6,V-6,Erik Lensherr,Delaware
+95777,3540,6253,2019,44076,153000,Ford,E-Series Van,1997,Conversion van,5.4,Conversion Van,8,RWD,Jean Grey,Luisiana
+80522,480,2322,2020,k9a 3c4,10000,Plymouth,Barracuda,1971,,,,0,,Franklin Richards,Virgina
+32568,14500,12684,2019,21921,15600,Ford,Mustang,1997,Cobra Convertible,,Convertible,8,,Absalon Mercator,Virgina
+57922,30600,24209,2019,21921,3115,Ford,Mustang,2007,Roush 427R,4.6 V8 Supercharged,Coupe,8,RWD,Erik Lensherr,Luisiana
+17056,1080,2327,2019,33157,203093,Ford,Mustang,2001,,3.8 6 cyld,Coupe,6,RWD,Jean Grey,Luisiana
+141820,4110,5765,2020,349**,100000,Chevrolet,Impala,1996,CLASSIC SS,5.7L Gas V8,Sedan,0,RWD,Franklin Richards,Arizona
+143075,5900,4465,2020,750**,153900,Volkswagen,Corrado,1993,SLC,2.8L Gas I6,Coupe,6,FWD,Absalon Mercator,Arizona
+119023,20000,14883,2020,333**,33000,Ferrari,Mondial,1982,,,Coupe,8,,Franklin Richards,Arizona
+33411,39000,29767,2019,33405,0,Cadillac,Series 62,1960,Convertible 390 V8 Power Seats,390 V8 4bbl,Convertible,8,RWD,Absalon Mercator,Arizona
+7576,6000,4863,2019,71603,999999999,Dodge,Other,1939,,,Sedan,0,,Robert Drake,Arizona
+37528,7900,5754,2019,37064,48500,Nash,400 Series,1940,,6,4 door,6,,Scott Summers,Delaware
+43280,10100,8613,2019,37064,58659,Packard,200,1949,Custom Classic,8 cylinder Flathead,Coupe,8,RWD,James Howlett,Delaware
+43308,2610,4131,2019,37064,854667,Pontiac,Coupe,1941,Flathead 6 engine Classic,6 Flathead,,6,,Erik Lensherr,Delaware
+22270,24090,17078,2019,37064,38000,Jaguar,4.2 panther,1972,,,,0,RWD,Jean Grey,Delaware
+33382,10000,9171,2019,34608,5100,Pontiac,Solstice,2009,,2.4LITER DOHC,Convertible,4,RWD,Franklin Richards,Luisiana
+163343,5700,5460,2020,921**,128000,Rolls-Royce,Silver Spirit,1985,,6.8L Gas V8,Sedan,0,RWD,Absalon Mercator,Luisiana
+65400,940,2823,2019,5031,72965,GMC,Jimmy,1976,Sierra,350 CI,SUV,8,4 x 4,Erik Lensherr,Luisiana
+138208,7100,6940,2020,210**,48505,Cadillac,DTS,2006,Eagle,Northstar,Hearse,8,FWD,Jean Grey,Luisiana
+77007,1500,1462,2019,21035,39552,Cadillac,DeVille,2000,Limousine,4.6L V8,Limousine,8,FWD,Robert Drake,Arizona
+77212,2200,2390,2019,21035,74936,Cadillac,DeVille,2001,Hearse,V8 Northstar,Hearse,8,FWD,Franklin Richards,Delaware
+132022,7600,5828,2020,439**,136123,Mercury,Marauder,2003,,,,8,RWD,Absalon Mercator,Delaware
+98481,9000,9018,2019,28205,108500,Subaru,WRX,2004,,2.0L Turbo,Wagon,4,AWD,Erik Lensherr,Delaware
+60154,7400,7208,2019,33309,94000,Volkswagen,Beetle - Classic,1969,CUSTOM,4 CYL.,CONVERTIBLE,4,REAR WHEEL DRIVE,Jean Grey,Luisiana
+114621,12000,9859,2020,333**,32000,Mercedes-Benz,S-Class,1984,4 SPEED,2.8 LTIRE,FOUR DOOR SEDAN,6,REAR WHEEL DRIVE,Robert Drake,Luisiana
+5489,27100,21241,2019,33309,9000,Ford,ROADSTER,1932,CUSTOM,8 CYL.,ROADSTER CONVERTIBLE,8,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+77060,4050,3697,2019,33309,32,Replica/Kit Makes,BRADLEY GT-II GTE,1978,FACTORY,ELECTRIC,SPORT GULL WING COUPE,0,REAR WHEEL DRIVE,Franklin Richards,Luisiana
+45505,11990,8835,2019,33309,65000,Mercedes-Benz,SL-Class,1977,ROADSTER,4.5 LITRE,CONVERTIBLE ROADSTER,8,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+59895,15090,12896,2019,33309,69000,Mercedes-Benz,SL-Class,1972,FACTORY MERCEDES TEX,4.5 LITRE,CONVERTIBLE ROADSTER,8,REAR WHEEL DRIVE,Robert Drake,Virgina
+137083,9800,9845,2020,333**,70000,Mercedes-Benz,SL-Class,1972,350SL,4.5 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+4266,7600,9060,2019,33309,21000,Mercedes-Benz,200-Series,1971,280SE,2.8 LITRE,SEDAN,6,REAR WHEEL DRIVE,James Howlett,Delaware
+59923,11990,9618,2019,33309,72000,Mercedes-Benz,200-Series,1972,LEATHER,4.5 LITRE,SEDAN,8,REAR WHEEL DRIVE,Erik Lensherr,Virgina
+52442,7000,5607,2019,33309,74000,Cadillac,Allante,1993,NORTHSTAR ENGINE,4.6 LITRE NORTHSTAR,CONVERTIBLE,8,FRONT WHEEL DRIVE,Jean Grey,Arizona
+75646,6200,7598,2019,33309,128000,Chevrolet,C-10,1985,SILVERADO,5.7 LITRE,SHORT BED PICK UP,8,REAR WHEEL DRIVE,Franklin Richards,Luisiana
+135470,17880,16157,2020,333**,58000,Chevrolet,Corvette,1975,CUSTOM BUILT,5.7 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Absalon Mercator,Delaware
+77430,6100,8208,2019,33309,64000,TVR,VIXEN,1972,FACTORY,2.5 LITRE,Coupe,6,REAR WHEEL DRIVE,Erik Lensherr,Luisiana
+40293,26500,20213,2019,33309,5500,Replica/Kit Makes,CADILLAC,1932,CABRIOLET,460 FORD,CONVERTIBLE,8,REAR WHEEL DRIVE,Jean Grey,Delaware
+77925,15100,14384,2019,33309,76000,Buick,Series 90,1931,COUNTRY CLUB COUPE,345 CUBIC INCH,Coupe,8,REAR WHEEL DRIVE,Robert Drake,Luisiana
+27138,9100,8081,2019,33309,131000,Jeep,Wrangler,1989,NO RESERVE SET,383 STROKER,JEEP,8,4X4,Scott Summers,Delaware
+114596,14200,12948,2020,333**,49000,Chevrolet,Impala,1963,SUPER SPORT,8 CYL.,Coupe,8,REAR WHEEL DRVIE,Scott Summers,Luisiana
+60177,15800,13022,2019,33309,10000,Oldsmobile,Toronado,1966,FACTORY,7.0 LITRE,TWO DOOR COUPE,8,FRONT WHEEL DRIVE,Scott Summers,Arizona
+77937,3990,5039,2019,33309,124000,Chevrolet,Other Pickups,1947,NEEDS RESTORATION,6 CYL,HEAVY DUTY PICK UP,6,REAR WHEEL DRIVE,Scott Summers,Arizona
+135648,29850,23503,2020,333**,99000,Buick,Special,1940,PHAETON,STRAIGHT 8,CONVERTIBLE,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+59750,6900,6259,2019,33309,103000,Porsche,914,1973,,,,0,,Scott Summers,Arizona
+22061,12600,12608,2019,33309,42000,Porsche,914,1973,TARGA TOP,4 CYL.,TARGA TOP ROADSTER,4,REAR WHEEL DRIVE,Scott Summers,Arizona
+138285,7750,6558,2020,333**,99999,Buick,Special,1958,TWO DOOR HARD TOP,V/8,HARD TOP,8,REAR WHEEL DRIVE,Scott Summers,Delaware
+136659,16110,11683,2020,333**,13000,Replica/Kit Makes,HUMMER H1,2000,BAD LANDS,5.7 LITRE,SUV,8,4X4,Scott Summers,Delaware
+5368,13950,13557,2019,33309,55000,Mercury,Monterey,1957,HARD TOP,5.1 LITRE,TWO DOOR HARD TOP,8,REAR WHEEL DRIVE,Scott Summers,Luisiana
+3401,10750,10628,2019,33309,110700,Hummer,H2,2003,SPORT UTILITY VEHICLE,6.0 LITRE,SPORT UTILITY VEHICLE,8,ALL WHEEL DRIVE 4X4,Scott Summers,Virgina
+137064,20100,17930,2020,333**,29000,Ford,Mustang,1965,CUSTOM DESIGNED,5.0 LTIRE,Coupe,8,REAR WHEEL DRIVE,Scott Summers,Virgina
+75874,3470,6341,2019,33309,47000,Studebaker,,1950,FARM BARN FIND,6 CYL.,PICK UP,6,REAR WHEEL DRIVE,Scott Summers,Luisiana
+40145,22200,17862,2019,33309,40000,Ford,Mustang,1966,PONY,289 CUBIC INCHES,CONVERTIBLE,8,REAR WHEEL DRIVE,Scott Summers,Luisiana
+136975,15000,10796,2020,333**,71000,Cadillac,Eldorado,1976,CLASSIC CONVERTIBLE,8.2 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+77657,26110,19570,2019,33309,38000,Buick,PHAETON,1937,COOL CAR,STRAIGHT EIGHT,Sedan,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+113587,18900,16320,2020,33309,49000,AMC,AMX,1969,HURST 4 SPEED,343 CUBIC IN.,SPORT COUPE,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+75645,36000,26285,2019,33309,30868,Rolls-Royce,Silver Cloud,1957,CUSTOM CONVERTIBLE,V/8,CONVERTIBLE,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+51990,27770,21825,2019,33309,7900,Replica/Kit Makes,MERCEDES BENZ 500K,1934,LEATHER,5.7 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Scott Summers,Arizona
+40291,11700,9240,2019,33309,15000,Replica/Kit Makes,AUSTIN HEALEY,1966,MARK III,4 CYL.,CONVERTIBLE,4,REAR WHEEL DRIVE,Scott Summers,Delaware
+52369,4260,6544,2019,33309,1,Replica/Kit Makes,GT II,1980,FACTORY,1600 VOLKSWAGEN,GULLWING COUPE,4,REAR WHEEL DRIVE,Scott Summers,Delaware
+77448,36040,27801,2019,33309,35,Replica/Kit Makes,ZEPHYR,1936,CUSTOM,5.7 LITRE,CONVERTIBLE ROADSTER,8,REAR WHEEL DRIVE,Scott Summers,Luisiana
+51989,26430,20678,2019,33309,19900,Ford,Thunderbird,1956,WELL OPTIONED,292 V/8,CONVERTIBLE AND HARD TOP,8,REAR WHEEL DRIVE,Scott Summers,Luisiana
+27229,10300,8215,2019,33309,26000,Jaguar,XJS,1986,LEATHER,5.3 LTIRE,SPORT COUPE,12,REAR WHEEL DRIVE,Scott Summers,Arizona
+60099,7100,5745,2019,33309,68000,Jaguar,XJS,1987,LEATHER,5.3 LITRE,SPORT COUPE,12,REAR WHEEL DRIVE,Scott Summers,Delaware
+77897,17050,13067,2019,33309,52000,Jaguar,XJS,1996,NO RESERVE,4.0 LITRE,CONVERTIBLE,6,REAR WHEEL DRIVE,Scott Summers,Delaware
+33893,11990,9222,2019,33309,78000,Jaguar,XJS,1996,CELEBRATION EDITION,4.0 LITRE,CONVERTIBLE,6,REAR WHEEL DRIVE,Jean Grey,Delaware
+40365,13880,12525,2019,33309,46000,Land Rover,Range Rover,1995,COUNTY,3.5 LITRE,SPORT UTILITY VEHICLE,8,ALL WHEEL DRIVE 4X4,Jean Grey,Luisiana
+4448,19600,15806,2019,33309,77000,Bentley,Arnage,2001,RED LABEL,6.75 LITRE TURBO,LUXURY SEDAN,8,REAR WHEEL DRIVE,Jean Grey,Luisiana
+60006,14900,11787,2019,33309,37000,Rolls-Royce,Silver Shadow,1967,FACTORY LEATHER,V/8,LUXURY SEDAN,8,REAR WHEEL DRIVE,Jean Grey,Luisiana
+30888,12500,9032,2019,33309,68000,BMW,6-Series,1984,SHARK BODY,3.3 LITRE,Coupe,6,REAR WHEEL DRIVE,Jean Grey,Luisiana
+59583,7100,6574,2019,33309,155000,BMW,6-Series,1988,L EDITION,3.5 LITRE,SPORT COUPE,6,REAR WHEEL DRIVE,Jean Grey,Luisiana
+45670,16990,13109,2019,33309,76000,BMW,8-Series,1995,CI,4.0 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Jean Grey,Virgina
+76398,9090,6972,2019,33309,59000,BMW,5-Series,2010,NO RESERVE,3.0 LITRE,Sedan,6,REAR WHEEL DRIVE,Jean Grey,Arizona
+138083,12800,12230,2020,333**,87000,Mercedes-Benz,SL-Class,1985,ROADSTER,3.8 LITRE,Convertible,8,REAR WHEEL DRIVE,Jean Grey,Delaware
+76179,10000,7992,2019,33309,93000,Mercedes-Benz,SL-Class,1985,FACTORY LEATHER,3.8 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Jean Grey,Virgina
+5414,14460,11584,2019,33309,63000,Mercedes-Benz,SL-Class,2002,SILVER ARROW EDITION,5,CONVERTIBLE,8,REAR WHEEL DRIVE,Jean Grey,Arizona
+4370,11400,11601,2019,33309,46900,Mercedes-Benz,SL-Class,2002,ROADSTER,5.0 LITRE,ROADSTER CONVERTIBLE,8,REAR WHEEL DRIVE,Jean Grey,Luisiana
+4162,12510,11959,2019,33309,90000,Mercedes-Benz,SL-Class,2004,ROADSTER,5.0 LITRE,CONVERTIBLE,8,REAR WHEEL DRIVE,Jean Grey,Delaware
+135423,7880,7641,2020,333**,116000,Porsche,928,1983,TWO 928 PORSCHES FOR SALE,5.0 LITRE,COUPE,8,REAR WHEEL DRIVES,Jean Grey,Luisiana
+59763,14000,13226,2019,33309,53000,Chrysler,Imperial,1966,FACTORY,413 CUBIC INCH,CROUWN COUPE,8,REAR WHEEL DRIVE,Jean Grey,Delaware
+77944,15500,12370,2019,33309,48000,Maserati,Quattroporte,1982,ALL ORIGINAL,V/8,FOUR DOOR LUXURY SEDAN,8,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+77914,860,1486,2019,33309,79000,Maserati,Quattroporte,1984,NO RESERVE SET,no engine,,0,REAR WHEEL DRIVE,Absalon Mercator,Delaware
+137183,4890,4477,2020,333**,29000,Maserati,Biturbo,1986,TWO MASERATI'S BI TURBO,BI-TURBO,Sedan,4,FWD,Absalon Mercator,Luisiana
+75937,3580,3422,2019,33309,68000,Alfa Romeo,164,1991,FACTORY,3.0 LITRE,SEDAN,6,FRONT WHEEL DRIVE,Absalon Mercator,Arizona
+135988,3400,4737,2020,333**,77000,Fiat,124 Spider,1983,,4 CYL,CONVERTIBLES,4,REAR WHEEL DRIVE,Absalon Mercator,Arizona
+114901,1050,3067,2020,92506,230000,BMW,5-Series,2002,525i,Inline 6,,0,RWD,Absalon Mercator,Arizona
+111298,5100,4737,2020,28443,159602,Mercedes-Benz,SLK-Class,2005,,,Convertible,0,,Absalon Mercator,Delaware
+142478,50200,37626,2020,378**,39,Plymouth,Barracuda,1972,,,,0,,Absalon Mercator,Delaware
+7806,2060,2573,2019,32164,77073,Ford,Explorer Sport Trac,2003,,,,0,RWD,Absalon Mercator,Delaware
+52147,10500,10762,2019,33710,73566,Chevrolet,Nova,1973,,307 v8,Fastback,8,RWD,Absalon Mercator,Delaware
+104705,13500,11175,2019,21158,82006,Chevrolet,Camaro,1968,Base,5.7L,Convertible,8,RWD,Absalon Mercator,Luisiana
+54562,33800,26575,2019,93274,3000,Ford,Sunliner,1952,Crestline,302,Convertible,8,RWD,Absalon Mercator,Luisiana
+86156,6600,8302,2019,86004,104100,Ford,Excursion,2003,Eddie Bauer,6.0 Turbo Diesel,SUV,8,RWD,Absalon Mercator,Luisiana
+10188,36430,28664,2019,86004,69300,Ford,F-250,2013,Platinum,6.7,Crew Cab Pickup,8,4WD,Robert Drake,Luisiana
+87940,8100,6698,2020,86004,93500,Ford,F-150,2006,FX-4,5.4 V8,Crew Cab Pickup,8,4WD,Robert Drake,Arizona
+145525,3050,3214,2020,860**,93650,Pontiac,Fiero,1985,GT,,Coupe,6,RWD,Robert Drake,Arizona
+144480,6110,7548,2020,860**,96800,Chevrolet,S-10,1984,,,Extended Cab Pickup,6,4WD,Robert Drake,Virgina
+10461,33950,24868,2019,86004,44900,GMC,Yukon,2016,Denali,6.2,SUV,8,4WD,Robert Drake,Arizona
+10441,5200,7602,2019,86005,152000,Chevrolet,Tahoe,2005,Z71,5.3,SUV,8,4WD,Robert Drake,Delaware
+10087,28600,23670,2019,86005,23600,Jeep,Wrangler,2008,Unlimited Rubicon,5.7 V8,SUV,8,4wd,Robert Drake,Virgina
+144353,5100,6606,2020,860**,65490,Geo,Tracker,1997,,,SUV,4,4WD,Robert Drake,Arizona
+10439,8400,8346,2019,86005,5350,Dodge,Journey,2018,Crossroad,3.6,SUV,6,FWD,Robert Drake,Luisiana
+10455,14670,13015,2019,86004,3050,Chevrolet,Equinox,2019,LT,1.5,SUV,4,AWD,Robert Drake,Delaware
+144384,5300,5716,2020,860**,57150,Mazda,B-Series Pickups,1999,,,Extended Cab Pickup,6,4WD,Robert Drake,Luisiana
+144681,8900,9003,2020,860**,88308,Honda,Element,2007,LX,2.4L Gas I4,SUV,0,4WD,Robert Drake,Delaware
+10344,28400,22122,2019,86002,25150,Toyota,Highlander,2017,XLE,V6,SUV,6,AWD,Robert Drake,Luisiana
+10454,31500,25982,2019,86004,43002,Toyota,Tundra,2014,Platinum,5.7,Crew Cab Pickup,8,4WD,Franklin Richards,Delaware
+53836,8400,8290,2019,86005,1350,Mitsubishi,Eclipse Cross ES,2019,ES,,SUV,4,AWD,Franklin Richards,Luisiana
+145756,6000,5489,2020,860**,170500,Toyota,Pickup,1987,,,,0,,Franklin Richards,Arizona
+10345,22100,19049,2019,86005,24282,Lexus,NX,2015,F-Sport,,SUV,4,AWD,Franklin Richards,Arizona
+10139,6000,8092,2019,86005,73573,Jaguar,S-Type,2007,Luxury,3,Sedan,6,RWD,Franklin Richards,Arizona
+144087,9600,9400,2020,860**,91700,BMW,7-Series,2009,750i,4.8 Twin Turbo V8,Sedan,8,RWD,Franklin Richards,Arizona
+62743,17700,13418,2019,86001,34011,BMW,Z4,2011,Sdrive35i,6 cylinder twin turbo,Convertible,6,RWD,Franklin Richards,Arizona
+75266,1500,4001,2019,69144,83751,AMC,Hornet,1975,,6 cylinder,Sedan,6,RWD,Franklin Richards,Delaware
+30621,5700,7241,2019,46368,59500,Ford,Mustang,2004,2dr Cpe GT,4.6L V8 SOHC 16V,2dr Car,8,2dr Cpe GT Deluxe,Franklin Richards,Delaware
+96591,26000,19369,2019,22801,0,Austin Healey,100,1955,,327 Chevy bored and stroked to 368,Convertible,8,RWD,Franklin Richards,Luisiana
+135429,40200,29031,2020,310**,14800,Lexus,LS,2018,500 F Sport,3.5L Gas V6,Sedan,6,RWD,Franklin Richards,Virgina
+135383,30100,22800,2020,850**,24000,BMW,M6,2013,,4.4L Gas V8,Coupe,8,RWD,Franklin Richards,Virgina
+53915,10000,8101,2019,95608,21000,Chevrolet,Camaro,1974,,,Coupe,8,RWD,Franklin Richards,Luisiana
+51437,5500,5484,2019,27320,0,Ford,F-100,1966,,,Standard Cab Pickup,6,RWD,Franklin Richards,Luisiana
+51157,4650,7180,2019,74104,977,Volkswagen,Beetle - Classic,1964,,,Coupe,4,,Jean Grey,Arizona
+14180,660,1113,2019,46126,187000,Dodge,Dakota,2004,SLT,3.7 V6,Crew Cab Pickup,6,4WD,Robert Drake,Arizona
+77618,5800,6108,2019,12019,286000,GMC,Jimmy,1991,SLE,5.7 L,SUV,8,4WD,Franklin Richards,Arizona
+89962,1800,4141,2019,76110,999999,Mercedes-Benz,200-Series,1973,280 project car,6 cyl.,Sedan,6,RWD,Absalon Mercator,Arizona
+153145,4650,7111,2020,424**,137000,Oldsmobile,Cutlass,1984,Supreme,383 Stroker V8,Coupe,8,--,Erik Lensherr,Arizona
+97575,32000,24042,2020,18015,810,Pontiac,GTO,1967,,,Coupe,8,,Jean Grey,Delaware
+89023,1850,3619,2019,97124,60500,Studebaker,Special Six,1922,,289,Convertible,6,RWD,Robert Drake,Delaware
+114459,10450,10752,2020,349**,114000,Jeep,Wrangler,2004,,4,SUV,6,4WD,Absalon Mercator,Delaware
+114249,6800,8211,2020,349**,86000,Ford,Torino,1970,,,,0,,Franklin Richards,Luisiana
+65501,5700,7835,2019,11767,115802,Pontiac,Trans Am,1989,GTA,5.7,Coupe,8,RWD,Absalon Mercator,Luisiana
+65431,5000,7321,2019,11767,115802,Pontiac,Trans Am,1989,GTA,5.7,Coupe,8,RWD,Robert Drake,Luisiana
+65266,4550,5973,2019,11767,74000,Pontiac,Firebird,1986,,305 tpi,Coupe,8,RWD,Scott Summers,Luisiana
+16033,340,1390,2019,67950,123000,Chevrolet,Camaro,1985,,,,0,,James Howlett,Arizona
+146772,9500,7464,2020,898**,30800,Chevrolet,Corvette,1990,,350-V8 FI,Coupe,8,RWD,Erik Lensherr,Arizona
+94726,5660,6421,2019,20695,999999,Ford,Model T,1925,Huckster Wagon,,Wagon,4,RWD,Jean Grey,Virgina
+26797,13030,10944,2019,95664,103000,Dodge,Challenger,2012,R/T,Hemi,Coupe,8,RWD,Franklin Richards,Arizona
+3752,10,1263,2019,89423,0,Mazda,Other,1973,,,,0,,Absalon Mercator,Delaware
+118599,33100,26713,2020,493**,999999,Hudson,Pickup,1947,,308,Standard Cab Pickup,6,,Erik Lensherr,Virgina
+125366,16600,12005,2020,956**,676,Ford,Other,1930,,,Sedan,8,,Jean Grey,Arizona
+145741,5760,7805,2020,449**,86039,Willys,Knight Model 56,1928,original,,Sedan,4,RWD,Robert Drake,Luisiana
+34085,11900,11177,2019,53809,100000,Chevrolet,C-10,1965,,6 cyl,Standard Cab Pickup,6,RWD,Scott Summers,Delaware
+82293,16000,14834,2020,16146,101000,Oldsmobile,Eighty-Eight,1962,Convertible,394,Convertible,8,RWD,Absalon Mercator,Luisiana
+32054,31450,23105,2019,17527,0,Ford,Dearborn Duce,1932,,Flathead supercharged,Convertible,8,RWD,Erik Lensherr,Delaware
+67154,3050,5356,2019,52601,102830,Land Rover,Range Rover,1990,Country,3.9L V8,SUV,8,4WD,Jean Grey,Luisiana
+52809,16880,14202,2019,49099,38903,Volkswagen,Beetle - Classic,1963,Cabriolet,1600 SP,Convertible,4,Rear,Robert Drake,Delaware
+112817,5800,6249,2020,53207,100,Dodge,Other,1939,,,Coupe,0,,Scott Summers,Luisiana
+73760,3800,4530,2019,53212,800,Volkswagen,Beetle - Classic,1970,Beetle,Buick V-6,,6,RWD,James Howlett,Arizona
+74872,10000,10538,2019,53207,72270,Buick,Special 40,1938,,Straight Eight,,0,RWD,Franklin Richards,Arizona
+134623,1430,4032,2020,532**,0,Cadillac,La Salle,1939,MODEL 50 CONVERTIBLE,,Sedan,8,,Absalon Mercator,Arizona
+2910,2230,4128,2019,53207,127000,Chrysler,New Yorker,1975,,440,Sedan,8,,Franklin Richards,Arizona
+134300,8000,8030,2020,532**,0,Dodge,Victory Six,1928,,flathead 6,Coupe,6,RWD,Absalon Mercator,Arizona
+2911,1600,5040,2019,53207,91000,Plymouth,Fury,1967,,318,Sedan,8,,Absalon Mercator,Delaware
+2923,3500,6067,2019,1536,190049,Dodge,Ram 1500,2003,,4.7,Extended Cab Pickup,8,4WD,Erik Lensherr,Delaware
+80279,17390,16070,2019,28311,69313,Chevrolet,Other,1950,Convertible,,,0,,Jean Grey,Delaware
+69438,5000,5867,2019,30024,77726,Hudson,Model 20,1942,,6 Cylinder,Sedan,6,RWD,Robert Drake,Delaware
+64515,5500,6430,2019,99206,112638,Kaiser,Deluxe,1951,classic car,Continental 226 c.i.,Sedan,6,RWD,Scott Summers,Luisiana
+72276,3060,4401,2019,80808,101091,AMC,Eagle,1987,,4.2L,Sedan,6,4WD,James Howlett,Luisiana
+27258,8400,7466,2019,52172,99999,Chevrolet,Other Pickups,1947,No Reserve Survivor Daily Driver 1/2 ton Shortbox,6,,6,RWD,Franklin Richards,Luisiana
+27225,7600,5598,2019,52172,81792,Chevrolet,2 door sedan,1937,HD VIDEO Survivor NO RESERVE!!,6cyl,,6,RWD,Absalon Mercator,Luisiana
+16729,4150,3873,2019,52172,50672,Chrysler,LeBaron,1982,Medallion Mark Cross 50 k actual miles VIDEO!,2.6 lt,Convertible,0,FWD,Franklin Richards,Virgina
+5198,5100,7276,2019,52172,20661,Chevrolet,Monte Carlo,1976,"LANDAU, HD VIDEO, daily driver BEST OFFER",350 v8,Coupe,8,RWD,Absalon Mercator,Luisiana
+16730,5200,6658,2019,52172,113392,Chevrolet,Monte Carlo,2004,SS Dale EarnHardt Jr NO RESERVE HD Video,3.8 lt supercharged 6cyl,Coupe,6,FWD,Absalon Mercator,Luisiana
+4674,6200,7910,2019,52172,40804,Dodge,Other Pickups,1956,NO RESERVE ! 40k Original Miles! SURVIVOR Video!,6,,6,RWD,Erik Lensherr,Arizona
+4767,5400,3998,2019,52172,23889,Ford,Super Deluxe 2dr sedan,1948,HD VIDEO Survivor NO RESERVE!!,flat head 8,,8,RWD,Jean Grey,Arizona
+4982,7000,8124,2019,52172,54398,Chevrolet,C-10,1975,"NO RESERVE, 454 v8 DAILY DRIVER! HD VIDEO!!",454 4bbl v8,,8,RWD,Robert Drake,Virgina
+5354,8300,7471,2019,52172,10918,Chevrolet,C-10,1967,NO RESERVE 1/2 ton pick up truck HD VIDEO!!,6,,6,RWD,Scott Summers,Arizona
+4925,15090,13575,2019,52172,83323,Chevrolet,Other Pickups,1946,"NO RESERVE, SOLID DAILY DRIVER! HD VIDEO!!",6 cyl,,6,RWD,James Howlett,Delaware
+4673,7500,8357,2019,52172,93577,Chevrolet,Other Pickups,1954,NO RESERVE 3100 short box MUST SEE VIDEO!!,235 6 cyl,,6,RWD,Franklin Richards,Virgina
+4828,9100,6919,2019,52172,49430,Chevrolet,Other Pickups,1950,NO RESERVE 3100 short box HD VIDEO!!,216 6 cyl,,6,RWD,Absalon Mercator,Arizona
+37669,3050,4706,2019,89129,65356,Volkswagen,Beetle - Classic,1971,,stock,Sedan,4,,Franklin Richards,Luisiana
+151763,3300,4157,2020,782**,117000,Ford,Mustang,1999,,,Coupe,6,,Absalon Mercator,Delaware
+121822,14000,13106,2020,78254,47100,Mercedes-Benz,GLK-Class,2013,350,3.5L Gas V6,SUV,6,RWD,Absalon Mercator,Luisiana
+84434,40100,28548,2019,48649,89990,Chevrolet,Impala,1964,super sport,409 cu. in. 340 hp.,Convertible,8,RWD,Erik Lensherr,Delaware
+140692,43200,30567,2020,802**,10992,Jaguar,F-Type,2016,S,3.0L Gas V6,Convertible,6,RWD,Jean Grey,Luisiana
+119935,8000,8367,2020,48857,123456,BMW,Isetta,1958,600,598cc,Coupe,2,RWD,Robert Drake,Delaware
+147591,5000,3921,2020,488**,123456,BMW,Isetta,1958,600,598cc,Coupe,2,RWD,Scott Summers,Luisiana
+147625,2000,4552,2020,488**,139760,Ford,Thunderbird,1988,Torbo Coupe,Turbo Charged 4 cylinder,Coupe,4,RWD,James Howlett,Arizona
+147718,5000,4182,2020,488**,27817,Ford,Pinto,1978,wagon,2.3 liter,Wagon,4,RWD,Franklin Richards,Arizona
+139455,4420,3700,2020,549**,220000,Mercedes-Benz,300-Series,1983,,,Wagon,5,,Absalon Mercator,Arizona
+85497,4100,3413,2020,29690,75000,Plymouth,Special Deluxe,1949,,,Sedan,6,RWD,Franklin Richards,Arizona
+143920,15000,12072,2020,296**,68000,Chevrolet,C10,1986,,5.0L Gas V8,Pickup,8,RWD,Absalon Mercator,Arizona
+131030,6400,7772,2020,222**,177403,Lexus,IS,2003,300,,Sedan,6,RWD,Absalon Mercator,Delaware
+62035,910,4569,2019,16617,999999,Oldsmobile,Ninety-Eight,1968,,,,0,,Erik Lensherr,Delaware
+19204,7200,6776,2019,91902,40500,Nissan,Sentra,2014,SV 4dr Sedan,1.8L I4,Sedan,4,FWD,Jean Grey,Luisiana
+151221,12200,12063,2020,902**,190973,Dodge,Ram 2500,2007,SLT,5.9 CUMMINGS DIESEL,Crew Cab Pickup,6,4WD,Robert Drake,Virgina
+122194,7400,6969,2020,902**,159748,Chevrolet,Suburban,2011,LT,6.0 V/8,SUV,8,,Scott Summers,Virgina
+94819,10100,9652,2019,94901,66849,Bentley,Turbo R,1999,,V8 TURBO,,8,AUTO,James Howlett,Luisiana
+95102,6100,4611,2019,89107,133267,MERCEDES-BENZ,600 SEC SUPER RARE,1993,LEATHER,V-12,Coupe,12,RWD,Franklin Richards,Luisiana
+134803,4500,6542,2020,329**,135683,Jeep,Wrangler,1988,,,,4,,Absalon Mercator,Arizona
+134793,1880,2665,2020,329**,40000,Pontiac,Catalina,1972,,,Sedan,0,,Franklin Richards,Arizona
+131682,7700,6850,2020,026**,175150,Ford,F-150,1994,,5.8L Gas V8,Pickup,0,RWD,Absalon Mercator,Arizona
+8625,20000,14730,2019,38261,61613,Chevrolet,Impala,1965,,327,Convertible,8,RWD,Franklin Richards,Arizona
+34657,1500,4711,2019,38261,999999,Chevrolet,C-10,1980,,,Extended Crew Cab Pickup,6,4WD,Franklin Richards,Arizona
+8120,10300,7580,2019,38261,100000,Dodge,Charger,1969,,,,8,RWD,Franklin Richards,Delaware
+148315,9500,8540,2020,956**,103753,Mercedes-Benz,SL-Class,1976,,,Convertible,8,RWD,Franklin Richards,Delaware
+148111,17000,15597,2020,956**,82000,Maserati,Ghibli,2014,,,Sedan,6,RWD,Franklin Richards,Delaware
+119859,2500,3557,2020,917**,0,Ford,Other,1949,,,Coupe,0,,Franklin Richards,Delaware
+44610,14910,13288,2019,33134,86440,Cadillac,Coupe DeVille Series 62,1953,Coupe Series 62,V8 331 Automatic,Coupe,8,RWD,Jean Grey,Luisiana
+123847,20600,17917,2020,604**,5500,Ford,Model A,1931,,302,Sedan,8,RWD,Robert Drake,Luisiana
+123265,3500,4634,2020,402**,114000,Mini,Cooper,2005,S,1.6L Gas I4,Hatchback,0,FWD,Franklin Richards,Luisiana
+72869,7400,8931,2019,11758,104090,Dodge,A100,1965,sportsman,273,van,8,RWD,Absalon Mercator,Luisiana
+132988,8400,8274,2020,117**,33545,Buick,Special Classic,1939,,Inline V8,Sedan,8,RWD,Erik Lensherr,Arizona
+64017,7500,6691,2019,3045,50000,Lincoln,Continental,1960,,430 V-8,Convertible,8,RWD,Jean Grey,Delaware
+149380,2100,5199,2020,030**,110237,Ford,Fairlane,1958,,,COUNTRY SQUIRE WAGON,8,,Robert Drake,Delaware
+91821,1380,2547,2019,3045,1000000000,Ford,Country Squire,1958,RANCH WAGON PROJECT CAR!,--,Wagon,8,RWD,Absalon Mercator,Delaware
+58089,830,3591,2019,46058,160000,Honda,Accord,2001,,,,0,,Franklin Richards,Luisiana
+13455,40000,31789,2019,42207,53575,Ford,Crown Victoria,1956,,292 CID,Coupe,8,RWD,Absalon Mercator,Luisiana
+149399,33000,24081,2020,422**,29157,Chevrolet,Impala,1961,,348 CI engine,Bubbletop,8,RWD,Robert Drake,Luisiana
+113692,8000,8432,2020,255**,9999,Ford,Panel Truck,1949,f100,302,Minivan,8,RWD,Scott Summers,Luisiana
+43072,4550,4115,2019,91303,12345,Ford,Other,1955,,,,0,,James Howlett,Luisiana
+3980,20100,16562,2019,92037,85334,Lincoln,Continental,1948,Cabriolet,Good running V12,,0,RWD,Erik Lensherr,Virgina
+59704,5000,7494,2019,92037,194567,MG,MGB,1980,,,,0,,Jean Grey,Arizona
+42162,1200,4262,2019,33186,62000,MG,Midget,1975,,1500,2 door convertible,4,RWD,Franklin Richards,Delaware
+142098,29570,23588,2020,234**,65247,Chevrolet,Camaro,1969,,327 cu in,Convertible,8,RWD,Absalon Mercator,Virgina
+94302,10350,9409,2019,46037,76142,Buick,Riviera,1968,,430 CI V8,Coupe,0,RWD,Erik Lensherr,Arizona
+93346,7500,5698,2019,48043,187660,Chevrolet,Silverado 1500,2011,Z 71,5.3 Liter,Crew Cab Pickup,8,4WD,Jean Grey,Luisiana
+102448,4500,5474,2019,19380,86000,Chevrolet,Impala,1961,4 door,"235, 6 cyl",Sedan,6,RWD,Robert Drake,Delaware
+138067,10600,10965,2020,629**,30146,Cadillac,DeVille,1975,"COUPE, 30146 Miles VERY EXCEPTIONAL!",500-V-8,Coupe,8,RWD,Scott Summers,Luisiana
+114039,1530,3722,2020,945**,47320,Dodge,A100,1967,Sportsman,318,Wagon,8,RWD,Absalon Mercator,Delaware
+58255,1700,3255,2019,58845,76000,Ford,Mustang,1970,,351 Windsor,,8,RWD,Erik Lensherr,Luisiana
+126805,2180,4548,2020,352**,109000,Buick,Reatta,1989,,V6,Coupe,6,RWD,Jean Grey,Delaware
+42316,17500,15947,2019,43443,112000,Dodge,Ram 2500,2008,,,Extended Cab Pickup,6,4WD,Robert Drake,Luisiana
+95814,19100,14086,2019,41101,22780,Chevrolet,Malibu,1966,,454c.i. Big Block,,8,,Scott Summers,Arizona
+12767,6000,7237,2019,57634,55500,Chevrolet,C-10,1969,,350 4,Standard Cab Pickup,8,RWD,James Howlett,Arizona
+93009,5310,7403,2019,37754,27544,Pontiac,Trans Am,1995,Firebird,5.7 LT1,Convertible,8,RWD,Franklin Richards,Arizona
+63932,6100,6163,2019,46052,54000,Jaguar,XK8,1999,Tan Leather,V8 4.0 liter 290 HP,Convertible,8,RWD,Absalon Mercator,Arizona
+68938,3550,5069,2019,95661,99999,Opel,,1974,Rallye,1.9l CIH,Coupe,4,RWD,Franklin Richards,Arizona
+56113,10000,7224,2019,80108,141000,Jeep,Wagoneer,1988,Grand,5.9L V8,Wagon,8,4WD,Absalon Mercator,Delaware
+149911,24500,20751,2020,137**,46000,Mercedes-Benz,E-Class,2017,,2.0L I4 Turbocharger,Sedan,0,AWD,Absalon Mercator,Delaware
+124864,13100,12628,2020,038**,4200,Porsche,Speedster 356,1969,,1600,Convertible,4,RWD,Erik Lensherr,Luisiana
+123541,18000,15489,2020,982**,66723,Chevrolet,Camaro,2015,2SS,6.2L Gas V8,Convertible,8,RWD,Jean Grey,Virgina
+74640,7150,5334,2019,42071,13,Henney,Kilowatt,1960,,Electric,Sedan,0,RWD,Robert Drake,Virgina
+74638,6770,6228,2019,42071,696,Henney,Kilowatt,1960,,Electric,Sedan,0,RWD,Robert Drake,Luisiana
+56170,5200,4962,2019,30710,75000,Ford,LTD,1972,Convertible,400,Convertible,8,RWD,Robert Drake,Luisiana
+154773,130,405,2020,064**,12345,Ford,Falcon,1962,,,Coupe,0,,Robert Drake,Arizona
+80420,9800,7222,2019,71303,137000,Jeep,Wrangler,1988,SAHARA,CHEVY 350,SUV,8,4WD,Franklin Richards,Arizona
+31231,14800,10567,2019,6114,99999,Ford,Mustang,1965,,5,Fastback,8,RWD,Franklin Richards,Arizona
+35756,610,3459,2019,7013,144000,Saab,09-Mar,2004,,,Convertible,4,FWD,Franklin Richards,Arizona
+4993,29700,23452,2019,85018,46210,Aston Martin,DB7,2002,,,Coupe,12,RWD,Franklin Richards,Arizona
+19157,1500,1436,2019,19380,72500,Volkswagen,Other,1972,,1.7L Fuel Injection,Sedan,4,RWD,Robert Drake,Delaware
+38728,6400,5311,2019,24153,20,Chevrolet,Malibu,1966,,454,,8,2WD,Robert Drake,Delaware
+88257,6200,5217,2019,48451,26000,Ford,Other,1970,,351,,8,,Robert Drake,Luisiana
+63115,18700,16241,2019,48423,20000,Ford,Thunderbird,1955,,,,8,,Robert Drake,Luisiana
+132055,32600,25018,2020,460**,33819,Chevrolet,Corvette,2010,GRAND SPORT,6.2L Gas V8,Coupe,8,RWD,Franklin Richards,Arizona
+5660,30330,22179,2019,7731,63000,Ram,5500,2013,4x4 Extended Cab,Diesel 6.7 Cummins,Cab & Chassis,6,4WD,Franklin Richards,Delaware
+98556,2560,2749,2019,92705,61687,Ford,F-250,1994,,7.5,,0,,Franklin Richards,Delaware
+98461,3350,3740,2019,92705,103972,Lexus,GS,2003,,6 cylinder,,0,,Franklin Richards,Delaware
+99203,6000,4675,2019,92705,27956,Saab,09-Mar,2008,,4,,0,,Absalon Mercator,Luisiana
+151533,9600,8790,2020,782**,108848,GMC,Sierra 1500,2009,SLE,5.3,Crew Cab Pickup,8,,Absalon Mercator,Luisiana
+35146,25600,20763,2019,44145,66845,Jaguar,E-Type,1971,Coupe,V-12 5.4 Liter,Coupe,12,RWD,Absalon Mercator,Luisiana
+88443,18510,16518,2019,32174,82092,Lincoln,Continental,1966,,V8,Convertible,8,RWD,Absalon Mercator,Luisiana
+32914,2030,2691,2019,53151,182912,Jeep,Wrangler,2000,Sport,4.0 Litre,SUV,6,4WD,Absalon Mercator,Luisiana
+136425,23900,17213,2020,953**,42699,Ford,E-Series Van,2008,E350 SUPER DUTY VAN,6.0L Diesel V8,Standard Cargo Van,8,RWD,Absalon Mercator,Virgina
+2489,7600,7176,2019,10509,47000,Pontiac,Grand Prix,1976,LJ,400,Coupe,8,RWD,Robert Drake,Arizona
+15160,68100,50853,2019,91304,92419,Plymouth,Barracuda,1971,CUDA,383,Coupe,8,RWD,Robert Drake,Delaware
+105756,8000,6500,2020,57370,42600,Chevrolet,Corvette,1981,,,Coupe,8,RWD,Robert Drake,Luisiana
+160213,70000,49332,2020,655**,7632,Chevrolet,Chevelle,1970,SS,502 BBC,Coupe,8,RWD,Robert Drake,Delaware
+160280,48000,37166,2020,655**,35261,GMC,Sierra 3500,2015,Denali,6.6 L Duramax,Crew Cab Pickup,8,4WD,Robert Drake,Luisiana
+28263,3500,3907,2019,28785,146000,Ford,F-250,2003,,8,Cab & Chassis,8,RWD,Jean Grey,Arizona
+41489,8400,7344,2019,15650,61000,Mercedes-Benz,CLK-Class,2003,Leather,Gas,Convertible,6,RWD,Jean Grey,Arizona
+141995,2950,3327,2020,836**,113000,Fiat,124 Spider 2000,1979,,1.8L,Convertible,4,RWD,Jean Grey,Arizona
+7904,20000,17896,2019,38028,134707,Chevrolet,Camaro,1967,Red on Red Rallysport,327ci,Coupe,8,,Jean Grey,Arizona
+139599,22000,19121,2020,956**,125000,Ford,F-250 Super Duty,2000,SUPER DUTY,7.3L Diesel V8,Pickup,8,4WD,Absalon Mercator,Arizona
+48537,850,3622,2019,11721,140000,Pontiac,Fiero,1987,,4,,4,RWD,Absalon Mercator,Delaware
+114331,8500,7060,2020,83442,111111,Dodge,Challenger,1971,,440,Coupe,8,RWD,Absalon Mercator,Delaware
+110761,6200,6222,2020,4259,34228,Buick,Roadmaster,1996,Presidential,5.7LT1,Sedan,8,RWD,Absalon Mercator,Luisiana
+130894,20000,15613,2020,042**,41000,Chevrolet,SS,2003,,6.0 Vortec Max,Extended Cab Pickup,8,AWD,Absalon Mercator,Virgina
+44072,4550,4116,2019,10541,79747,Cadillac,Brougham,1991,--,5.0L V8 F.I. OHV 16V,Sedan,8,RWD,Franklin Richards,Virgina
+127319,3000,4078,2020,10461,69708,AMC,770 Rambler American Classic,1963,,258,Sedan,6,RWD,Absalon Mercator,Luisiana
+139481,5810,5470,2020,029**,33501,Maserati,Biturbo,1985,,2.5 V6,Coupe,6,RWD,Robert Drake,Luisiana
+28889,26150,20427,2019,75238,836,Chevrolet,Bel Air/150/210,1957,Bel Air 210,327 Corvette Engine,2 Door,8,RWD,Scott Summers,Arizona
+120479,2030,4462,2020,211**,160154,Dodge,Durango,2001,,4.7,SUV,0,4WD,James Howlett,Arizona
+94965,4500,4393,2019,37311,256000,Chevrolet,Tahoe,2007,LT,5.3 Liter,,8,,Erik Lensherr,Arizona
+88145,25810,20769,2019,30319,500,Chevrolet,Nova,1970,SS,454,Coupe,8,RWD,Jean Grey,Arizona
+88804,7500,5567,2019,28560,125321,Chevrolet,Corvette,1973,,,,0,,Franklin Richards,Arizona
+10829,15100,13851,2019,28560,65123,Pontiac,GTO,1970,Gto,400,Coupe,8,RWD,Absalon Mercator,Delaware
+108561,1000,2179,2019,38847,100000,Volkswagen,Beetle - Classic,1968,,,,0,,Erik Lensherr,Delaware
+46293,19500,17400,2019,35071,97663,Pontiac,Le Mans,1964,,,Coupe,0,,Jean Grey,Luisiana
+58182,10000,9876,2019,33150,999999,Cadillac,DeVille,1964,,,,0,,Robert Drake,Luisiana
+71469,610,1015,2019,33150,99999,Cadillac,DeVille,1963,,,Coupe,0,,Scott Summers,Arizona
+77158,7200,8924,2019,74112,999999,Pontiac,GTO,1969,,400,2dr Hardtop,8,RWD,Scott Summers,Delaware
+135906,16000,11498,2020,481**,35152,BMW,5-Series,2013,"528i x-Drive (AWD), Titanium Silver Metallic",2.0L I4,4dr Car,4,AWD,Scott Summers,Delaware
+132732,3750,4261,2020,377**,100000,Ford,Pickup,1940,,none,Pickup,0,RWD,Scott Summers,Delaware
+28671,11500,9732,2019,92701,152000,Jeep,J10,1986,,360,Truck,8,4WD,Scott Summers,Luisiana
+89655,15000,12074,2019,83647,0,Dodge,Coronet,1969,Super Bee,383,Coupe,8,RWD,Scott Summers,Luisiana
+148974,16000,14298,2020,836**,1000,Chevrolet,Camaro,1967,,,Coupe,0,,Scott Summers,Luisiana
+11832,5500,5142,2019,83647,58500,Chevrolet,Cheyenne,1976,cheyenne,350,Standard Cab Pickup,8,RWD,Scott Summers,Luisiana
+28568,8500,7299,2019,90278,14050,Willys,439,1949,WILLYS WAGON RARE 4X4 OPTION 1ST YEAR SUV,,SUV,8,4WD,Absalon Mercator,Luisiana
+48567,6300,7818,2019,90278,22734,Buick,LeSabre,2003,"GRANDMA'S CAR 22,700 MI NO RESERVE",3800 V6,Sedan,6,FWD,Robert Drake,Virgina
+117808,2600,5565,2020,463**,142822,Ford,F-250,1969,,,,8,RWD,Robert Drake,Arizona
+46913,8700,7493,2019,95693,95323,Chrysler,New Yorker,1948,,8 cylinder 323ci,Sedan,8,RWD,Robert Drake,Delaware
+113633,6500,7936,2020,465**,250000,Chevrolet,Silverado 3500,2005,LT,DURAMAX Diesel,Crew Cab Pickup,8,4WD,Robert Drake,Luisiana
+79316,4980,6459,2019,82414,93081,Buick,Riviera,1967,Grand Sport,430,Coupe,8,RWD,Robert Drake,Luisiana
+89081,8000,5861,2019,83815,95450,Ford,Bronco,1987,Eddie Bauer 4x4 2 Owner 100% Rust Free Survivor,5.8 351,SUV,8,4WD,Robert Drake,Luisiana
+35662,11500,8296,2019,83815,159690,Ford,Bronco,1996,Eddie Bauer 4x4 Low Mi. w/ Leather Window Sticker,351 5.8L V8,,8,4WD,Robert Drake,Arizona
+47286,6250,7750,2019,83815,137900,Ford,Bronco,1991,XLT 4x4 Beautiful Low Mile Rust Free Survivor,5.0 302,,8,4WD,Robert Drake,Arizona
+54190,6000,5735,2019,83815,140800,Ford,F-150,1995,XLT 4x4 5.8 351 V8 Low Mile Rust Free Survivor,5.8 351,,8,4WD,Robert Drake,Virgina
+88396,8600,6630,2019,83815,154210,Ford,F-150,1986,XLT 4x4 1 Owner Window Sticker/All Records + More,5.8 351,,8,4WD,Robert Drake,Arizona
+41719,7900,6144,2019,83815,108040,Ford,F-150,1994,XLT 4x4 2 Owner Low Mile Like New Time Capsule,302 V8,,8,4WD,Robert Drake,Delaware
+62958,7060,6403,2019,83815,221930,Ford,F-250,1995,XLT 4x4 7.3 Powerstroke 5 Speed 1996 1997,7.3 Powerstroke,,8,4WD,Erik Lensherr,Virgina
+11241,8390,8963,2019,83815,222690,Ford,F-250,1996,XLT 4x4 7.3 Powerstroke Turbo Diesel All Original,7.3 Powerstroke,,8,4WD,Erik Lensherr,Arizona
+41756,10600,8388,2019,83815,155190,Ford,F-250,1994,XLT 4x4 7.3 Powerstroke Turbo Diesel 5 Spd 2 Owner,7.3 Powerstroke,,8,4WD,Erik Lensherr,Luisiana
+10944,12300,10539,2019,83815,146370,Ford,F-350,1996,XLT Crew Cab Long Bed 4x4 460 Fully Loaded Dana 60,460,,8,4WD,Erik Lensherr,Delaware
+89047,7060,6429,2019,83815,155820,Chevrolet,Suburban,1995,LT 4x4 454 Fully Loaded Leather Interior Rust Free,454,SUV,8,4WD,Erik Lensherr,Luisiana
+88702,10500,11044,2019,83815,114835,Chevrolet,Suburban,1999,2500 LT 4x4 454 114k Orig Mi Leather Rust Free,7.4L 454,SUV,8,4WD,Erik Lensherr,Delaware
+88571,6300,8183,2019,83815,41828,Jeep,CJ,1974,5 One Family Owned 41K Orig.Mi. Survivor 6cyl 3spd,258,,6,4WD,Erik Lensherr,Luisiana
+54258,6000,8200,2019,83815,193180,Toyota,4Runner,1991,SR5 4x4 One Owner 100% Rust Free and Original,3,,6,4WD,Erik Lensherr,Delaware
+146903,24610,20022,2020,838**,91330,Plymouth,Road Runner,1969,383 Air Grabber 4SPD #'s Matching Barn Find 91k Mi,383HP,RM23 Hardtop,8,RWD,Erik Lensherr,Luisiana
+28130,9500,10541,2019,13408,1000000,Dodge,Charger,1969,,440,Coupe,8,RWD,James Howlett,Arizona
+81929,5100,7349,2019,8055,98400,Jeep,Patriot,2013,Sport,2.4L,,4,4WD,James Howlett,Arizona
+81645,2850,5555,2019,80516,105000,Toyota,Corolla,2006,LE,,Sedan,4,FWD,James Howlett,Arizona
+102067,10950,11282,2019,6010,37000,Chevrolet,Impala,1995,,,,0,,James Howlett,Arizona
+9413,2600,3738,2019,27278,191200,Ford,F 350,2006,,6.0 power stroke,flatbed,8,RWD,James Howlett,Arizona
+112482,10000,10774,2020,040**,86000,Ford,F-150,1986,,5.0L Gas V8,Pickup,0,RWD,James Howlett,Delaware
+144624,15000,11246,2020,850**,141000,International Harvester,Other,2002,4300,Diesel,Straight Truck - Medium Conventional,6,,James Howlett,Delaware
+62535,6300,5403,2019,85331,99999,Land Rover,Defender,1989,110,Turbo Diesel,SUV,4,4WD,James Howlett,Luisiana
+144629,22100,16762,2020,853**,69400,Porsche,Cayenne,2014,,3.0L Diesel I6,SUV,0,AWD,James Howlett,Virgina
+48365,32700,24449,2019,33019,92632,Chevrolet,Camaro,1969,RS SS,v8 396,Coupe,8,RWD,Erik Lensherr,Virgina
+48361,5400,6653,2019,33019,103108,Ford,Mustang,1991,Convertible GT,302,Convertible,8,RWD,Erik Lensherr,Luisiana
+48363,9950,8423,2019,33019,59174,Chevrolet,Corvette,2005,CORVETTE Z51 6 SPD 400 Horepower,"V8 6,0 litre",Coupe,8,RWD,Erik Lensherr,Luisiana
+42831,1630,3458,2019,33019,164662,Honda,Accord,2006,2.4 LX,2.4L I4 16V,Sedan,4,FWD,James Howlett,Arizona
+48360,4490,4776,2019,33019,107741,BMW,5-Series,2007,525i,3.0L I6 215hp 185ft. lbs.,Sedan,6,,James Howlett,Arizona
+48367,31800,25764,2019,33019,13360,Fisker,Karma,2012,EcoChic,2.0 Turbo,Sedan,4,RWD,James Howlett,Arizona
+75093,4300,3419,2019,70816,94027,Chevrolet,Impala,2015,LT,2.5,4 DOOR SEDAN,4,FWD,Scott Summers,Arizona
+154526,10800,10598,2020,376**,123456,Buick,GS,1972,,,Coupe,8,,Scott Summers,Arizona
+142650,700,3500,2020,230**,48379,Nissan,Sentra,1987,XE (Deluxe Option),1.6L I4,2DR Sedan,4,FWD,Scott Summers,Delaware
+46866,920,1609,2019,74135,138825,Alfa Romeo,Milano,1987,Gold,2.5 V6,Sedan,6,RWD,Absalon Mercator,Delaware
+46198,5000,4345,2019,31204,89351,Cadillac,DeVille,1975,Coupe deVille,500,Coupe,8,RWD,Robert Drake,Delaware
+40745,2000,2098,2019,68114,132000,Land Rover,Range Rover,1999,callaway edition,4.6,SUV,8,4WD,Robert Drake,Luisiana
+21149,1250,2499,2019,96020,60000,Chevrolet,C/K Pickup 1500,1978,Scottsdale,400,Pickup,8,4WD,Robert Drake,Luisiana
+55195,2100,2420,2019,11727,70722,Ford,Mustang,1966,Pony,289,Convertible,8,,Robert Drake,Luisiana
+94144,3950,4147,2019,11727,65562,Ford,Mustang,1965,Pony,289,Coupe,8,RWD,Franklin Richards,Luisiana
+53242,1080,1552,2019,90001,79069,Chevrolet,G20 Van,1995,Gladiator,V8,,0,,Franklin Richards,Arizona
+83482,90,3949,2019,90002,202886,Ford,Festiva,1989,sport,1.3L,,0,FWD,Absalon Mercator,Arizona
+145888,20600,16760,2020,863**,44440,Chevrolet,Camaro,2012,sSS,6.2,Convertible,8,RWD,Erik Lensherr,Virgina
+92529,3050,5940,2019,21620,61394,Chevrolet,Impala,1972,,,,0,,Jean Grey,Arizona
+59101,2000,2437,2019,6037,122000,Ford,E-Series Van,2003,,5.4,,8,,Robert Drake,Delaware
+96205,9400,7175,2019,27262,148407,Hummer,H2,2005,SUT,6,Crew Cab Pickup,8,4WD,Scott Summers,Virgina
+98643,13800,10391,2019,30030,100000,International Harvester,Scout,1964,Base 80,152,SUV,4,4WD,James Howlett,Arizona
+56112,930,1630,2019,10805,114000,Pontiac,Grand Ville,1974,--,350,Convertible,8,RWD,Franklin Richards,Luisiana
+41950,2550,4327,2019,19707,83099,Chevrolet,Bel Air/150/210,1960,,6 cylinder,2 door,6,,Absalon Mercator,Delaware
+47424,17560,13578,2019,19707,36088,Chevrolet,Other,1951,,Original inline 6 cylinder,Tin Woody station wagon,6,,Franklin Richards,Luisiana
+47418,12620,10081,2019,19707,0,Chevrolet,Bel Air/150/210,1952,,350 V-8,2 door hardtop Bel Air,8,,Absalon Mercator,Delaware
+47489,11900,11586,2019,19707,106000,Chevrolet,Impala,1964,,,,0,,Franklin Richards,Luisiana
+44067,3500,3765,2019,97045,1,Pontiac,Firebird,1971,Formula 400,Pontiac 400,,0,,Absalon Mercator,Delaware
+131943,610,963,2020,125**,40000,Ford,Fiesta 1.6,1978,,1.6,Hatchback,0,FWD,Robert Drake,Luisiana
+130785,5800,5439,2020,990**,170895,Chevrolet,Silverado 1500,1995,Silverado,Vortec 4.3,Standard Cab Pickup,6,4WD,Scott Summers,Arizona
+120483,3850,5952,2020,320**,142000,Ford,Mustang,1966,,straight-six,,0,RWD,James Howlett,Arizona
+93236,4990,6679,2019,83814,106328,Jeep,Cherokee,1998,Classic,4.0L,SUV,6,4WD,Erik Lensherr,Arizona
+149524,16000,14749,2020,146**,107000,Pontiac,Trans Am,1981,,,,0,,Jean Grey,Arizona
+149274,10650,10267,2020,144**,62260,Pontiac,Catalina,1968,,400 2bbl,Convertible,8,RWD,Franklin Richards,Arizona
+91788,11900,9227,2019,14612,56959,Pontiac,,1980,Trans Am,V8 301 Turbo,Coupe,8,RWD,Absalon Mercator,Delaware
+63891,8000,6851,2019,14612,125006,Pontiac,Grand Prix,1963,Grand Prix,389,Coupe,8,RWD,Erik Lensherr,Delaware
+91799,14580,12652,2019,14612,111111,Chevrolet,3100,1953,3100,350,single cab long bed,8,RWD,Jean Grey,Delaware
+87201,7350,8794,2019,23233,100000,Dodge,Charger,1974,Basic coupe,440,Coupe,8,RWD,Robert Drake,Delaware
+31521,21000,17532,2019,42103,68800,Chevrolet,Avalanche,2011,Ltz,5.3,Crew Cab Pickup,8,4WD,Franklin Richards,Luisiana
+102761,6920,5095,2019,38930,87000,Ford,Thunderbird,2002,,v8,Convertible,8,,Absalon Mercator,Luisiana
+103076,3500,5092,2019,38930,6363,Ford,F-100,1966,,352,Standard Cab Pickup,8,RWD,Erik Lensherr,Luisiana
+20894,54100,39340,2019,91205,106794,Mercedes-Benz,200-Series,1970,,280,Convertible,0,RWD,Jean Grey,Luisiana
+75344,5600,7432,2019,44070,73000,Pontiac,Firebird,1976,,6.6,,8,RWD,Robert Drake,Virgina
+65898,16000,12411,2019,97402,114000,Ford,Bronco,1996,Eddie Bauer,5.8 V-8,Standard Cab Pickup,8,4WD,Absalon Mercator,Luisiana
+142297,9900,7292,2020,926**,72138,Jeep,Wrangler,1998,SE,2.5L Gas I4,SUV,4,4WD,Franklin Richards,Luisiana
+142273,9500,8560,2020,926**,175157,Jeep,Wrangler,1990,S,2.5L Gas I4,SUV,4,4WD,Absalon Mercator,Luisiana
+142132,7810,8693,2020,926**,130175,Jeep,Wrangler,1992,Soft Top,4.0L HIGH OUTPUT,SUV,6,4WD,Robert Drake,Arizona
+1193,1500,1307,2019,11432,140000,Ford,Escape,2008,,,,6,4WD,Scott Summers,Delaware
+48123,4500,4984,2019,60123,56462,Mercury,Other,1940,,Chevy 350 SB,Convertible,8,,James Howlett,Delaware
+51933,1950,4367,2019,92262,66700,Oldsmobile,Omega,1984,Brougham,2.8 l,Coupe,6,FWD,Erik Lensherr,Delaware
+45555,2950,4508,2019,92262,109000,GMC,Other,1986,Sierra Classic,2.8,Extended Cab Pickup,6,RWD,Jean Grey,Luisiana
+52022,7600,7048,2019,92262,83500,Oldsmobile,Eighty-Eight,1975,Delta 88 Royale,,Convertible,8,RWD,Franklin Richards,Luisiana
+51992,4110,3567,2019,92262,65000,Chrysler,Newport,1973,Custom,400,Hardtop Sedan,8,RWD,Absalon Mercator,Luisiana
+81204,26900,19423,2019,35769,79000,Ford,Bronco,1972,--,302 v8 roller 5.0,SUV,8,4WD,Erik Lensherr,Luisiana
+6850,29500,22460,2019,35769,2000,Ford,Bronco,1973,,302 v8,SUV,8,4WD,Jean Grey,Luisiana
+46262,40100,30572,2019,35769,500,Ford,Bronco,1974,CUSTOMIZED,351M V8,SUV,8,4WD,Robert Drake,Virgina
+145341,3920,4274,2020,972**,71999,Subaru,Brat,1979,,,,0,4WD,Franklin Richards,Arizona
+145392,6900,6022,2020,984**,134900,GMC,Suburban,1988,Sle,350,SUV,8,4WD,Absalon Mercator,Delaware
+144790,12600,11561,2020,984**,138900,Ford,F-250,1977,Ranger,390,Standard Cab Pickup,8,4WD,Erik Lensherr,Luisiana
+144666,5500,6894,2020,984**,22699,Toyota,Land Cruiser,1985,,2F,SUV,6,4WD,Jean Grey,Delaware
+144560,6700,5634,2020,984**,78999,GMC,Sierra 2500,1978,High Sierra,454,Standard Cab Pickup,8,RWD,Robert Drake,Luisiana
+135964,6600,7057,2020,077**,78000,Ford,E-Series Van,1992,,,Wagon,8,RWD,Robert Drake,Arizona
+60980,8100,9172,2019,32092,88000,Audi,S5,2011,,4.2,Coupe,8,,Robert Drake,Arizona
+37978,3700,4050,2019,30032,57752,Pontiac,Bonneville,1967,,400 Big Block 6.8L,Sedan,8,,Franklin Richards,Arizona
+131657,11300,9602,2020,495**,119000,Subaru,Forester,2008,,,,4,AWD,Absalon Mercator,Arizona
+9004,9000,9761,2019,98373,115900,Ford,F-350,1979,Ranger XLT Lariat,400,Extended Cab Pickup,8,4WD,Franklin Richards,Arizona
+8747,4150,6635,2018,98373,201800,Ford,Bronco,1988,Eddie Bauer,302,SUV,8,4WD,Absalon Mercator,Delaware
+9198,10100,8168,2019,98373,77900,GMC,Sierra 2500,1975,Cheyenne,350,Standard Cab Pickup,8,RWD,Erik Lensherr,Delaware
+8853,7000,6631,2019,98373,138500,Ford,F-250,1977,Ranger XLT Highboy,390,Standard Cab Pickup,8,4WD,Jean Grey,Luisiana
+8820,13110,10409,2019,98373,151200,Toyota,Land Cruiser,1990,GX,3F EFI,SUV,6,4WD,Robert Drake,Virgina
+96793,1150,1828,2019,40741,131852,Lincoln,LS,2004,,3.9L V8,Coupe,8,RWD,Scott Summers,Virgina
+96631,3500,4814,2019,40741,93528,Ford,Crown Victoria,2009,P71,4.6 OHC SEFI V8 Flex Fuel,Sedan,8,RWD,James Howlett,Luisiana
+123256,1730,4658,2020,407**,101080,Ford,Crown Victoria,2009,POLICE INTERCEPTOR,4.6L OHC SEFI V8 FLEX FUEL,Sedan,8,RWD,Franklin Richards,Luisiana
+65262,3870,4107,2019,40741,65653,Ford,Crown Victoria,2009,Police Interceptor P71,4.6L OHC SEFI V8 FLEX FUEL,Sedan,8,RWD,Absalon Mercator,Arizona
+95782,1930,4495,2019,40741,91675,Ford,Crown Victoria,2009,P71,4.6 OHC SEFI V8 Flex Fuel,Sedan,8,RWD,Franklin Richards,Arizona
+96908,1580,4465,2019,40741,142276,Kia,Sedona,2008,,3.8L,Minivan,6,FWD,Absalon Mercator,Arizona
+13643,1480,3636,2019,37214,151000,AMC,Gremlin,1972,base,258 cubic inch,,6,RWD,Franklin Richards,Arizona
+60860,35000,25331,2019,81301,8033,Audi,Q5,2018,Premium Plus SUV 4D,2.0 TFSI 252 HP,SUV,6,AWD,Absalon Mercator,Arizona
+88764,3950,5537,2019,6804,247000,Toyota,Land Cruiser,2002,,V8 4.7L,SUV,8,AWD,Robert Drake,Delaware
+158046,14000,13496,2020,786**,1,Buick,Regal,1981,Hard top,350 Chevy (5.7L) engine,Coupe,8,RWD,Erik Lensherr,Delaware
+16635,1580,3530,2019,17522,137985,AMC,Eagle,1987,,258ci / 4.2litre inline 6cyl.,Wagon,6,4WD,Jean Grey,Luisiana
+36355,9600,9520,2019,92346,114220,BMW,3-Series,1991,,2.5,Convertible,6,RWD,Robert Drake,Luisiana
+63861,7100,8847,2019,92346,56593,BMW,5-Series,1991,,6 cylinder 3.5 liter,Sedan,6,RWD,Absalon Mercator,Arizona
+19761,40200,30884,2019,56001,114000,Chevrolet,Camaro,1969,427,,Coupe,0,,Franklin Richards,Arizona
+20203,19900,17494,2019,56001,88000,Volkswagen,Beetle - Classic,1957,Oval Window,,Coupe,0,,Absalon Mercator,Arizona
+66644,8310,8407,2019,56001,123456,Ford,Model T,1926,Coupe,,Coupe,0,,Robert Drake,Arizona
+159293,36900,28211,2020,560**,31741,Chevrolet,Chevelle SS,1969,,396 V8,Other,0,,Scott Summers,Arizona
+38055,24900,19507,2019,56001,98069,Chevrolet,Caprice,1965,396,,,0,,James Howlett,Delaware
+159214,520,724,2020,560**,0,Cadillac,Series 62,1964,2dr Hardtop,,Coupe,0,,Erik Lensherr,Delaware
+20001,17400,15702,2019,56001,72324,Chevrolet,Impala,1966,Convertible,,Convertible,0,,Jean Grey,Delaware
+103846,18700,13341,2020,56001,87655,Chevrolet,Chevelle,1972,Malibu 2dr Hardtop,350 V8,Other,0,,Franklin Richards,Delaware
+56496,19800,14903,2019,56001,42000,Chevrolet,Corvette,2003,Convertible 50th Anniversary,,Convertible,0,,Absalon Mercator,Luisiana
+56755,17800,15680,2019,56001,85805,Oldsmobile,Cutlass,1983,Hurst/Olds,307 HO V8,Coupe,0,,Erik Lensherr,Luisiana
+56663,8400,8861,2019,56001,35280,Buick,LeSabre,1985,Collector's Edition,305,,0,,Jean Grey,Luisiana
+125842,17200,14825,2020,56001,16989,Cadillac,Fleetwood,1995,Brougham,5.7 Liter V8,Sedan,0,,Franklin Richards,Luisiana
+43758,36900,27075,2019,56001,4441,Ford,Mustang,2008,Shelby GT500,,Coupe,0,,Absalon Mercator,Virgina
+20345,28900,23013,2019,56001,3480,Chevrolet,Impala,1962,2 door hard top,,Coupe,0,,Franklin Richards,Luisiana
+19452,20200,17899,2019,56001,17200,Chevrolet,Camaro,2010,SS,,Coupe,0,,Absalon Mercator,Luisiana
+19453,12200,10231,2019,56001,36291,Pontiac,Firebird,1979,Trans Am,,Coupe,0,,Robert Drake,Luisiana
+66855,12900,12954,2019,56001,8578,Dodge,2 DR SEDAN,1948,,,,0,,Scott Summers,Arizona
+19591,4100,5153,2019,56001,1,Chevrolet,Impala,1963,SS,,Coupe,0,,James Howlett,Delaware
+158470,34900,25622,2020,560**,96000,Buick,Riviera,1965,,401 V8,Coupe,0,,Erik Lensherr,Delaware
+158778,13200,13174,2020,560**,63662,Buick,Special,1956,Riviera 2dr Hardtop,322 Nailhead V8,Other,0,,Jean Grey,Delaware
+103719,3040,5210,2020,56001,1,Cadillac,DeVille,1962,Convertible,,Convertible,0,,Franklin Richards,Luisiana
+102767,6600,6931,2019,56001,7400,Cadillac,Eldorado,1975,Convertible,,Convertible,0,,Absalon Mercator,Luisiana
+102580,9900,8778,2019,56001,40600,Ford,Thunderbird,1979,,302 V8,Coupe,0,,Erik Lensherr,Luisiana
+66854,500,4180,2019,56001,11111,Chevrolet,Bel Air/150/210,1956,2 Door Sedan,,Coupe,0,,Jean Grey,Luisiana
+43706,16900,15435,2019,56001,112000,Chevrolet,Blazer,1977,4x4,,SUV,0,,Robert Drake,Luisiana
+103638,6500,6898,2019,56001,54000,Mazda,MX-5 Miata,1993,MX-5,1.6 Liter,Convertible,0,,Franklin Richards,Virgina
+125841,37900,30502,2020,56001,6397,Ford,Crown Victoria,1956,,292 V8,Coupe,0,,Absalon Mercator,Arizona
+67022,5550,4190,2019,56001,91000,Mercedes-Benz,560 SL Convertible,1989,,5.6 Ltr.,Convertible,0,,Erik Lensherr,Delaware
+39322,12600,10558,2019,48334,19200,Mazda,MX-5 Miata,2000,SPECIAL EDITION,4 CYL FI,Convertible,4,RWD,Jean Grey,Luisiana
+134766,800,3128,2020,448**,90000,Volkswagen,SportWagen,2012,,starts,Wagon,4,FWD,Robert Drake,Delaware
+45388,4050,5484,2019,69341,101010,Chevrolet,C-10,1972,cheyenne,350,,8,RWD,Absalon Mercator,Luisiana
+140393,39450,31209,2020,105**,35400,BMW,X5,2015,M,4.4L Gas V8,SUV,8,AWD,Franklin Richards,Arizona
+94276,14100,12988,2019,95367,65986,Pontiac,Grand Prix,1969,Model J,400 V8,Coupe,8,RWD,Absalon Mercator,Arizona
+156474,800,3929,2020,980**,135641,Saturn,L-Series,2000,,2.2L Gas I4,Sedan,4,FWD,Robert Drake,Luisiana
+8067,3150,2673,2019,28124,34723,Toyota,Celica,1977,GT SPORT COUPE,20r,Coupe,4,RWD,Scott Summers,Luisiana
+152194,27100,20961,2020,331**,33082,Cadillac,Escalade,2009,ESV PLATINUM,6.2L Flexible V8,SUV,8,AWD,James Howlett,Delaware
+41360,6500,8405,2019,11756,82000,Ford,F-150,1995,,5.8,Pick up,8,,Erik Lensherr,Virgina
+75817,6000,6673,2019,14011,56000,Ford,Thunderbird,1964,,,,0,,Jean Grey,Arizona
+59735,7100,8013,2019,14011,179223,Ford,F-550,2002,,7.3 Turbo Diesel,Extended Cab Pickup,8,4WD,Franklin Richards,Delaware
+76250,1380,3123,2019,14011,179200,BMW,5-Series,2003,,6 Cylinder,,0,RWD,Absalon Mercator,Virgina
+75244,6000,7506,2019,3275,288000,Toyota,Tacoma,2006,4x4 acess Cab,4.0 V6 VVti,Extended Cab Pickup,6,4WD,Erik Lensherr,Arizona
+75842,5750,4999,2019,3275,268000,Toyota,Tacoma,2005,SR5 Extra cab,2.7 liter 4cyl,Extended Cab Pickup,4,4WD,Jean Grey,Delaware
+140623,5900,7390,2020,582**,100000,Chevrolet,Other Pickups,1951,,216 c.i.,Standard Cab Pickup,6,RWD,Robert Drake,Virgina
+55850,6700,5932,2019,8817,84106,Acura,Integra,1993,Integra,B17A1,Hatchback,4,FWD,Scott Summers,Arizona
+161393,35900,26083,2020,802**,136000,Pontiac,Trans Am,1971,,,Coupe,8,,Scott Summers,Luisiana
+132478,2530,2603,2020,970**,100000,Dodge,Other Pickups,1978,,,,0,,Scott Summers,Delaware
+39119,6500,5905,2019,22835,116000,Chevrolet,C/K Pickup 2500,1976,Cheyenne,400,,8,,Scott Summers,Luisiana
+4177,4500,3589,2019,32244,36000,Dodge,B300 Van,1973,,360,Extended Passenger Van,8,RWD,Scott Summers,Delaware
+131752,6500,5851,2020,752**,100000,Chevrolet,C-10,1971,,,,8,RWD,Scott Summers,Luisiana
+8958,15860,14717,2019,32608,68000,Chevrolet,Corvette,2005,Coupe,LS2 V8,Coupe,8,RWD,Scott Summers,Delaware
+143200,13900,13289,2020,342**,108000,Infiniti,QX80,2012,LIMITED,,SUV,8,RWD,Scott Summers,Luisiana
+149955,7600,8332,2020,351**,75000,Cadillac,Brougham,1992,brougham,,Sedan,8,RWD,Scott Summers,Delaware
+70584,21700,17598,2019,42501,111111,Chevrolet,Camaro,1968,,502 with blower,Coupe,8,,Scott Summers,Luisiana
+145665,23100,17556,2020,466**,116500,Pontiac,GTO,1967,,,Convertible,0,,Scott Summers,Delaware
+145595,22000,16720,2020,466**,109000,Chevrolet,Camaro,1967,,,Convertible,8,,Scott Summers,Luisiana
+118837,14000,10075,2020,466**,140000,Chevrolet,Chevelle,1970,,,Convertible,0,,Scott Summers,Delaware
+118034,12600,11317,2020,46617,75000,Chevrolet,Chevelle,1971,CONVERTIBLE,350,Convertible,8,RWD,Scott Summers,Luisiana
+86636,7450,6029,2019,46617,100000,Chevrolet,Impala,1969,CONVERTIBLE,327,Convertible,8,,Scott Summers,Delaware
+118890,8060,8023,2020,466**,73000,Chevrolet,Camaro,1989,CONVERTIBLE,V8,Convertible,8,RWD,Scott Summers,Luisiana
+86712,14500,13665,2019,46617,100000,Pontiac,GTO,1968,CONVERTIBLE,,Convertible,8,,Scott Summers,Delaware
+9854,20500,17955,2019,46617,100500,Chevrolet,Impala,1963,SS,283,Convertible,8,RWD,Scott Summers,Delaware
+86962,11300,10350,2019,46617,99502,Oldsmobile,Cutlass,1969,CONVERTIBLE,350,,8,,Scott Summers,Virgina
+118677,25100,20963,2020,466**,142000,Oldsmobile,442,1969,CONVERTIBLE,400,Convertible,8,RWD,Scott Summers,Delaware
+116475,9350,7136,2020,801**,99999,Ford,Bronco,1976,,,,8,,Scott Summers,Delaware
+118037,20210,17363,2020,,9750,Honda,Ridgeline,2017,,,,6,,Scott Summers,Delaware
+99863,4500,5124,2019,98375,154524,Chevrolet,C-10,1985,Silverado,V8,Cab & Chassis,8,RWD,Scott Summers,Virgina
+27144,5100,4959,2019,30276,141890,Chevrolet,Suburban,1998,,,,8,4WD,Scott Summers,Arizona
+157611,9380,7757,2020,972**,76495,Volkswagen,Bus/Vanagon,1969,,NO ENGINE,Crew Cab Pickup,4,RWD,Scott Summers,Delaware
+104927,15650,11989,2019,5819,33681,Chevrolet,Corvette,1972,,Chevy 350,Convertible,8,,Scott Summers,Virgina
+146049,2230,3012,2020,514**,52000,Jeep,Cherokee,1993,,,,6,4WD,Jean Grey,Arizona
+119520,5300,6936,2020,937**,90000,Buick,Riviera,1982,CONVERTIBLE,V8,Convertible,8,RWD,Jean Grey,Delaware
+119241,26200,19442,2020,77386,40255,Chevrolet,Corvette,2014,Leather,6.2L,Convertible,8,RWD,Jean Grey,Virgina
+88308,45300,33037,2019,77386,9745,Chevrolet,Corvette,2016,Z06 Z07,6.2 Supercharged,Coupe,8,RWD,Jean Grey,Arizona
+52653,3050,4851,2019,66044,999999,Ford,Mustang,1966,,v-8,Coupe,8,RWD,Jean Grey,Luisiana
+161241,1530,2132,2020,150**,113236,Mitsubishi,3000GT,1994,SL,3.0L Gas V6,Coupe,0,FWD,Jean Grey,Delaware
+161238,2750,4298,2020,150**,34000,Mazda,3,2010,,2.0L Gas I4,Sedan,4,FWD,Jean Grey,Luisiana
+161243,3800,6339,2020,150**,72200,BMW,328i xDrive,2013,XI SULEV,2.0L Gas I4,Sedan,0,AWD,Jean Grey,Delaware
+27356,55450,41716,2019,85250,1,Chevrolet,C-10,1968,Crew Cab,LS,Extended Crew Cab Pickup,8,RWD,Jean Grey,Luisiana
+73763,22900,18002,2019,13440,950,Ford,Coupe,1934,,350 Chevy,Coupe,8,RWD,Jean Grey,Delaware
+68083,15700,13382,2019,55044,350,Dodge,Other Pickups,1958,,,,0,,Jean Grey,Luisiana
+31378,3000,3164,2019,97219,0,Toyota,MR2,1986,--,1.6L l4,Coupe,4,,Jean Grey,Delaware
+41456,10500,7625,2019,33785,29785,Porsche,Boxster,2002,Black Leather,2.7 Liter,Convertible,6,RWD,Jean Grey,Luisiana
+160805,56000,40003,2020,307**,959,Lexus,GX,2020,460 PREMIUM SPORT PACKAGE,4.6L Gas V8,SUV,8,AWD,Jean Grey,Delaware
+113976,13100,13010,2020,145**,48390,Chevrolet,Monte Carlo,1985,LS,4.3L,Coupe,6,RWD,Jean Grey,Luisiana
+10251,4000,3397,2019,89129,108500,Porsche,Boxster,2001,,2.7 flat 6,Convertible,6,RWD,Absalon Mercator,Delaware
+88311,13130,12693,2019,63069,9205,Chevrolet,Corvette,1981,,.60 SBC 400 FI V-8,Coupe,8,RWD,Absalon Mercator,Luisiana
+146357,20900,15313,2020,630**,12290,Ford,Other,1932,,,Wagon,8,,Absalon Mercator,Delaware
+31224,9000,7980,2019,46530,71470,Nissan,350Z,2004,Enthusiast,3.5,Convertible,6,RWD,Absalon Mercator,Luisiana
+160756,16200,13454,2020,346**,67000,Ford,mustang king cobra,1978,King Cobra,302,Hatchback,8,RWD,Absalon Mercator,Delaware
+160220,1900,4254,2020,750**,100000,Ford,Galaxie,1964,500 XL,390,Coupe,8,RWD,Absalon Mercator,Delaware
+141821,8000,8395,2020,880**,172900,Jeep,Grand Cherokee,2003,LIMITED,4.7L Gas V8,SUV,8,4WD,Absalon Mercator,Virgina
+9719,4050,4826,2019,76137,75800,Suzuki,Samurai,1988,LX,1.3,Convertible,4,4WD,Absalon Mercator,Virgina
+38286,450,2716,2019,44889,256719,Volkswagen,Jetta,1998,,1.9 Turbo diesel TDI,,4,,Absalon Mercator,Virgina
+160864,15100,13007,2020,441**,33000,Ford,Mustang,1997,COBRA SVT/KENNE BELL/TERMINATOR,4.6L Gas V8,Coupe,8,RWD,Absalon Mercator,Virgina
+36899,5100,5590,2019,22192,86000,Mercedes-Benz,300-Series,1967,"300SEL, 560SEL, 560SEC, SL, 6.3, 6.9, AMG, EURO",3,4door,6,,Absalon Mercator,Virgina
+48478,10050,8957,2019,22192,108000,Mercedes-Benz,SL-Class,1979,"Mercedes Benz 280SL. 500SL, 450SL, 560SL 380SL",2.8,Convertible,6,RWD,Absalon Mercator,Arizona
+28630,5100,6001,2019,22192,92600,Mercedes-Benz,SL-Class,1972,"Mercedes Benz 280sl. 500sl, 450sl, 380sl,",3.5,Convertible,8,RWD,Absalon Mercator,Delaware
+28521,7500,8449,2019,22192,53089,BMW,2002,1974,Base,"2.0 liter, carburetor",2DR,4,RWD,Robert Drake,Virgina
+28641,5600,6705,2019,22192,86000,Mercedes-Benz,300-Series,1967,300sel 3.5,3.5,4door,6,,Robert Drake,Arizona
+149656,550,3843,2020,038**,237091,Honda,Civic,1997,DX,1.6,Hatchback,0,,Robert Drake,Delaware
+120787,3200,4482,2020,3079,121549,Mercedes-Benz,E-Class,2006,E-SERIES,V6,Sedan,6,RWD,Robert Drake,Virgina
+63783,2900,5202,2019,10952,129838,Infiniti,G35,2006,,,Sedan,0,AWD,Robert Drake,Arizona
+54322,25100,19710,2019,60008,102000,Pontiac,Trans Am,1979,Y84 Special Edition with WS6 package,1970 Pontiac 455,Coupe,8,RWD,Robert Drake,Luisiana
+40851,2500,3831,2019,29520,56000,Chevrolet,Corvette,1975,Stingray,350,T Top,8,RWD,Robert Drake,Delaware
+49548,1530,4862,2019,37924,354000,GMC,P3500,1996,,350,Aluminum,8,RWD,Robert Drake,Luisiana
+83115,8500,6557,2019,7726,47000,Chevrolet,Camaro,1997,Z28 30TH Anniversary Edition,LT1 350 V8,2dr Car,8,2dr Cpe Z28,Robert Drake,Delaware
+74003,26200,21107,2019,3087,32866,Porsche,911,2004,,3.6L,Convertible,6,RWD,Robert Drake,Luisiana
+121423,36000,28494,2020,201**,99999,Chevrolet,Chevelle,1969,,505,Coupe,8,RWD,Robert Drake,Delaware
+121196,38000,29793,2020,201**,1800,Chevrolet,Chevelle,1969,,,Coupe,0,,Robert Drake,Luisiana
+136222,4550,6551,2020,132**,18068,Chevrolet,Corvette,1984,,,Coupe,0,,Robert Drake,Delaware
+16004,65300,47070,2019,91214,61276,Mercedes-Benz,SL-Class,1971,,,Convertible,6,,Franklin Richards,Luisiana
+16133,18100,15285,2019,53705,176000,Jeep,Wagoneer,1990,,360 HOWELL FUEL INJECTED,SUV,8,4WD,Franklin Richards,Delaware
+87601,1900,3058,2019,31093,120,Ford,F-100,1973,,,Standard Cab Pickup,8,RWD,Franklin Richards,Luisiana
+118552,600,1162,2020,310**,1,Ford,Ranchero,1960,P/U,1965 170 cu.in. engine,Pick up,6,RWD,Franklin Richards,Delaware
+158718,500,3107,2020,920**,96250,Jaguar,420,1967,,,Sedan,0,,Franklin Richards,Luisiana
+92372,570,2765,2019,22554,193162,Chevrolet,Impala,2004,,,Sedan,6,FWD,Franklin Richards,Delaware
+97411,5930,6262,2019,11968,1,Rolls-Royce,Silver Shadow,1971,Estate Car,,Sedan,8,RWD,Franklin Richards,Luisiana
+55516,59000,42919,2019,11968,8500,Ford,Model 18,1932,deluxe,350/290,Sedan,8,RWD,Franklin Richards,Delaware
+70783,2500,3998,2019,18960,128562,Jeep,Cherokee,1999,,4,SUV,6,,Franklin Richards,Delaware
+15566,4000,4686,2019,18013,0,Chevrolet,Monte Carlo,1987,SS,350 cu.in.,Coupe,8,RWD,Franklin Richards,Virgina
+88131,30100,22385,2019,29078,71037,Chevrolet,Camaro,1969,RS/SS,350 Small Block,Coupe,8,RWD,Franklin Richards,Luisiana
+88130,4800,4455,2019,29078,1000,International Harvester,Other,1947,,350,,8,RWD,Franklin Richards,Delaware
+82702,7000,5248,2019,94551,0,Ford,Model T,1926,,,Coupe,4,,Franklin Richards,Luisiana
+53162,17000,12896,2019,94551,20455,Pontiac,GTO,2004,,LS,Coupe,0,RWD,Franklin Richards,Delaware
+148081,530,580,2020,326**,0,Volkswagen,Bus/Vanagon,1982,BUS,2.0L Gas I4,Standard Passenger Van,4,RWD,Jean Grey,Luisiana
+61782,15000,14217,2019,6492,60000,Chevrolet,Nova,1972,,496 bb,Coupe,8,RWD,Robert Drake,Delaware
+35100,6700,8678,2019,6492,80000,Plymouth,Other,1952,,6 cyl gas,Coupe,6,RWD,Franklin Richards,Luisiana
+144055,3110,5235,2020,954**,55220,Ford,Mustang,1970,,,Fastback,0,RWD,Absalon Mercator,Delaware
+109590,1400,3939,2019,95039,120000,Mitsubishi,Eclipse,2001,gs,4 cyl,Hatchback,4,FWD,Erik Lensherr,Luisiana
+35475,15420,13992,2019,94610,17500,Ford,Other,1941,,350 chev,Pick up truck,8,RWD,Jean Grey,Delaware
+43945,9000,9054,2019,90043,74125,Cadillac,Eldorado,1971,,,Convertible,8,,Robert Drake,Luisiana
+105391,6550,8214,2019,90043,74125,Cadillac,Eldorado,1971,,,,0,,Absalon Mercator,Delaware
+103706,50100,36791,2019,28360,1,Chevrolet,Camaro,1969,,,,0,,Franklin Richards,Luisiana
+77941,1930,4018,2019,28365,160000,Jaguar,XJ6,1987,tan,,Sedan,0,,Absalon Mercator,Delaware
+55991,35000,28211,2019,85143,24876,Dodge,Viper,2004,,V10,Convertible,10,RWD,Robert Drake,Luisiana
+100509,230,3686,2019,LOS1J0,276000,Mazda,Mazda6,2006,,6,Sedan,6,FWD,Scott Summers,Delaware
+88273,15000,11119,2019,29615,279000,Hummer,H2,2005,chrome,6,h2,8,4WD,James Howlett,Delaware
+144085,25000,19623,2020,850**,7825,Chevrolet,Camaro,2019,SS Sunroof Summit White Coupe Remote Start,6.2L,Coupe,8,RWD,Erik Lensherr,Virgina
+62700,44900,32386,2019,89135,60900,Porsche,Panamera,2013,,430 HP 8 CYL,Coupe,8,RWD,Jean Grey,Luisiana
+61925,20080,14401,2019,75087,32500,Honda,CR-V,2017,EX ALL WHEEL DRIVE,,SUV,4,AWD,Franklin Richards,Luisiana
+46755,3250,2825,2019,89128,63892,Dodge,Other Pickups,1964,D100,,PANEL,0,RWD,Absalon Mercator,Delaware
+143376,6400,7929,2020,891**,207000,GMC,Sierra 1500,2002,SLE,,Standard Cab Pickup,0,RWD,Erik Lensherr,Virgina
+126353,10000,9600,2020,125**,17896,Dodge,Other,1940,STOCK,FLATHEAD 6,Coupe,0,RWD,Jean Grey,Arizona
+99716,2700,3521,2019,30120,122125,BMW,7-Series,2000,,,,8,RWD,Robert Drake,Delaware
+101486,20300,17464,2019,78253,99999,Plymouth,Barracuda,1972,Cuda,,Coupe,8,RWD,Scott Summers,Virgina
+136113,2500,2887,2020,060**,126075,Mini,Cooper,2005,S,1.6L Gas I4,Hatchback,0,FWD,Absalon Mercator,Arizona
+127835,350,1116,2020,90602,390000,Honda,Accord,1991,Black,2.2l,Sedan,4,FWD,Erik Lensherr,Delaware
+52914,24500,19022,2019,92316,55000,Aston Martin,DB7,2000,,,,0,,Jean Grey,Virgina
+34432,2950,3883,2019,91786,240000,Mercedes-Benz,S-Class,1989,560 SEL,5.6 V8,Sedan,8,RWDD,Robert Drake,Arizona
+4138,19000,14205,2019,67235,99999,Chevrolet,Camaro,1968,,383 sbc,Coupe,8,RWD,Scott Summers,Luisiana
+121420,26000,20016,2020,402**,57500,Porsche,Boxster,2008,S,3.4L Gas H6,Convertible,6,RWD,James Howlett,Delaware
+123481,1630,4899,2020,231**,214000,Subaru,Outback,2007,OUTBACK,2.5L Gas H4,Wagon,0,AWD,Franklin Richards,Luisiana
+122561,5030,7417,2020,809**,163293,Jeep,Cherokee,1999,,,,6,4WD,Absalon Mercator,Delaware
+111206,5700,4980,2020,665**,85725,Ford,F-250,1979,Lariat,400 mod (6.6L),Extended Cab Pickup,8,4WD,Franklin Richards,Luisiana
+165347,55980,41988,2020,275**,18052,Ford,F-550,2018,XL,Intercooled Turbo Diesel V-8 6.7 L/406,Crew Cab Chassis-Cab,0,,Absalon Mercator,Luisiana
+30503,8600,6547,2019,80229,1310,Ford,Bronco,1978,Custom,468,SUV,8,4WD,Absalon Mercator,Delaware
+10634,1030,3098,2019,34744,131000,Chevrolet,Cobalt,2007,,2.2 L,Coupe,4,FWD,Erik Lensherr,Luisiana
+145594,9550,9782,2020,347**,81000,Toyota,Prius V,2014,Five,1.8L Electric and Gas Hybrid I4,Wagon,4,FWD,Jean Grey,Delaware
+144251,4650,5058,2020,525**,1234567,Chevrolet,Bel Air/150/210,1953,,,Coupe,0,,Robert Drake,Luisiana
+111969,9960,8620,2020,228**,63000,Pontiac,GTO,2004,,,Coupe,8,,Scott Summers,Delaware
+77521,10200,8395,2019,37766,78700,Volkswagen,Thing,1974,Black,Air cooled 4 cyl,4dr convertible,4,Rwd,James Howlett,Luisiana
+40733,5000,4594,2019,87410,97500,Chevrolet,Silverado 2500,1987,Silverado,350,Standard Cab Pickup,8,RWD,Franklin Richards,Delaware
+116332,8450,6562,2020,874**,82323,Nissan,D21,1997,XE,2.4,Standard Cab Pickup,4,4WD,Absalon Mercator,Luisiana
+34459,22100,16007,2019,87410,51500,Chevrolet,Blazer,1969,K5 CST,327,SUV,8,4WD,Franklin Richards,Delaware
+140248,5600,5195,2020,874**,2500,Chevrolet,C10/K10,1972,Custom,350,Pickup,0,RWD,Absalon Mercator,Luisiana
+82335,4700,7076,2020,87410,94500,Chevrolet,C-10,1970,,350,,8,RWD,Absalon Mercator,Delaware
+81580,19990,16068,2019,87410,38175,Dodge,Other Pickups,1979,Lil Red Express,440,Standard Cab Pickup,8,RWD,Erik Lensherr,Luisiana
+40818,13700,12823,2019,87410,102515,GMC,Jimmy,1970,K5,350,,8,4WD,Jean Grey,Delaware
+81577,6400,5260,2019,87410,30686,Datsun,520,1966,,1300,,4,RWD,Robert Drake,Luisiana
+7444,19300,16432,2019,87410,113000,Ford,Bronco,1972,,302,,8,4WD,Scott Summers,Delaware
+160268,18500,13765,2020,117**,88450,Chevrolet,Chevelle,1964,SS,283,Convertible,8,RWD,James Howlett,Delaware
+118429,3600,5438,2020,300**,49000,Chevrolet,C-10,1985,,305,Standard Cab Pickup,8,RWD,Franklin Richards,Luisiana
+55618,2500,2097,2019,90723,10800,Ford,Mustang,1979,Cobra,2.3L Turbo,Hatchback,4,RWD,Absalon Mercator,Luisiana
+135205,6600,5715,2020,645**,89763,Cadillac,Eldorado,1984,BIARRITZ,4.1L Gas V8,Convertible,0,FWD,Franklin Richards,Luisiana
+71060,610,1349,2019,89506,260000,Mitsubishi,Montero,1988,,,,4,4x4,Absalon Mercator,Delaware
+70589,3000,4744,2019,89506,200000,Datsun,Other,1969,,,,6,,Absalon Mercator,Virgina
+53579,7700,8312,2019,44130,118488,Hummer,H3,2007,NO RESERVE,5 Cyl,SUV,5,4WD,Erik Lensherr,Arizona
+84831,4400,4410,2019,44130,131523,Jaguar,XJ8,2007,NO RESERVE Vanden Plas,V8,Sedan,8,RWD,Jean Grey,Delaware
+142865,10950,9439,2020,441**,119896,Mercedes-Benz,300-Series,1985,,5 cylinder Turbo Diesel,Sedan,5,RWD,Robert Drake,Virgina
+115497,35900,28828,2020,936**,34000,Chevrolet,Silverado 2500,2017,Duramax,6.6L,,8,4WD,Scott Summers,Arizona
+61340,710,3452,2019,38134,213481,Volkswagen,Phaeton,2004,,V8,Sedan,8,AWD,James Howlett,Delaware
+140584,4350,5464,2020,028**,62800,Oldsmobile,Delta 88,1984,ROYALE BROUGHAM,5.0L Gas V8,Sedan,0,RWD,Franklin Richards,Virgina
+156529,19200,17351,2020,077**,59452,Land Rover,Range Rover Sport,2006,,,,8,,Absalon Mercator,Arizona
+156363,28000,19970,2020,077**,171895,Mercedes-Benz,G55 AMG,2004,,,SUV,8,AWD,Franklin Richards,Luisiana
+149962,3550,4750,2020,935**,293000,Toyota,Tacoma,1996,XTRACAB SR5,3.4L Gas V6,Extended Cab Pickup,6,4WD,Absalon Mercator,Delaware
+157973,2900,3774,2020,201**,213000,Toyota,Tacoma,2002,XTRACAB,3.4L Gas V6,Extended Cab Pickup,6,4WD,Absalon Mercator,Luisiana
+3352,16700,15050,2019,33137,1000,Ford,Model A,1928,,383 STROKER,Sedan,8,,Erik Lensherr,Delaware
+105489,50000,35354,2019,80751,47779,Chevrolet,Bel Air/150/210,1957,,283,Coupe,8,RWD,Jean Grey,Luisiana
+139173,9000,7860,2020,983**,99999,Buick,LeSabre,1964,,,,8,,Robert Drake,Luisiana
+124433,7000,7910,2020,390**,0,Chevrolet,Chevelle,1966,Malibu,231 Buick V6,Sedan,6,RWD,Scott Summers,Delaware
+47623,11100,10165,2019,32952,99999,Porsche,912,1967,,,,0,,James Howlett,Luisiana
+54538,15000,12926,2019,32952,99999,Porsche,911,1973,S,2.4,,0,,Franklin Richards,Delaware
+63351,11900,11200,2019,32952,144000,Porsche,911,2001,,,,0,,Absalon Mercator,Luisiana
+15540,920,992,2019,20020,256000,Toyota,Celica,1996,ST,1.8 L,Hatchback,4,FWD,Franklin Richards,Delaware
+94463,1630,1470,2019,85365,0,Chevrolet,Panel truck,1969,,,,0,4WD,Absalon Mercator,Luisiana
+160539,5000,5906,2020,,83000,BMW,3-Series,2004,CI,2.5L Gas I6,Convertible,6,RWD,Franklin Richards,Delaware
+66111,3000,4747,2019,35613,79000,Sunbeam,Sunbeam-Talbot 90,1955,,,,0,,Franklin Richards,Luisiana
+83277,2750,3385,2019,10306,224003,Toyota,Sienna,2009,,,Minivan,6,FWD,Franklin Richards,Delaware
+81381,40500,31975,2019,78583,66500,Cadillac,Escalade,2015,Premium,6.2,SUV,8,4WD,Franklin Richards,Luisiana
+56538,11990,9332,2019,91361,15474,MG,MGA,1958,--,1500cc I4,Video in listing,4,Roadster,Franklin Richards,Delaware
+53025,1010,3365,2019,73159,220004,Honda,Civic,1996,DX,1.6,Hatchback,4,FWD,Franklin Richards,Luisiana
+53026,1320,3938,2019,73159,230885,Honda,Prelude,1993,Si,2.4 L DOHC,Coupe,4,Coupe,Jean Grey,Delaware
+93504,159500,113764,2020,34237,25000,Ferrari,458,2015,,V8,Convertible,8,RWD,Robert Drake,Luisiana
+55817,10550,11035,2019,94571,99999,Chevrolet,C-10,1982,Scottsdale,5.7,,8,RWD,Franklin Richards,Delaware
+17160,7750,7083,2019,94571,93000,Chevrolet,Camaro,1996,SS,383 Stroker,Coupe,8,RWD,Absalon Mercator,Delaware
+84770,40000,30518,2019,89444,60000,Chevrolet,Chevelle,1970,Ss,,,8,,Erik Lensherr,Virgina
+132537,3930,4943,2020,481**,144650,BMW,3-Series,2007,,,Wagon,6,,Jean Grey,Luisiana
+144955,13500,11637,2020,026**,65000,Chevrolet,Blazer,1971,K5,350,Convertible,8,4WD,Robert Drake,Luisiana
+149940,1730,1726,2020,381**,280688,Jeep,Cherokee,2001,,,,6,4WD,Absalon Mercator,Delaware
+157232,12100,8726,2020,934**,133000,Dodge,Ram 2500,1991,,,,6,4WD,Franklin Richards,Virgina
+18012,1180,2598,2019,23112,66618,Chevrolet,Camaro,1988,IROCZ,,,0,,Absalon Mercator,Arizona
+89375,1730,2546,2019,8080,175000,Lexus,LS,2003,Base,4.3 L,Sedan,8,RWD,Robert Drake,Delaware
+75515,1500,2515,2019,70452,65000,Plymouth,Barracuda,1968,,,,0,,Scott Summers,Virgina
+95631,750,2355,2020,60527,128446,Infiniti,Q45,1994,4 Door Sedan,8,Sedan,8,RWD,James Howlett,Arizona
+148145,21500,15485,2020,700**,20000,Chevrolet,Camaro,1989,,,Coupe,0,,Erik Lensherr,Delaware
+54744,46000,33476,2019,70056,750,Dodge,Challenger,2019,,,,8,RWD,Jean Grey,Virgina
+90758,18700,15070,2019,70037,11111,Datsun,Z-Series,1977,,ls1,,8,RWD,Franklin Richards,Arizona
+110859,9350,9458,2020,231**,174950,Chevrolet,Corvette,2000,,5.7L Gas V8,Coupe,0,RWD,Absalon Mercator,Luisiana
+73289,29800,23786,2019,33144,38847,Ford,Mustang,1965,GT Equipment Package 225 HP,,Convertible,8,,Erik Lensherr,Delaware
+112025,17300,14845,2020,33144,40609,Dodge,Challenger,2015,,,Coupe,8,,Jean Grey,Luisiana
+1871,9800,9840,2019,33144,121717,Toyota,Camry,2015,4dr Sedan I4 Automatic SE,,Sedan,4,,Robert Drake,Delaware
+2281,10900,8140,2019,33144,73000,Ford,Mustang,1966,1966 Ford Mustang Coupe,,Coupe,6,,Scott Summers,Luisiana
+39678,74600,53994,2019,33144,78500,Porsche,911,1975,,,,6,,Absalon Mercator,Luisiana
+132800,19800,14412,2020,331**,25603,Datsun,Z-Series,1982,,,Coupe,6,,Erik Lensherr,Delaware
+72724,22100,19274,2019,33144,64548,Lexus,GX,2013,4WD 4dr,,SUV,8,,Jean Grey,Luisiana
+133645,45780,33688,2020,331**,49045,Land Rover,Range Rover,2014,*Autobiography Wheels*,,SUV,6,,Robert Drake,Delaware
+72495,29300,21891,2019,33144,50800,Mercedes-Benz,S-Class,2013,S550,,Sedan,8,,Scott Summers,Luisiana
+132801,27890,23428,2020,331**,41630,Mercedes-Benz,S-Class,2013,S550,,Sedan,8,,James Howlett,Delaware
+132976,107780,76254,2020,331**,15022,Mercedes-Benz,SLS AMG,2012,2012 MERCEDES BENZ SLS AMG ROADSTER,,Convertible,8,,Franklin Richards,Luisiana
+112666,7800,8310,2020,331**,59800,Mini,Cooper S,2010,,,Coupe,4,,Absalon Mercator,Delaware
+33035,99800,70140,2019,33144,72300,Porsche,911,1991,1991Porsche 964 Turbo,,Coupe,6,,Franklin Richards,Luisiana
+1846,64000,45003,2019,33144,0,Porsche,911,1995,1995 Porsche 911/993 GT2 Tribute,,Coupe,6,,Absalon Mercator,Delaware
+133701,58100,44386,2020,331**,21335,Porsche,911,2013,,,Coupe,6,,Absalon Mercator,Luisiana
+72135,37500,27629,2019,33144,100943,Porsche,911,1984,1984 Porsche 911 Carrera Coupe,,Coupe,6,,Erik Lensherr,Delaware
+2186,43900,33025,2019,33144,121061,Porsche,911,1991,2dr Coupe 4,,Coupe,6,,Jean Grey,Luisiana
+112667,69800,51679,2020,331**,81434,Porsche,911,1993,1993 Porsche 911 RS America,,Coupe,6,,Robert Drake,Delaware
+133794,68800,49394,2020,331**,100209,Porsche,911,1990,2dr Coupe 2,,Coupe,6,,Robert Drake,Luisiana
+112166,55780,39766,2020,331**,106525,Porsche,911,1990,1990 Porsche 911/964 Carrera 4 Coupe,,Coupe,6,,Robert Drake,Delaware
+112619,99800,71711,2020,331**,27185,Porsche,911,2008,,,Coupe,6,,Robert Drake,Delaware
+112102,152500,109037,2020,33144,13682,Porsche,911,2011,,,Coupe,6,,Franklin Richards,Virgina
+39677,64890,46594,2019,33144,55907,Porsche,911,2007,2007 PORSCHE 911 TURBO COUPE,,Coupe,6,,Franklin Richards,Luisiana
+51538,75000,53543,2019,33144,12548,Porsche,911,2007,2007 Porsche 911 Turbo Coupe,,Coupe,6,,Franklin Richards,Luisiana
+133703,109500,77908,2020,331**,30449,Porsche,911,2014,2dr Coupe Turbo S,,Coupe,6,,Franklin Richards,Delaware
+73392,114600,80539,2020,33144,23885,Porsche,911,2014,2dr Coupe Turbo S,,Coupe,6,,Robert Drake,Virgina
+51606,129800,93214,2019,33144,18800,Porsche,911,2015,,,Coupe,6,,Robert Drake,Arizona
+112165,96900,71812,2020,331**,28245,Porsche,911,2014,2dr Coupe Turbo,,Coupe,6,,Robert Drake,Delaware
+133644,18780,16816,2020,331**,92882,Porsche,911,2004,2dr Cabriolet Carrera Tiptronic,,Convertible,6,,Robert Drake,Virgina
+133795,48800,35063,2020,331**,73138,Porsche,911,1991,2dr Coupe 4 Cabriolet,,Convertible,6,,Franklin Richards,Arizona
+72223,42500,30399,2019,33144,56698,Porsche,911,1990,1990 Porsche 964 Carrera Convertible,,Coupe,6,,Franklin Richards,Delaware
+133702,39900,30380,2020,331**,63985,Porsche,911,1993,2dr Coupe 2 Cabriolet,,Convertible,6,,Franklin Richards,Virgina
+58815,35200,27329,2019,33144,75800,Porsche,911,2006,2dr Cabriolet Carrera S,,Convertible,6,,Franklin Richards,Luisiana
+73393,38500,27574,2020,33144,41619,Porsche,911,2008,2dr Cabriolet Carrera S,,Convertible,6,,Absalon Mercator,Delaware
+51643,63780,46512,2019,33144,54547,Porsche,911,2008,2008 Porsche 911 Turbo *Manual Transmission*,,Convertible,6,,Absalon Mercator,Luisiana
+2280,38910,30946,2019,33144,127227,Porsche,911,1984,1984 Porsche 911 Targa,,Convertible,6,,Absalon Mercator,Delaware
+39676,45890,32840,2019,33144,67049,Porsche,911,1989,1989 Porsche 911 Carrera Cabriolet G50,,Convertible,6,,Absalon Mercator,Luisiana
+73092,39800,31648,2019,33144,123071,Porsche,911,1988,,,,6,,Absalon Mercator,Delaware
+72222,84400,59754,2019,33144,45044,Porsche,911,1987,Turbo,,,6,,Absalon Mercator,Luisiana
+133335,22800,17736,2020,331**,43542,Maserati,Quattroporte,2010,4dr Sedan,,Sedan,8,,Robert Drake,Delaware
+130142,5800,6238,2020,814**,185000,Dodge,Magnum,2006,,5.7 HEMI,Wagon,8,AWD,Robert Drake,Luisiana
+152282,6100,7356,2020,814**,111500,Chevrolet,Camaro,1994,2dr Convertible Z28,5.7L 8 CYLINDER,Convertible,8,,Robert Drake,Delaware
+116612,9500,8893,2020,012**,95862,Toyota,Tacoma,2011,reg cab,4 cylinder,reg cab,4,4WD,Robert Drake,Luisiana
+141067,2100,2491,2020,012**,75000,Mercedes-Benz,SLK-Class,2001,,,Convertible,4,RWD,Robert Drake,Delaware
+14896,10000,7818,2019,33060,66304,Saab,09-May,2011,Turbo4 Sedan,2.0L L4 DOHC 16V TURBO,Sedan,4,FWD,Jean Grey,Luisiana
+112739,2140,2336,2020,10304,69128,Toyota,Prius,2002,,,,0,,Jean Grey,Delaware
+134314,9000,7676,2020,103**,52000,Lexus,LS400,1990,400,4.0L Gas V8,Sedan,0,RWD,Jean Grey,Luisiana
+51736,3650,5294,2019,10304,271524,Toyota,Prius,2013,,,Hatchback,0,,Jean Grey,Delaware
+147953,58000,43297,2020,604**,27213,Chevrolet,Camaro,1969,,,Coupe,8,,Absalon Mercator,Delaware
+97736,3950,3208,2020,19512,87911,Ford,Mustang,1968,,289,Coupe,8,RWD,Absalon Mercator,Virgina
+111013,16150,13188,2020,352**,58000,Jeep,CJ,1982,RENEGADE ONLY 58K ACTUAL MILES!!,4.2L Gas I6,SUV,6,4WD,Absalon Mercator,Delaware
+708,8100,9416,2019,35216,148946,Jeep,CJ,1985,RENEGADE,258--6 CYL,,6,,Absalon Mercator,Delaware
+6053,11500,9359,2019,91602,999999,Chevrolet,C-10,1962,,250,,6,RWD,Absalon Mercator,Delaware
+147698,710,779,2020,906**,205103,Honda,Civic,1985,,,Coupe,4,,Franklin Richards,Virgina
+29895,9100,6583,2019,75252,91000,Mercedes-Benz,Sprinter,2012,Cargo,,,0,RWD,Absalon Mercator,Arizona
+130310,6200,6265,2020,328**,104174,BMW,5-Series,2008,2-Tone Tan &amp; Black Leather over Wood,,Sedan,8,RWD,Robert Drake,Delaware
+46874,590,2526,2019,44041,284000,Honda,CRX,1990,SI,1.6L,Coupe,4,FWD,Scott Summers,Virgina
+7302,5500,5486,2019,44108,105443,Rolls-Royce,Silver Shadow,1974,,,Sedan,0,,James Howlett,Arizona
+88934,11210,8595,2019,95618,72897,Pontiac,Le Mans,1977,,,,0,,Erik Lensherr,Delaware
+143351,45000,34002,2020,940**,86758,Dodge,Challenger,1971,Convertible,340 V8,Convertible,8,RWD,Jean Grey,Virgina
+138645,19800,16525,2020,015**,63707,Porsche,Cayenne,2011,S,4.8L Gas V8,SUV,8,AWD,Franklin Richards,Arizona
+74971,4050,3118,2020,50160,12345,Willys,4-75 Pickup,1950,,,,0,,Absalon Mercator,Luisiana
+74970,3800,5715,2020,50160,12345,Willys,,1954,,,,0,,Erik Lensherr,Delaware
+130227,15000,12749,2020,980**,84000,Buick,Riviera,1964,,430 V8,Coupe,8,,Jean Grey,Luisiana
+27894,58600,44898,2019,91935,14000,Audi,R8,2009,,4.2L V8,,0,,Robert Drake,Delaware
+138865,6200,7594,2020,327**,118150,Nissan,350Z,2006,Grand Touring,3.5L Gas V6,Convertible,6,RWD,Scott Summers,Luisiana
+59603,9000,7751,2019,20903,40000,Chevrolet,Bel Air/150/210,1968,,,,0,,Scott Summers,Luisiana
+156003,2300,2396,2020,339**,116000,Ford,Thunderbird,1966,town coupe,,Coupe,8,RWD,Scott Summers,Delaware
+124629,2800,5332,2020,33713,97780,Nissan,Other Pickups,1985,720,Z24,Standard Cab Pickup,4,RWD,Scott Summers,Luisiana
+155109,5600,4402,2020,532**,1010101,Pontiac,Chieftain,1951,,,Convertible,8,,Scott Summers,Delaware
+41370,17900,15952,2019,33511,8500,Ford,F-100,1956,,350 chevy,pick up truck,8,RWD,Scott Summers,Luisiana
+125494,8900,8617,2020,956**,100987,Diamond T,Pak Age Car,1940,Deluxe,134,,4,rear,Scott Summers,Delaware
+102178,11750,11734,2020,95602,91020,Chevrolet,Silverado 1500,2002,LS,4.8. V8,Standard Cab Pickup,8,rear,Scott Summers,Luisiana
+157746,12950,10423,2020,956**,89658,Diamond T,201 Pickup,1948,,6,Standard Cab Pickup,6,RWD,Absalon Mercator,Delaware
+101966,26500,21083,2019,95602,88540,Diamond T,210,1949,,,Standard Cab Pickup,6,,Franklin Richards,Luisiana
+125582,7000,5386,2020,956**,62457,Chevrolet,Other Pickups,1954,Deluxe,235,Standard Cab Pickup,6,,Franklin Richards,Delaware
+158113,14950,12438,2020,956**,98685,Chevrolet,Other Pickups,1952,,,,0,,Franklin Richards,Luisiana
+28930,13750,13273,2019,95602,41513,Dodge,Power Wagon,1950,,T137 Original 230 Flathead,,6,4WD,Franklin Richards,Delaware
+99316,4750,4217,2020,8731,1521240,Ford,Bronco,1995,xlt,302 5.0,,8,4WD,Franklin Richards,Luisiana
+63519,1230,2506,2019,92675,154000,Ford,Bronco,1990,,5.0ltr,,8,4WD,Franklin Richards,Delaware
+131838,6600,5811,2020,341**,53163,Nissan,Frontier,1998,,2.4L,Extended Cab Pickup,4,4WD,Jean Grey,Luisiana
+135650,4550,3894,2020,976**,130028,Volkswagen,Golf,2006,NEW GTI,2.0 Turbo - APR Stage 1 Tune,Hatchback,4,FWD,Robert Drake,Delaware
+133530,28200,23628,2020,520**,36100,Ford,Mustang,2014,GT,5.0L Gas V8,Coupe,8,RWD,Franklin Richards,Delaware
+38250,32200,24032,2019,67010,74100,Hummer,H1,2001,,6.5,Wagon,6,4WD,Absalon Mercator,Luisiana
+66011,3560,3759,2019,11776,77721,Ford,Bronco,1989,Eddie Bauer,V8,SUV,8,4WD,Erik Lensherr,Luisiana
+76945,10200,7477,2019,63129,70000,Porsche,911,1970,,None,Turbo,0,None,Jean Grey,Delaware
+72780,1350,4221,2019,93311,216000,Ford,E-Series Van,1999,,5.4,Wagon,8,RWD,Robert Drake,Luisiana
+27293,6400,7898,2019,41826,106640,Mazda,RX-7,1984,GSL-SE,13B,Coupe,0,RWD,Absalon Mercator,Delaware
+45982,810,2906,2019,73701,123457,Chevrolet,Bel Air/150/210,1957,,,,0,,Franklin Richards,Luisiana
+40526,120,3413,2019,73701,123456,Mercedes-Benz,S-Class,1995,,,,0,,Absalon Mercator,Delaware
+46324,2500,5469,2019,51002,100000,Chevrolet,Camaro,1972,Super Sport,none,Coupe,0,RWD,Robert Drake,Luisiana
+19814,14100,12303,2019,98233,37000,Ford,F-150,1994,XLT,,,8,4WD,Scott Summers,Delaware
+159261,15000,13694,2020,982**,0,Ford,Bronco,1977,,,,0,,James Howlett,Luisiana
+5747,31600,24628,2019,29073,0,Pontiac,GTO,1965,LeMans,389,Coupe,8,RWD,Erik Lensherr,Delaware
+15617,2850,4258,2019,30096,150000,Volkswagen,CC,2010,,,,0,,Jean Grey,Luisiana
+35885,2750,2935,2019,22204,130200,Chrysler,200 Series,2014,,3.6L 283 hp V6 Flex Fuel Vehicle,Sedan,6,FWD,Franklin Richards,Delaware
+2063,2500,5742,2019,29541,105000,Ford,F-100,1955,,,,0,,Absalon Mercator,Luisiana
+116905,5430,6509,2020,217**,109000,Jaguar,XK8,2002,Coupe,4.0L,Coupe,8,RWD,Erik Lensherr,Delaware
+70326,1600,1566,2020,32308,151072,Toyota,MR2,1986,,1.6L I4 16V,Coupe,4,RWD,Jean Grey,Luisiana
+45123,2880,2709,2019,97756,103000,Ford,Thunderbird,1985,,302 V-8,Coupe,8,RWD,Robert Drake,Delaware
+110513,25000,18217,2020,37876,124000,Land Rover,Defender,1993,,,SUV,4,4WD,Scott Summers,Delaware
+33914,12500,12243,2019,18629,260000,Dodge,Ram 2500,1999,Sport,,,0,,Absalon Mercator,Virgina
+124464,6100,7114,2020,115**,106000,BMW,Z3,1998,ROADSTER,3.2L Gas I6,Convertible,6,RWD,Erik Lensherr,Delaware
+141184,8500,7018,2020,721**,86608,Ford,F-150,1991,XLT Lariat,302 Cubic Inch (5.0 L),Standard Cab Pickup,8,4WD,Jean Grey,Delaware
+159324,9000,8390,2020,547**,30000,Chevrolet,Camaro,1980,,,Coupe,0,,Robert Drake,Delaware
+63930,1250,1434,2019,76501,251860,Mercedes-Benz,300-Series,1983,,,Sedan,5,RWD,Scott Summers,Virgina
+102813,13000,9404,2019,33881,90000,Ford,Mustang,1971,,,Convertible,8,RWD,James Howlett,Arizona
+72998,10000,9550,2019,22903,145000,Cadillac,Escalade,2009,EXT PREMIUM EXT 6.2L PICKUP LOW MILES,6.2L V8 F OHV 16V,PICKUP,0,AWD(ALL WHEEL DRIVE),Franklin Richards,Delaware
+43204,10200,10871,2019,19505,58294,Packard,Model 1903,1941,Super 8,8 CYL,4 Door,8,RWD,Absalon Mercator,Virgina
+156098,8100,8476,2020,195**,70293,Packard,250,1952,,,Coupe,8,RWD,Franklin Richards,Arizona
+13469,4250,6968,2019,7082,112000,Acura,TSX,2005,Base,2.4L,Sedan,4,FWD,Absalon Mercator,Delaware
+98056,10700,8170,2019,92879,46000,Jaguar,XF,2013,supercharged,v6 supercharged,Sedan,6,RWD,Absalon Mercator,Virgina
+98214,14900,12589,2019,92879,103000,Mercedes-Benz,CL-Class,2008,cl63 AMG,V8,Coupe,8,RWD,Erik Lensherr,Luisiana
+44495,4500,3982,2019,30084,0,Alfa Romeo,GTV,1966,Step Nose,step,,0,,Jean Grey,Delaware
+320,16110,12897,2019,30084,53722,Alfa Romeo,Spider,1958,Normale,1300,Convertible,4,RWD,Robert Drake,Luisiana
+127690,30600,22073,2020,371**,420,Chevrolet,Camaro,1968,SS,454,Coupe,8,RWD,Robert Drake,Delaware
+95201,1630,4803,2019,71913,278000,Chevrolet,Silverado 2500 HD,2008,C2500 HEAVY DUTY,6.0L Gas V8,Pickup,0,RWD,Robert Drake,Luisiana
+58477,4500,4840,2019,7306,152200,Chrysler,300 Series,2010,Touring,3.5L SOHC 2$V,Sedan,6,AWD,Robert Drake,Delaware
+151285,6500,5311,2020,410**,187000,Toyota,Tacoma,1998,,2.7L Gas I4,Standard Cab Pickup,4,4WD,Franklin Richards,Luisiana
+42385,2500,2868,2019,32707,165348,Ford,F-150,1988,xlt,6,Extended Cab Pickup,6,RWD,Franklin Richards,Delaware
+62105,18500,13192,2019,38401,143000,Dodge,Ram 3500,2007,Big Horn,Cummins Turbo Diesel 24V,Extended Crew Cab Pickup,6,4WD,Franklin Richards,Luisiana
+149368,9500,10124,2020,740**,123456,GMC,100,1951,,,Standard Cab Pickup,6,RWD,Franklin Richards,Delaware
+150357,14000,11831,2020,740**,141470,Chevrolet,Impala,1996,CLASSIC SS,5.7L Gas V8,Sedan,8,RWD,Robert Drake,Luisiana
+118950,13950,12377,2020,385**,44000,Chevrolet,C-10,1984,DELUXE,350 V8,Standard Cab Pickup,8,RWD,Robert Drake,Delaware
+35449,9600,8560,2019,38555,89000,International Harvester,Scout,1967,800,4 cylinder,Standard Cab Pickup,4,AWD,Robert Drake,Luisiana
+41501,16800,12579,2019,38555,99999,Dodge,Charger,1971,500,383,Coupe,8,RWD,Robert Drake,Delaware
+65354,3050,2649,2019,66223,121500,Mercedes-Benz,S-Class,1995,S420,V8 4.2,Sedan,8,RWD,Franklin Richards,Luisiana
+116916,610,2517,2020,225**,180121,Ford,Taurus X/FreeStyle,2006,,3.0L V6 181cid 2968cc,Wagon,6,FWD,Franklin Richards,Delaware
+75368,7500,8953,2019,85086,500,Volkswagen,Beetle - Classic,1970,Manx Style,,Buggy,4,RWD IRS TYPE2,Franklin Richards,Delaware
+98765,9000,7481,2019,89128,50000,Ford,Mustang,1989,,327 stroked,Coupe,8,RWD,Franklin Richards,Virgina
+47301,4600,5057,2019,89014,1,Dodge,Other Pickups,1978,CUSTOM,360,,8,4WD,Absalon Mercator,Delaware
+11982,2300,2193,2019,36330,209000,Honda,Pilot,2009,EX,3.0L V6,SUV,6,FWD,Absalon Mercator,Luisiana
+65026,2150,3419,2019,44281,155128,Chevrolet,Tahoe,2005,LT,5.3,SUV,8,4WD,Absalon Mercator,Delaware
+55761,2200,2075,2019,44281,108538,Volkswagen,Jetta,2010,SEL,2.5,Sedan,5,FWD,Absalon Mercator,Luisiana
+142804,33100,25643,2020,601**,67500,Pontiac,GTO,1966,,389 TRI POWER,Coupe,8,RWD,Absalon Mercator,Delaware
+56861,2950,4169,2019,92111,209755,Buick,Riviera,1967,,430 V8,Fastback,8,RWD,Absalon Mercator,Luisiana
+56841,2830,4957,2019,92111,206474,Buick,Riviera,1969,,430,Coupe,8,RWD,Robert Drake,Delaware
+49523,3430,4604,2019,92111,180120,International Harvester,Other,1959,4x4 3/4 Ton Pickup Truck,266V8,Standard Cab Pickup,8,4WD,Robert Drake,Delaware
+149973,19750,17421,2020,221**,62500,Volkswagen,Atlas,2018,Launch Edition,3.6L V6,SUV,6,AWD,Robert Drake,Luisiana
+14015,23100,16542,2019,22101,33500,BMW,6-Series,2012,650i,twin turbo V8,Convertible,8,RWD,Robert Drake,Luisiana
+149490,33000,25720,2020,221**,131000,Porsche,911,2013,Carrera 2dr Coupe,3.4L H6,2dr Car,0,RWD,Robert Drake,Delaware
+92047,20000,17576,2019,22101,94500,Porsche,911,2005,Carrera 2,Flat Six,Convertible,6,RWD,Jean Grey,Luisiana
+95935,1590,2440,2019,95829,0,Ford,Mustang,1967,,inline 6,Coupe,6,RWD,Jean Grey,Delaware
+77698,860,3343,2019,19462,77777,Replica/Kit Makes,,1933,,gm small block,Convertible,8,RWD,Jean Grey,Luisiana
+76242,650,1178,2019,19462,43167,MG,Midget,1975,,4 cylinder,Convertible,4,RWD,Jean Grey,Delaware
+47288,5400,5473,2019,14617,76500,Nissan,300ZX,1990,Straman,VG30,Convertible,6,RWD,Absalon Mercator,Luisiana
+141488,63000,44801,2020,331**,54000,Tesla,S,2016,P100D,Electric,Sedan,0,AWD,Absalon Mercator,Delaware
+106694,12510,10097,2020,90402,100000,Chevrolet,SSR,2005,,6,Convertible,8,RWD,Absalon Mercator,Luisiana
+36662,6700,7539,2019,80022,63782,Chevrolet,Impala,1960,blue and white,283 v8,4 door,8,,Absalon Mercator,Delaware
+152396,6500,5648,2020,800**,45142,Dodge,Ram Van,1946,,,,6,,Absalon Mercator,Luisiana
+122389,4150,5304,2020,800**,91000,Porsche,928,1981,,V8,Coupe,8,,Franklin Richards,Delaware
+45481,14600,12793,2019,14217,46132,Chevrolet,Corvette,1982,,350,Hatchback,8,RWD,Absalon Mercator,Luisiana
+60291,6210,6618,2019,92683,155000,Chevrolet,Silverado 3500,1989,,,Van Camper,8,RWD,Robert Drake,Delaware
+6116,4650,4574,2019,92683,75947,Toyota,Yaris,2010,,,Sedan,4,FWD,Scott Summers,Luisiana
+59983,2390,5243,2019,19061,178000,Chevrolet,Camaro,1991,Z28,5.7 350,,8,A3 TH-350,James Howlett,Delaware
+153318,4900,4346,2020,173**,16200,Nissan,Frontier,2001,,2.5 liter 4 cylinder,Extended Cab Pickup,4,RWD,Erik Lensherr,Delaware
+48580,3800,5043,2019,11757,105555,Audi,TT,2006,1.8L FWD,,Coupe,4,FWD,Franklin Richards,Virgina
+48450,6100,7826,2019,11757,85804,Volkswagen,Golf,2012,,2,Hatchback,4,FWD,Absalon Mercator,Delaware
+69725,34000,25193,2019,68025,12608,Chrysler,300 Series,2012,SRT8,6.4L HEMI,Sedan,8,RWD,Erik Lensherr,Delaware
+164263,5700,7958,2020,301**,163845,Nissan,Titan,2006,XE,5.6L Flexible V8,Pickup,8,4WD,Jean Grey,Delaware
+161345,1930,2744,2020,640**,85764,Pontiac,Catalina,1964,,389 Cubic inch,Sedan,8,RWD,Robert Drake,Virgina
+107968,5790,7681,2020,3057,121674,Ford,F-250,2008,XL,V8,Crew Cab Pickup,8,RWD,Scott Summers,Arizona
+141751,8000,8127,2020,890**,79900,Chevrolet,Corvette,2001,,5.7L Gas V8,Hatchback,8,RWD,James Howlett,Delaware
+100701,500,3803,2019,21218,97545,Volkswagen,Golf,1989,GTI,1.8,Hatchback,4,FWD,Franklin Richards,Virgina
+94597,3600,4908,2019,7738,79064,Pontiac,Bonneville,2003,SSEI,3.8L V6,Sedan,6,FWD,Absalon Mercator,Arizona
+114894,22500,18325,2020,89129,100000,Chevrolet,Suburban,1972,C/20 Custom Deluxe,350,SUV,8,2WD,Franklin Richards,Delaware
+132563,6990,7757,2020,530**,1000,Chevrolet,Other Pickups,1936,,,,6,RWD,Absalon Mercator,Virgina
+77424,9500,7919,2019,89406,67100,Jaguar,XJ,2006,SUPER V8,4.2,Sedan,8,RWD,Franklin Richards,Luisiana
+86035,400,2363,2019,1810,140000,Cadillac,DeVille,1997,Base,4.6 Northstar,Sedan,8,FWD,Absalon Mercator,Delaware
+61161,9000,9668,2019,56013,999999,Ford,Other,1940,Deluxe Coupe,327,,8,,Robert Drake,Luisiana
+32884,15700,14912,2019,64012,978999,Dodge,Charger,1968,,6 cyl.,Coupe,6,RWD,Scott Summers,Delaware
+71294,15000,13439,2019,64012,9998888,Dodge,Charger,1968,,slant 6,Coupe,6,RWD,James Howlett,Luisiana
+71222,8900,8561,2019,64012,999888,Dodge,Charger,1970,,400 big block,Coupe,8,RWD,Erik Lensherr,Delaware
+71154,7000,8283,2019,64012,9998888,Dodge,Charger,1970,,383 big block,Coupe,8,RWD,Jean Grey,Luisiana
+65637,45000,32999,2019,97333,29400,Ferrari,308 GTSi,1985,QV,V-8,Targa,8,RWD,Franklin Richards,Delaware
+79466,6500,6901,2019,49684,500,Chevrolet,Silverado 1500,2000,,Ls2 6.0,Standard Cab Pickup,8,RWD,Absalon Mercator,Luisiana
+79028,1800,5254,2019,49684,0,Pontiac,Firebird,1994,,,Coupe,0,,Erik Lensherr,Delaware
+9409,11000,10299,2019,85041,107000,Mercedes-Benz,SL-Class,2005,SL500,5L 8 Cylinder Engine,Convertible,8,Rear Wheel Drive,Jean Grey,Luisiana
+90915,25900,21856,2019,33770,1,Pontiac,GTO,1965,,389,Coupe,8,RWD,Robert Drake,Delaware
+149505,6950,6480,2020,940**,15400,Lincoln,Continental,1969,mark lll,460 v8,Coupe,8,rear wheel drive,Franklin Richards,Luisiana
+93034,3050,5141,2019,94063,37068,Fiat,850 sport,1971,spyder,850cc,Convertible,4,rear,Absalon Mercator,Delaware
+9401,8350,8624,2019,94063,87600,Mercedes-Benz,SL-Class,1972,350SL,3.5 liter V8,Convertible,8,REAR WHEEL DRIVE,Erik Lensherr,Luisiana
+117833,3400,5693,2020,940**,193300,Mercedes-Benz,SL-Class,1976,w107,4.5 liter v8,Convertible,8,rear,Jean Grey,Delaware
+9149,7100,8133,2019,94063,153400,Mercedes-Benz,SL-Class,1979,450SL,4.5 liter V8,Convertible,8,REAR WHEEL DRIVE,Robert Drake,Luisiana
+92124,3050,5761,2019,94063,236700,Mercedes-Benz,SL-Class,1980,450sl,4.5 liter v8,convertible,8,rear wheel drive,Absalon Mercator,Delaware
+64290,2370,3949,2019,94063,10373,Volkswagen,Beetle - Classic,1971,BEETLE BUG,FOUR CYLINDER,COUPE,4,REAR WHEEL DRIVE,Franklin Richards,Luisiana
+85271,4350,4270,2019,94063,102574,Mercedes-Benz,190-Series,1960,190D,DIESEL,SEDAN,4,REAR WHEEL DRIVE,Absalon Mercator,Delaware
+62130,2480,5369,2019,94063,208700,Mercedes-Benz,300-Series,1979,300CD,FIVE CYLINDER DIESEL,COUPE,5,REAR WHEEL DRIVE,Robert Drake,Luisiana
+84569,20000,14690,2019,94063,106193,Volvo,Other,1971,1800E,1.8 liter four cylinder,coupe,4,REAR WHEEL,Scott Summers,Delaware
+117456,4050,4898,2020,94063,53100,Ford,Thunderbird,1988,T BIRD,5.0L V8,COUPE,8,REAR WHEEL DRIVE,James Howlett,Delaware
+84387,2960,3620,2019,94063,90700,Ford,Ranger,1990,CUSTOM,4.0 LITER V6,PICKUP TRUCK,6,REAR WHEEL DRIVE,Erik Lensherr,Luisiana
+64288,5550,7084,2019,94063,73200,Ford,Ranger,1988,XLT,2.9 liter v6,pickup truck,6,rear wheel drive,Jean Grey,Luisiana
+117686,3100,5009,2020,940**,246740,Ford,F-250,2000,XLT,6.8 LITER V10,Crew Cab Pickup,10,4WD,Franklin Richards,Delaware
+143074,3950,4340,2020,940**,89300,Chevrolet,Camaro,1983,BERLINETTA,2.8 LITER V6,COUPE,6,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+53627,2030,2437,2019,94063,86600,Pontiac,Bonneville,1997,SE,3.8 LITER V6,SEDAN,6,REAR WHEEL DRIVE,Erik Lensherr,Delaware
+92100,3950,3405,2019,94063,80050,Chrysler,MASERATI,1989,CHRYSLER TC,TURBOCHARGED 4 CYLINDER,HARDTOP CONVERTIBLE,4,front,Jean Grey,Luisiana
+143955,15100,10796,2020,940**,118200,GMC,Sierra 1500,1991,,,Stepside Pickup,8,4WD,Robert Drake,Delaware
+13312,5010,6142,2019,94063,86654,BMW,2002,1976,E10,2.0 LITER,,4,REAR WHEEL,Franklin Richards,Luisiana
+92292,2140,4933,2019,94063,79500,Chevrolet,El Camino,1986,,5.0 liter v8,auto/pickup,8,rear wheel drive,Absalon Mercator,Delaware
+92633,8500,7243,2019,94063,83520,Chevrolet,El Camino,1986,SS,305 cubic inch 5.0 liter v8,pickup,8,rear wheel drive,Erik Lensherr,Luisiana
+41302,13100,12070,2019,94063,64998,Porsche,914,1971,914,MID ENGINE,TARGA,4,REAR WHEEL DRIVE,Jean Grey,Delaware
+121249,2250,4173,2020,940**,127600,Isuzu,Rodeo,2000,LS,V6,SUV,0,4WD,Robert Drake,Luisiana
+150186,4100,3093,2020,940**,122300,BMW,Z3,1996,E36,1.9 LITER,CONVERTIBLE,6,REAR WHEEL DRIVE,Robert Drake,Delaware
+143452,2000,5115,2020,940**,218900,BMW,3-Series,1978,320I,2.0 LITER,SEDAN,4,REAR WHEEL DRIVE,Robert Drake,Luisiana
+85585,4550,6757,2020,94063,15300,Lincoln,Continental,1969,MARK III,460 V8,COUPE,8,REAR WHEEL DRIVE,Franklin Richards,Delaware
+143288,4550,4004,2020,940**,1174,MG,Midget,1975,,4 CYLINDER,CONVERTIBLE,4,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+92113,4550,6235,2019,94063,34068,MG,MGB,1977,,1.8 LITER,CONVERTIBLE,4,REAR WHEEL DRIVE,Franklin Richards,Delaware
+13646,2250,2839,2019,94063,77300,Datsun,B210,1978,,1.4 LITER FOUR CYLINDER,COUPE,4,REAR WHEEL DRIVE,Absalon Mercator,Delaware
+84909,2500,2438,2019,94063,121200,Mitsubishi,DODGE RAM 50,1986,MITSUBISHI,FOUR CYLINDER,PICKUP TRUCK,4,REAR WHEEL DRIVE,Erik Lensherr,Virgina
+47822,15900,12727,2019,94063,114700,Subaru,WRX,2011,HATCHBACK,2.5 LITER TURBO,hatchback,4,4WD,Jean Grey,Delaware
+143871,680,3463,2020,940**,97789,Nissan,Axxess,1990,,,SUV,4,RWD,Robert Drake,Delaware
+117400,3550,3871,2020,94063,69000,Nissan,Stanza,1987,XE,2.0 liter,5 door hatchback,4,front wheel drive,Scott Summers,Delaware
+85510,1280,3672,2020,94063,95000,Toyota,Tercel,1988,DX,1.5 LITER FOUR CYLINDER,COUPE,4,FRONT WHEEL DRIVE,James Howlett,Virgina
+117846,6000,6081,2020,940**,229000,Toyota,Land Cruiser,1992,J80,4.0 LITER V6,SUV,6,4WD,Franklin Richards,Arizona
+149309,5470,7081,2020,940**,141900,Toyota,Tacoma,1990,EXTENDED CAB,3.0 LITER V6,Crew Cab Pickup,6,RWD,Absalon Mercator,Delaware
+93637,4200,3204,2020,94063,96250,Toyota,Celica,1979,SUPRA,2.6 LITER SIX CYLINDER,COUPE,6,REAR WHEEL DRIVE,Franklin Richards,Virgina
+41351,48500,37438,2019,94063,34520,Plymouth,Road Runner,1970,Plymouth Belvedere Satellite line,440 V8,COUPE,8,REAR WHEEL DRIVE,Absalon Mercator,Arizona
+84431,3950,3157,2019,94063,172900,Land Rover,Range Rover,1994,LONG WHEELBASE CLASSIC,4.2 LITER V8,SUV,8,4WD,Franklin Richards,Delaware
+149442,2230,5497,2020,940**,75500,Audi,A6,2005,S LINE QUATTRO,4.2 LITER V8,Sedan,8,4WD,Absalon Mercator,Virgina
+13155,4800,5188,2019,94063,117900,Audi,S4,2005,QUATTRO,4.2 liter V8,Wagon,8,4WD,Robert Drake,Luisiana
+143028,4700,4830,2020,940**,138000,BMW,3-Series,1987,E30,2.7 LITER INLINE SIX CYLINDER,TWO DOOR SEDAN,6,REAR WHEEL,Erik Lensherr,Delaware
+85327,2080,4365,2019,94063,140000,BMW,3-Series,2000,E46,2.5 LITER SIX CYLINDER,SEDAN,0,REAR WHEEL DRIVE,Jean Grey,Luisiana
+149318,5490,6153,2020,940**,103400,BMW,Z3,2000,E36,2.8 LITER,CONVERTIBLE,6,REAR WHEEL DRIVE,Robert Drake,Delaware
+120771,8050,8463,2020,94063,162000,BMW,6-Series,1984,E24,TURBOCHARGED 3.5 LITER SIX CYLINDER,COUPE,6,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+28262,3950,5120,2019,94063,149700,BMW,6-Series,1989,635CSI,"3,5 LITER INLINE SIX CYLINDER",COUPE,6,REAR WHEEL DRIVE,Franklin Richards,Delaware
+117364,1140,2522,2020,94063,161400,BMW,3-Series,2004,E46,2.5 LITER,SEDAN,6,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+9000,3200,3079,2019,94063,216900,BMW,3-Series,2005,E46,3.0 liter inline six cylinder,SEDAN,6,REAR WHEEL DRIVE,Robert Drake,Delaware
+117413,1830,2022,2020,94063,199500,BMW,7-Series,1988,750il,5.0 liter V8,Sedan,12,rear wheel drive,Scott Summers,Luisiana
+143703,8890,7872,2020,940**,153700,BMW,M3,1995,E36,3.0 LITER S50 INLINE SIX CYLINDER,Coupe,6,REAR WHEEL DRIVE,James Howlett,Delaware
+46856,17000,12526,2019,94063,75100,BMW,M3,1995,M3,3.2 LITER,COUPE,6,REAR WHEEL DRIVE,Erik Lensherr,Luisiana
+53688,4750,5757,2019,94063,136200,BMW,M3,1997,E36 M3,3.2 liter inline six cylinder,Sedan,6,RWD,Jean Grey,Delaware
+117579,19600,15234,2020,940**,153510,BMW,M Roadster & Coupe,1999,Z3 M COUPE,SUPERCHARGED 3.2 LITER SIX CYLINDER,COUPE,6,REAR WHEEL DRIVE,Franklin Richards,Luisiana
+84445,10100,9809,2019,94063,171700,BMW,M5,1991,E34 M5,3.5 LITER INLINE SIX CYLINDER,SEDAN,6,REAR WHEEL DRIVE,Absalon Mercator,Delaware
+117616,14000,12806,2020,940**,177530,Mercedes-Benz,300-Series,1984,W123,5 cylinder turbodiesel,station wagon,5,rear wheel,Erik Lensherr,Luisiana
+92406,1530,3428,2019,94063,129128,Mercedes-Benz,SL-Class,1983,R107,3.8 LITER V8,CONVERTIBLE,8,REAR WHEEL,Jean Grey,Luisiana
+143002,10700,9784,2020,940**,98670,Mercedes-Benz,SL-Class,1989,560sl,5.6 liter V8,Convertible,8,RWD,Franklin Richards,Delaware
+27683,1210,1767,2019,94063,154500,Mercedes-Benz,500-Series,1990,560SEL,V8,Sedan,8,REAR WHEEL DRIVE,Absalon Mercator,Luisiana
+142926,300,953,2020,940**,999999,Mercedes-Benz,S-Class,1987,300SDL,3.0 LITER SIX CYLINDER,SEDAN,0,REAR WHEEL,Franklin Richards,Delaware
+143058,2080,5250,2020,940**,199999,Mercedes-Benz,300-Series,1992,300CE,3.0 LITER,COUPE,6,REAR WHEEL,Absalon Mercator,Luisiana
+42306,11990,10278,2019,94063,79700,Mercedes-Benz,E-Class,1995,W124 E320,3.2 LITER INLINE SIX CYLINDER,CONVERTIBLE,6,rear wheel drive,Robert Drake,Delaware
+92123,5050,3739,2019,94063,92400,Mercedes-Benz,SL-Class,1991,300SL,3.0 LITER INLINE SIX CYLINDER,ROADSTER,6,REAR WHEEL DRIVE,Scott Summers,Luisiana
+12998,4950,3871,2019,94063,85600,Mercedes-Benz,SL-Class,1998,SL500,5.0 LITER V8,Convertible,8,REAR WHEEL DRIVE,James Howlett,Delaware
+143266,3650,4050,2020,940**,95000,Mercedes-Benz,600-Series,1995,S600,V12,Sedan,12,rear wheel drive,Erik Lensherr,Delaware
+149835,4950,4273,2020,940**,174500,Mercedes-Benz,C-Class,1995,C36,3.6 liter six cylinder,sedan,6,rear wheel drive,Jean Grey,Virgina
+93235,2700,2265,2019,94063,117800,Mercedes-Benz,E-Class,1998,E430,4.3 LITER V8,SEDAN,8,REAR WHEEL,Franklin Richards,Delaware
+117877,2280,2125,2020,940**,217400,Mercedes-Benz,CLK-Class,2003,clk320,3.2 liter,convertible,6,rear wheel,Absalon Mercator,Delaware
+117525,7350,8804,2020,940**,122000,Porsche,944,1985,RENEGADE HYBRID,LT1 CORVETTE V8,COUPE,8,REAR WHEEL DRIVE,Erik Lensherr,Delaware
+117565,13950,11371,2020,940**,149900,Porsche,928,1987,S4,5.0 LITER V8,COUPE,8,REAR WHEEL,Jean Grey,Virgina
+84768,2000,4511,2019,94063,159600,Volvo,940,1995,BASE,FOUR CYLINDER,SEDAN,4,REAR WHEEL DRIVE,Robert Drake,Arizona
+46794,2150,2592,2019,94063,184200,Volvo,V70,2000,R,TURBOCHARGED 5 CYLINDER,STATION WAGON,5,ALL WHEEL DRIVE,Franklin Richards,Delaware
+147975,2440,3746,2020,442**,72342,Mercury,Cougar,1968,,,Coupe,8,,Absalon Mercator,Virgina
+20107,1900,3406,2019,77041,133160,Mercedes-Benz,400-Series,1973,Leather,V8,Coupe,8,,Erik Lensherr,Arizona
+19974,10100,8217,2019,77041,105302,Lexus,RX,2010,Leather,Hybrid,SUV,6,AWD,Jean Grey,Delaware
+142393,15200,13445,2020,191**,192917,Volkswagen,EuroVan,1991,Westfalia California,2.5L Gasoline,Van Camper,5,FWD,Robert Drake,Virgina
+153289,16870,12278,2020,836**,6500,Chevrolet,Special Deluxe,1940,,,Coupe,8,RWD,Absalon Mercator,Luisiana
+117380,4100,3617,2020,10024,198000,Ford,E-Series Van,2003,XLT,7.3 PSD,Extended Passenger Van,8,RWD,Franklin Richards,Delaware
+94371,1550,4611,2019,8723,191700,Mercedes-Benz,E-Class,1995,E 300D Diesel 4dr Sedan,3.0L I6,Sedan,0,4dr Sedan 3.0L Diesel,Absalon Mercator,Luisiana
+39422,9000,7242,2019,46076,145000,BMW,M5,2006,Base,V10 5.0l,Sedan,10,RWD,Robert Drake,Delaware
+159628,18100,14982,2020,077**,37948,Ford,Mustang,2004,SVT COBRA,SUPERCHARGED,Coupe,8,RWD,Scott Summers,Luisiana
+19703,20300,15825,2019,24502,100000,Dodge,Charger,1969,,318,Sedan,8,,James Howlett,Delaware
+77109,2700,3417,2019,94560,131500,BMW,7-Series,1995,750IL,V12,Sedan,12,RWD,Erik Lensherr,Luisiana
+99388,3550,5167,2020,84317,76063,Ford,Mustang,1979,Cobra,2.3 Turbo,Hatchback,4,RWD,Jean Grey,Delaware
+154890,11700,11904,2020,843**,26900,Acura,TSX,2012,Special Edition,,Sedan,4,,Franklin Richards,Luisiana
+98544,16000,15090,2019,44240,68000,Oldsmobile,Eighty-Eight,1952,,303,Coupe,8,RWD,Absalon Mercator,Delaware
+3937,29000,23102,2019,33301,30880,Mercedes-Benz,CLS-Class,2013,CLS550 4Matic,V8,Sedan,8,AWD,Erik Lensherr,Luisiana
+67873,3550,6388,2019,37617,203184,Other Makes,,2001,,,,0,,Jean Grey,Delaware
+30795,250,1185,2019,24128,97198,Renault,SIMCA,1965,Silver,,Sedan,4,,Robert Drake,Luisiana
+79791,6300,5251,2019,18103,165350,Ford,F-250,2012,Xlt,6.2,Crew Cab Pickup,8,4WD,Scott Summers,Delaware
+40611,2050,3367,2019,18103,145327,Subaru,Forester,2009,,2.5,Wagon,4,AWD,Scott Summers,Luisiana
+56313,500,584,2019,95959,200000,Dodge,Other,1974,,,,0,,Scott Summers,Delaware
+150910,3300,4732,2020,245**,115339,Mercedes-Benz,300-Series,1981,SL,3.8L Gas V8,Sedan,8,RWD,Scott Summers,Luisiana
+29513,2130,2855,2019,26757,186000,Nissan,Titan,2004,,,Crew Cab Pickup,8,4WD,Scott Summers,Luisiana
+109181,9000,9330,2020,26757,168000,Dodge,Ram 2500,2003,SLT,5.9L 24 valve Cummins,,6,4WD,Scott Summers,Delaware
+72656,500,2415,2019,95901,100000,International Harvester,1110,1971,,304 cid,Wagon,8,4WD,Scott Summers,Luisiana
+55241,11300,11543,2019,92009,36936,Volkswagen,Beetle - Classic,1964,,,,0,,Scott Summers,Delaware
+81595,7100,6177,2019,99212,47626,Volkswagen,Beetle - Classic,1967,,1500CC,Coupe,4,RWD,Scott Summers,Luisiana
+140672,13100,9630,2020,992**,98524,Chevrolet,Chevelle,1966,,327,EL CAMINO,8,RWD,Scott Summers,Delaware
+82357,6500,5500,2020,99212,83048,Chevrolet,Silverado 1500,1991,SILVERADO,5/7 350,SUV,8,4WD,Scott Summers,Luisiana
+53009,9990,8901,2019,99212,60000,Chevrolet,Silverado 1500,1983,silverado,305 V8,,8,RWD,Scott Summers,Delaware
+141213,8100,8394,2020,992**,89472,Cadillac,Eldorado,1973,eldorado,500ci v8,Convertible,8,FWD,Scott Summers,Delaware
+140158,26100,21592,2020,992**,30954,Chevrolet,C/K Pickup 2500,1972,SUPER CHEYENNE,6.2 LS,Standard Cab Pickup,8,4WD,Scott Summers,Virgina
+141225,7600,6539,2020,992**,139000,Nissan,300ZX,1990,,,,0,,Scott Summers,Delaware
+41780,3900,5152,2019,33245,155000,Lincoln,Navigator,2006,,5.4,SUV,8,,Scott Summers,Delaware
+41427,15100,11803,2019,63033,999999,Chevrolet,Impala,1964,SS,350,Coupe,8,RWD,Scott Summers,Delaware
+47883,6000,7390,2019,17331,116000,Chevrolet,Camaro,2002,SS,,,8,,Scott Summers,Virgina
+64033,16800,13032,2019,41826,52689,Chevrolet,C-10,1987,,,Single Cab Pickup,0,RWD,Scott Summers,Arizona
+138578,3700,6048,2020,352**,126000,Porsche,Boxster,2001,BASE,2.7L Gas H6,Convertible,6,RWD,Scott Summers,Delaware
+151205,13500,11308,2020,062**,22000,Hummer,H1,2005,,,,8,,Scott Summers,Virgina
+60147,2130,2361,2019,79902,111111,GMC,Truck,1964,,305 v-6,Standard Cab Pickup,6,RWD,Scott Summers,Arizona
+100299,12000,9939,2019,15001,95678,Chevrolet,Blazer,1986,,350,,0,4WD,Scott Summers,Delaware
+73295,14000,11131,2019,53120,31270,Ford,Mustang,2004,40th,4.6,Coupe,8,RWD,Scott Summers,Virgina
+112575,6900,5679,2020,531**,94574,Pontiac,Trans Am,1997,,5.7,Coupe,8,RWD,Scott Summers,Luisiana
+121776,6250,6547,2020,28273,58000,Pontiac,Firebird,1992,,6 Cylinder,Coupe,0,RWD,Scott Summers,Delaware
+121767,35200,28324,2020,24016,100000,Ford,Mustang,1968,GT,302,Fastback,8,RWD,Jean Grey,Luisiana
+117098,6000,7191,2020,105**,102966,Ford,Other,2000,,,Limousine,0,RWD,Jean Grey,Delaware
+133351,15000,14162,2020,320**,27000,Chevrolet,Caprice,1974,Caprice classic,350,Sedan,0,RWD,Jean Grey,Luisiana
+150482,7600,7603,2020,945**,142900,GMC,Savana,2002,RV G1500,5.7L Gas V8,Standard Passenger Van,8,RWD,Jean Grey,Delaware
+87556,3000,5208,2019,30188,17765,Jaguar,3.8,1960,,3.8L,Sedan,6,RWD,Jean Grey,Luisiana
+2533,46790,34861,2019,28117,42651,Chevrolet,Silverado 3500,2013,LTZ TURBO DIESEL,Duramax 6.6L Turbo Diesel V8 B20-Diesel Compatible,Crew Cab Pickup,0,4WD,Jean Grey,Delaware
+52722,4250,6443,2019,92845,194000,Mercedes-Benz,SL-Class,1981,380SLC,380,Coupe,8,RWD,Jean Grey,Luisiana
+51052,7200,6345,2019,22310,147563,Lexus,GX,2004,,4.7,SUV,8,4WD,Jean Grey,Delaware
+123917,1300,3300,2020,078**,91862,Lincoln,Aviator,2003,,4.6L Gas V8,SUV,8,AWD,Jean Grey,Luisiana
+58967,1500,1435,2019,11420,752460,Suzuki,X-90,1998,read,"1,6 leter",Coupe,4,4WD,Jean Grey,Delaware
+74550,3030,4267,2019,52172,69201,Dodge,Daytona,1993,,2.5,Coupe,4,FWD,Jean Grey,Luisiana
+74560,3800,5237,2019,52172,105921,Chrysler,Laser,1985,,2.5 TURBO CHARGED,Coupe,4,FWD,Jean Grey,Delaware
+73072,8900,9423,2019,52172,55792,Chevrolet,210,1956,,235 6CYL.,Sedan,6,RWD,Jean Grey,Luisiana
+33711,8100,9244,2019,15108,165252,Porsche,Cayenne,2009,BASE,V6,SUV,6,AWD,Jean Grey,Delaware
+151362,9000,10194,2020,330**,15000,Chevrolet,El Camino,1982,,468 Chevy Big Block,Standard Cab Pickup,8,RWD,Jean Grey,Luisiana
+14101,15000,12892,2018,33015,270,GMC,3100,1952,,350,Pickup,8,RWD,Absalon Mercator,Luisiana
+141319,44100,33284,2020,481**,13000,Ford,Mustang,2017,,,Coupe,8,,Absalon Mercator,Delaware
+116021,6100,4848,2020,48125,19000,Ford,Focus,2015,SE,,Sedan,4,,Absalon Mercator,Luisiana
+81728,9800,8077,2019,48125,15900,Ford,Focus,2018,Titanium,2.0L,Sedan,4,FWD,Absalon Mercator,Delaware
+140236,5700,4248,2020,481**,8500,Ford,Focus,2017,,,Hatchback,4,,Absalon Mercator,Luisiana
+81848,9500,9253,2019,48174,61900,Ford,Focus,2015,ST,2.0L,Hatchback,4,FWD,Absalon Mercator,Delaware
+140709,14200,11755,2020,481**,57000,Ford,Focus,2017,ST3,,,4,FWD,Absalon Mercator,Luisiana
+81950,7800,5946,2019,48125,36000,Ford,Focus,2015,ST2,,Hatchback,4,FWD,Absalon Mercator,Delaware
+116346,9400,8612,2020,481**,27100,Ford,Focus,2014,Titanium,,Hatchback,4,FWD,Absalon Mercator,Delaware
+141180,17600,14142,2020,481**,15600,Ford,Explorer,2016,Limited,,SUV,6,AWD,Absalon Mercator,Virgina
+141228,21100,17379,2020,481**,2400,Ford,Escape,2020,titanium,2.0L,SUV,4,AWD,Absalon Mercator,Delaware
+81814,11300,8456,2019,48174,6000,Buick,Lacrosse,2015,LaCrosse Premium II,3.6 V6,Sedan,6,FWD,Absalon Mercator,Delaware
+116415,7100,8623,2020,481**,52000,Chevrolet,Equinox,2017,LT,,SUV,0,FWD,Absalon Mercator,Delaware
+7443,8000,7645,2019,48125,39100,Chevrolet,Equinox,2016,LT,2.4L,SUV,4,FWD,Robert Drake,Virgina
+81167,9400,7089,2019,48125,44600,Chevrolet,Equinox,2017,Premier,,SUV,4,FWD,Robert Drake,Arizona
+81781,23600,18544,2019,48125,12100,Lincoln,MKX,2018,Reserve,3.7L,SUV,6,AWD,Robert Drake,Delaware
+81445,15800,12942,2019,48125,14100,Ford,Fusion,2018,Sport,,Sedan,6,AWD,Robert Drake,Virgina
+81720,11500,10828,2019,48174,20000,Lincoln,MKZ/Zephyr,2016,,2.0L,Sedan,4,AWD,Robert Drake,Arizona
+27422,20000,14437,2019,48125,16800,Lincoln,MKZ/Zephyr,2018,Premier,2.0L,Sedan,4,AWD,Robert Drake,Delaware
+140086,17500,16100,2020,481**,10400,Lincoln,MKZ/Zephyr,2017,Reserve,,,4,AWD,Robert Drake,Virgina
+141268,16200,14790,2020,481**,54000,Lincoln,MKZ/Zephyr,2017,Reserve,3.0 v6,Sedan,6,AWD,Robert Drake,Luisiana
+82408,17920,14256,2020,48125,15800,Lincoln,MKZ/Zephyr,2018,Reserve,3,Sedan,6,,Robert Drake,Delaware
+40791,19500,15956,2019,48125,4700,Lincoln,MKZ/Zephyr,2018,Black Label,2.O 4 cylinder Turbo,Sedan,4,FWD,Robert Drake,Luisiana
+27424,16450,13899,2019,48125,11800,Lincoln,MKC,2016,Select,2.0L,SUV,4,FWD,Robert Drake,Delaware
+82288,20900,16584,2020,48125,5400,Lincoln,MKC,2019,Reserve,2.3L,SUV,4,AWD,Robert Drake,Luisiana
+82412,22000,17412,2020,48125,86000,BMW,X6,2013,M Sport,4.4V8,SUV,8,AWD,Robert Drake,Delaware
+82226,14400,12386,2019,48125,16500,Honda,Civic,2018,EX,1.5,Hatchback,4,FWD,Franklin Richards,Luisiana
+116416,18000,16422,2020,481**,70000,BMW,7-Series,2012,Alpina B7,,Sedan,8,AWD,Franklin Richards,Delaware
+53048,18900,16791,2019,48174,61000,BMW,7-Series,2014,,4.4V8,Sedan,8,AWD,Franklin Richards,Luisiana
+126258,7550,8275,2020,953**,100000,Chevrolet,Nova,1972,SS,396--,2d : 2 Door Hard TOP,0,,Franklin Richards,Delaware
+95179,5440,4562,2019,92623,56734,Jaguar,XK8,1997,XK8,4,Convertible,8,RWD,Franklin Richards,Luisiana
+13951,5000,7115,2019,17044,100077,Chevrolet,S-10,2003,ZR2,4.3 V6,Extended Cab Pickup,6,4WD,Franklin Richards,Delaware
+64721,560,2822,2019,13421,84123,Cadillac,DeVille,1979,base,V8 425 cubic inch,Coupe,8,,Franklin Richards,Luisiana
+78648,23100,17809,2019,80111,48000,BMW,X5,2015,,,SUV,6,AWD,Franklin Richards,Delaware
+57940,21600,17658,2019,46375,1940,Ford,Model A,1931,Chrome,5.7 litre,Coupe,8,RWD,Franklin Richards,Luisiana
+83656,2030,2336,2019,92660,152739,Mercedes-Benz,200-Series,1971,,V-6,Sedan,6,RWD,Franklin Richards,Delaware
+8799,10800,9433,2019,97086,101000,Volkswagen,Bus/Vanagon,1979,T2,2,,4,RWD,Franklin Richards,Luisiana
+103982,3100,4318,2020,97452,135000,International Harvester,1310,1972,,,,0,RWD,Franklin Richards,Luisiana
+135213,4750,6250,2020,209**,145000,Hyundai,Genesis,2012,,V6,Sedan,6,RWD,Franklin Richards,Delaware
+27014,3300,4241,2019,20901,161000,Buick,Regal,2011,4 Door Sedan,4 Cylinder 2.4 Engine,Sedan,4,FWD,Franklin Richards,Luisiana
+103854,7600,6648,2020,75662,0,Chevrolet,Bel Air/150/210,1957,,,,0,RWD,Jean Grey,Delaware
+63569,1750,1821,2019,70777,174000,Land Rover,Range Rover,2003,hse,4.4,SUV,8,RWD,Robert Drake,Luisiana
+38160,1800,1967,2019,89140,158000,Ford,E-Series Van,1988,,,,0,,Franklin Richards,Delaware
+33165,3000,3062,2019,84044,235000,Chevrolet,Other Pickups,1981,,,Crew Cab Pickup,8,4WD,Absalon Mercator,Luisiana
+161633,90100,63816,2020,430**,700,Chevrolet,Corvette,2020,2LT,,,0,,Erik Lensherr,Delaware
+161808,40100,29986,2020,430**,3899,Plymouth,Barracuda,1970,,383,Coupe,8,RWD,Jean Grey,Delaware
+45511,2800,2991,2019,78130,94112,Volkswagen,Beetle-New,2004,,,Convertible,0,,Robert Drake,Virgina
+84243,1000,4553,2020,46151,98000,Mercedes-Benz,200-Series,1976,,Diesel,Sedan,0,RWD,Absalon Mercator,Delaware
+95627,18410,14567,2020,33328,82224,Volvo,XC90,2016,,,,0,,Franklin Richards,Delaware
+92917,6600,5960,2019,98275,3100,GMC,Truck,1966,C10,350 V8,Truck,8,RWD,Absalon Mercator,Delaware
+154728,1300,2446,2020,577**,233618,Chevrolet,Camaro,1995,,,Convertible,6,RWD,Robert Drake,Virgina
+58251,6650,5080,2019,33570,999999,Toyota,Supra,1994,,,Coupe,0,RWD,Scott Summers,Arizona
+836,9500,10566,2018,33570,104526,Toyota,Land Cruiser,1968,FJ40,3.9L,SUV,6,4WD,James Howlett,Delaware
+51054,4100,6680,2019,12561,70000,Dodge,Coronet,1968,CORONET 500,5.2 LITRE,Sedan,8,RWD,Erik Lensherr,Virgina
+70040,12000,10123,2019,12561,64599,Pontiac,Trans Am,2000,,5.7,Coupe,8,RWD,Jean Grey,Arizona
+150355,500,3458,2020,453**,161825,Subaru,SVX,1994,LE,3.3L Gas H6,Coupe,6,FWD,Franklin Richards,Delaware
+17759,10580,9073,2019,95004,76040,Buick,Riviera,1964,,425 CID,Riviera,0,,Absalon Mercator,Virgina
+126049,5000,6620,2020,799**,145000,Ford,F100,1979,,4.6,Pickup,0,RWD,Erik Lensherr,Luisiana
+136501,3060,3403,2020,031**,177000,Volvo,240,1990,240 DL,,Sedan,4,,Jean Grey,Delaware
+30847,7500,5586,2019,95960,110009,Toyota,Pickup,1986,,2.4L 22RE,Standard Cab Pickup,4,4WD,Robert Drake,Luisiana
+6547,10000,9525,2019,89142,100000,Ford,Thunderbird,1960,,430,Convertible,8,Automatic,Scott Summers,Delaware
+150218,3850,3575,2020,019**,141000,Jeep,Wagoneer,1988,,5.9L Gas V8,SUV,8,4WD,Absalon Mercator,Luisiana
+53834,3150,5569,2019,78219,218100,Nissan,350Z,2004,2 Door,3.5,Convertible,4,RWD,Erik Lensherr,Delaware
+41205,4610,6992,2019,44449,85898,Chrysler,Crossfire,2005,,3.2L V6,Convertible,6,RWD,Jean Grey,Luisiana
+88995,3050,3871,2019,98387,168000,GMC,Suburban,1999,SLE,7.4L 454 CI V8,SUV,8,4WD,Robert Drake,Delaware
+10830,11790,8642,2019,98444,159000,Jeep,Wagoneer,1989,,5.9L V8,SUV,8,4WD,Scott Summers,Luisiana
+49391,46000,35412,2019,39565,2327,Ford,Mustang,2013,GT500,V8,Coupe,8,RWD,James Howlett,Delaware
+119198,5250,7656,2020,33183,79000,Ford,Expedition,2008,,5.4,SUV,8,RWD,Franklin Richards,Luisiana
+113590,1530,4156,2020,809**,225000,Volkswagen,Passat,1996,,Diesel,Wagon,4,FWD,Absalon Mercator,Delaware
+91556,15000,12255,2020,95132,140000,Lexus,IS,2008,,5.0 V8,Sedan,8,RWD,Franklin Richards,Luisiana
+11842,6200,5869,2019,95132,66505,Porsche,Boxster,2005,Base,2.7,Convertible,6,RWD,Absalon Mercator,Delaware
+87880,830,1390,2020,30240,95000,Pontiac,Safari,1960,,,,0,,Absalon Mercator,Luisiana
+80470,7550,8520,2019,28748,84007,Subaru,Forester,2015,,2.5i,SUV,4,AWD,Erik Lensherr,Delaware
+4990,10650,8306,2019,27559,0,Ford,F-100,1953,50th Anniversary,302,Pickup,8,RWD,Jean Grey,Luisiana
+82077,8000,8812,2019,48045,104112,Mercedes-Benz,SL-Class,2003,Base 5.0L,5.0L,Convertible,8,RWD,Robert Drake,Luisiana
+68919,4600,4708,2019,1867,202130,Toyota,Land Cruiser,1997,base,6 cyl,SUV,6,4WD,Scott Summers,Delaware
+651,2600,4829,2019,23225,204000,Ford,F-550,2004,,6,,0,RWD,James Howlett,Luisiana
+19364,1000,2689,2018,19014,160004,Honda,Accord,1995,LX ABS,V6 - 2.7,Sedan,6,FWD,Franklin Richards,Delaware
+83161,1500,4353,2019,8081,244000,Nissan,Altima,2008,,2.5 L 4-cylinder,Sedan,4,Standard,Absalon Mercator,Luisiana
+142491,4050,3620,2020,260**,29500,Chrysler,Newport,1968,,,,8,,Franklin Richards,Delaware
+105808,8000,8732,2019,92606,95500,BMW,3-Series,2012,328i,,Sedan,4,RWD,Absalon Mercator,Luisiana
+5982,5000,6541,2019,11226,135000,Nissan,Altima,2008,2.5 SL,2.5 SL,Sedan,4,FWD,Absalon Mercator,Delaware
+84784,10500,8879,2019,28805,286913,Toyota,Land Cruiser,1990,,Straight 6,Wagon,6,4WD,Erik Lensherr,Luisiana
+34239,25000,20463,2019,8859,57525,Porsche,911,2002,Cabriolet,6,Convertible,6,RWD,Jean Grey,Delaware
+153921,1050,2142,2020,117**,109003,Lincoln,Mark Series,1977,,400 cubic inch,Coupe,8,RWD,Robert Drake,Luisiana
+148506,5200,5134,2020,327**,86000,Chevrolet,El Camino,1985,base,5.0L Gas V8,Pickup,8,RWD,Scott Summers,Luisiana
+159038,6800,6011,2020,062**,1050000,Chevrolet,Chevelle,1966,,,,0,,James Howlett,Delaware
+41253,910,3134,2019,18103,223000,Toyota,Sequoia,2003,,4.7,,0,,Franklin Richards,Luisiana
+8884,3000,5670,2019,18103,133000,Mercedes-Benz,C-Class,2006,,,Sedan,6,RWD,Absalon Mercator,Delaware
+10043,40000,30265,2019,76114,48000,Dodge,Challenger,1971,,v8,,0,RWD,Franklin Richards,Luisiana
+4624,100,1952,2019,3033,156818,Audi,A6,2002,QUATTRO NO RESERVE,,,0,,Absalon Mercator,Delaware
+93876,8350,7249,2019,58103,89473,BMW,5-Series,2002,M Sport Package,2.5L,Wagon,6,RWD,Absalon Mercator,Luisiana
+16733,4650,3850,2019,12168,66216,Volkswagen,Jetta,2011,,TDI Diesel,Wagon,0,,Erik Lensherr,Delaware
+27166,19600,15590,2019,12572,86000,BMW,328 XD,2015,,,Wagon,4,AWD,Jean Grey,Delaware
+155946,5100,5451,2020,027**,51500,Chevrolet,Chevelle,1967,SS 396 Chevelle,,Coupe,8,,Robert Drake,Virgina
+100141,19140,14996,2019,2766,999999,Dodge,Polara,1963,330,440 Max Wedge,Sedan,8,RWD,Scott Summers,Delaware
+55057,8310,6327,2019,19116,83000,Ford,Fusion,2014,Hybrid SE,2,Sedan,4,FWD,James Howlett,Delaware
+62867,17800,14162,2019,80216,47720,Maserati,Gran Turismo,2008,,4.2L V8,2dr Car,8,2dr Cpe GranTurismo,Franklin Richards,Delaware
+10694,27000,19879,2018,77573,35661,Ford,Mustang,2007,GT500,5.4,Coupe,8,RWD,Absalon Mercator,Virgina
+98589,6000,7305,2019,85704,0,Chevrolet,Monte Carlo,1971,,350,Coupe,8,RWD,Franklin Richards,Arizona
+33947,40000,28645,2019,91354,193000,Ford,Excursion,2005,xlt,6,SUV,8,4WD,Absalon Mercator,Delaware
+85502,3200,5504,2020,43232,66758,Pontiac,Firebird,1989,Formula,5.0 220 hp,Coupe,8,,Absalon Mercator,Virgina
+85126,4050,5824,2019,43232,189348,Acura,MDX,2008,"AWD, Technology/Sport packages",,SUV,6,AWD,Erik Lensherr,Arizona
+43961,1500,1434,2019,46070,186099,Dodge,Dakota,2004,SLT 2-Door Extended Cab Pickup,L V6,Extended Cab Pickup,6,4WD,Jean Grey,Delaware
+14725,5500,5778,2019,41777,157602,Toyota,Tacoma,1994,dlx,3,Extended Cab Pickup,6,4WD,Robert Drake,Virgina
+150291,10700,10105,2020,959**,0,Chevrolet,C-10,1984,,305,Standard Cab Pickup,8,RWD,Scott Summers,Luisiana
+82320,11400,11299,2020,77379,58000,GMC,Sierra 1500,1984,,V8,Standard Cab Pickup,8,,James Howlett,Delaware
+18468,23000,17161,2019,33710,78000,Chevrolet,Impala,1965,SS,454,Coupe,8,RWD,Franklin Richards,Luisiana
+44777,23000,17214,2019,j4k3g8,43140,Porsche,911,1971,T Coupe,2.7 liter,Coupe,6,RWD,Absalon Mercator,Delaware
+130476,15100,12274,2020,h7v***,94894,Ford,Mustang,1967,Convertible C code V8 289ci,289ci V8 C code,Convertible,0,,Franklin Richards,Luisiana
+15309,5000,4566,2018,29687,260000,Toyota,Tundra,2006,cloth,v-8,Extended Crew Cab Pickup,8,RWD,Absalon Mercator,Delaware
+36450,19000,13612,2019,73071,80000,Chevrolet,Camaro,1967,,V8,,8,RWD,Franklin Richards,Luisiana
+28731,2300,3314,2019,19126,135232,Mini,Cooper S,2006,,1.6,Coupe,4,FWD,Franklin Richards,Delaware
+116524,3050,2878,2020,458**,45000,Ford,Thunderbird,1966,"complete, GC",390,Coupe,8,RWD,Franklin Richards,Luisiana
+147812,42260,32564,2020,982**,74500,Ford,Mustang,1969,,428 Cobra Jet V8,Fastback,8,,Franklin Richards,Luisiana
+96031,2950,3999,2019,85130,148040,Datsun,Z-Series,1982,,4 cyl 720,Standard Cab Pickup,4,RWD,Franklin Richards,Delaware
+132232,3060,3454,2020,074**,224124,Lincoln,Town Car,2006,EXECUTIVE,4.6L Gas V8,,8,RWD,Franklin Richards,Luisiana
+75123,10500,10296,2019,86305,224276,Toyota,Land Cruiser,1991,,,,0,,Jean Grey,Delaware
+104490,14210,13835,2019,48126,44000,Ford,F-150,2013,six,5,Extended Cab Pickup,8,RWD,Robert Drake,Luisiana
+121756,8200,7419,2020,45044,45202,Rolls-Royce,Silver Shadow,1979,2,6.2L V8,Sedan,8,RWD,Franklin Richards,Delaware
+154786,2980,4609,2020,441**,136300,Nissan,Sentra,1988,,1.6,Hatchback,4,FWD,Absalon Mercator,Luisiana
+143558,4400,4477,2020,403**,108000,Replica/Kit Makes,solara,2002,,3,Convertible,6,,Erik Lensherr,Delaware
+53692,14700,14177,2019,40383,7780,Fiat,124 Spider,2018,,1.4,,4,,Jean Grey,Luisiana
+89290,4750,6512,2019,21042,45067,Chevrolet,Silverado 1500,1988,Silverado 2WD,,Standard Cab Pickup,8,RWD,Robert Drake,Delaware
+147284,1720,4272,2020,341**,132400,Mercedes-Benz,C-Class,1997,C 280,2.8L I6,4dr Car,6,4dr Sdn 2.8L,Absalon Mercator,Luisiana
+93948,10000,9077,2019,26710,186051,Dodge,Ram 3500,2002,,5.9 Cummins,Extended Cab Pickup,6,4WD,Franklin Richards,Luisiana
+71661,800,2002,2019,37013,320000,Chevrolet,Silverado 1500,1996,,,,0,,Absalon Mercator,Delaware
+13071,920,3320,2019,60455,84797,Ford,Taurus,1990,sho,3.0 liter yamaha,,6,FWD,Robert Drake,Luisiana
+140804,6400,7570,2020,941**,100,Chevrolet,Camaro,1970,,,Coupe,0,,Scott Summers,Delaware
+45343,25000,18743,2019,60103,2344,J. I. Case,,1926,,,Convertible,6,RWD,James Howlett,Luisiana
+27235,2180,2522,2019,93463,284000,Dodge,Ram 2500,2001,2 Wheel Drive,Cummings Diesel 24 Valve,Extended Cab Pickup,6,RWD,Erik Lensherr,Delaware
+133729,23500,19440,2020,115**,200,Chevrolet,Corvette,1980,,,Coupe,8,RWD,Jean Grey,Luisiana
+156301,7000,5229,2020,327**,89000,Jeep,Wrangler,1992,,4.0L Gas I6,SUV,6,4WD,Franklin Richards,Delaware
+110727,10720,11049,2020,33486,69486,Mercedes-Benz,SL-Class,1999,500,5.0L Gas V8,Convertible,8,RWD,Absalon Mercator,Delaware
+34548,4000,5472,2019,6443,25300,Ford,Crown Victoria,1986,,V6 3.8L,Wagon,6,,Erik Lensherr,Virgina
+53091,2530,2454,2019,6443,192000,Volvo,240,1982,,,,4,,Jean Grey,Delaware
+64525,6000,6713,2019,87144,75782,Ford,Galaxie,1965,Galaxie 500 2 Dr Hard Top,352 Interceptor Motor,2 Door Hard Top,8,RWD,Robert Drake,Delaware
+91451,670,3434,2020,78218,100000,BMW,3-Series,1997,Sport Package,3.0L 6cyl.,Convertible,6,RWD,Scott Summers,Delaware
+111146,5100,4367,2020,087**,85000,Chevrolet,Corvette,1992,,,Coupe,0,,Absalon Mercator,Virgina
+629,560,4282,2019,8753,147177,BMW,3-Series,2004,,3.0 liter,Coupe,6,AWD,Erik Lensherr,Arizona
+59699,39000,29247,2019,34655,95811,Chevrolet,Corvette,1969,,427 cubic inch 390 hp,Coupe,8,RWD,Jean Grey,Delaware
+3581,6200,5711,2019,98052,62000,Volkswagen,Jetta,2011,Sportwagen,2.0 TDI,Wagon,4,FWD,Robert Drake,Virgina
+3580,2950,3983,2019,98052,222800,Volkswagen,Jetta,2010,Sportwagen,2.0 TDI,Wagon,4,FWD,Scott Summers,Arizona
+7066,5700,5890,2019,50567,0,Ford,F-100,1960,,355ci Whipple supercharged sbc,,8,RWD,James Howlett,Delaware
+150507,3050,5808,2020,913**,60000,Chevrolet,Caprice,1994,,,Sedan,8,,Franklin Richards,Virgina
+156494,2000,2718,2020,907**,190744,Ford,Ranger,2005,,3.0L,Truck,0,RWD,Absalon Mercator,Luisiana
+142827,18100,13423,2020,333**,6459,Chevrolet,Corvette,1999,,8 Cylinder Engine 5.7L/346,2dr Car,0,2dr Cpe,Franklin Richards,Delaware
+46869,13500,10218,2019,33314,15106,Pontiac,Firebird,2002,Trans Am,8 Cylinder Engine 5.7L/346,2dr Car,0,2dr Cpe Trans Am,Absalon Mercator,Luisiana
+142900,16800,12893,2020,333**,41553,Bentley,Arnage,1999,,8 Cylinder Engine 4.4L/268,4dr Coupe,0,4dr Sedan,Absalon Mercator,Delaware
+78092,3000,2515,2020,85303,12345678,Chevrolet,El Camino,1959,,chevy in-line 6,,0,RWD,Erik Lensherr,Luisiana
+58580,1880,1803,2019,76116,170000,Mitsubishi,3000GT,1993,,,Hatchback,0,FWD,Jean Grey,Delaware
+125935,1200,4023,2020,22742,102000,Mazda,RX-7,1983,,,2D SDN,0,,Robert Drake,Luisiana
+11731,2500,5465,2019,30134,129000,Nissan,Versa,2007,,,Hatchback,4,FWD,Robert Drake,Delaware
+59433,6710,5752,2019,35763,143992,BMW,X5,2012,LEATHER SEATS,4.4L,SUV,8,AWD,Robert Drake,Luisiana
+5514,24100,19143,2018,79912,71011,Dodge,Viper,2005,,,,10,,Robert Drake,Luisiana
+46087,310,3489,2019,91405,77000,Volkswagen,Passat,2002,Wagon,1.8t,,0,RWD,Franklin Richards,Delaware
+77972,10000,8285,2019,70744,60000,Ford,Excursion,2003,,,SUV,0,,Franklin Richards,Luisiana
+115658,30700,24522,2020,891**,16978,Fisker,Karma,2012,,,,0,,Franklin Richards,Delaware
+33118,12200,9800,2019,46226,69000,Chevrolet,Chevelle,1968,Big block 400 Turbo!,468,Coupe,8,FWD,Franklin Richards,Luisiana
+159491,3500,5248,2020,078**,191000,Dodge,Ram 2500,2003,ST,5.7L Gas V8,Pickup,8,4WD,Robert Drake,Delaware
+65322,1530,4443,2019,10901,199999,Honda,CR-V,2006,,,,4,4WD,Robert Drake,Luisiana
+142727,40000,31097,2020,852**,26689,Ferrari,308 GTSi,1982,GTSI,2.9L Gas V8,,8,RWD,Robert Drake,Delaware
+87338,7550,9180,2019,46149,72235,Volvo,1800S,1967,,1.8L,Coupe,4,RWD,Robert Drake,Luisiana
+39399,1330,1333,2019,7012,120000,Infiniti,G35,2004,,,,0,,Franklin Richards,Delaware
+77819,2060,2366,2019,58012,147291,Ford,F-250,1989,Lariat XLT,460 CID V-8,Standard Cab Pickup,8,RWD,Franklin Richards,Luisiana
+30937,50000,38899,2019,12592,75072,Land Rover,Defender,1994,90,V8,Convertible,8,4WD,Franklin Richards,Luisiana
+14140,2600,4071,2018,34205,138884,BMW,Z3,2000,,,,0,,Franklin Richards,Delaware
+59681,75000,53734,2019,11378,59385,Hummer,H1,1999,,TURBO DIESEL,,0,,Absalon Mercator,Luisiana
+91691,43100,30791,2019,83704,250,Replica/Kit Makes,2019 Lambo Aventador Replica,2019,V8 500HP See Video,LS2 V8 Vette 500hp,Roadster,8,RWD,Absalon Mercator,Delaware
+91985,13100,13145,2019,83616,82537,Dodge,Ram 1500,2005,SRT 10,8.3L V10 Viper motor,Pick up truck,10,RWD,Absalon Mercator,Luisiana
+41976,5100,4906,2019,12564,100000,Ford,F-100,1969,,,,0,,Absalon Mercator,Delaware
+122870,2000,3477,2020,217**,103000,Jaguar,XK8,1998,Base,4.0L Gas V8,Convertible,8,RWD,Absalon Mercator,Luisiana
+102621,38200,29137,2019,29405,25200,Tesla,3,2018,,,Sedan,0,,Absalon Mercator,Delaware
+85637,12500,11967,2019,63129,150000,Jeep,CJ,1983,,,,0,,Robert Drake,Delaware
+134930,10700,10732,2020,083**,7500,Chevrolet,Chevelle Coupe,1969,,468 big block,Coupe,8,RWD,Robert Drake,Virgina
+114573,3450,4790,2020,973**,99999,Dodge,Charger,1974,,318,Coupe,8,RWD,Robert Drake,Delaware
+114574,2050,4525,2020,973**,8275,Ford,Mustang,1967,,302,Coupe,8,RWD,Robert Drake,Delaware
+76947,2030,2515,2019,69201,100000,Plymouth,Satellite,1972,Sebring,318,Coupe,8,RWD,Robert Drake,Delaware
+154016,3060,4736,2020,774**,72000,Chevrolet,C-10,1984,,,,8,,Jean Grey,Virgina
+55517,2610,2029,2019,77407,210000,GMC,Sierra 1500,2006,,,,8,,Jean Grey,Arizona
+122980,6100,5303,2020,774**,44000,Jeep,Wrangler,2005,,4,,6,4WD,Jean Grey,Delaware
+48341,4100,4832,2019,77407,150000,Jeep,Wrangler,1995,,2.5L,,4,4WD,Jean Grey,Virgina
+97735,1930,4670,2020,77305,20000,Chevrolet,Bel Air/150/210,1953,,,,0,,Absalon Mercator,Arizona
+55518,1840,2813,2019,77035,132000,Pontiac,Firebird,2000,,,,6,,Absalon Mercator,Delaware
+48491,3410,5256,2019,77407,133000,Jeep,Wrangler,1989,,,Convertible,4,,Absalon Mercator,Virgina
+79201,4500,4407,2019,78232,167713,Chrysler,300 Series,2007,Touring,3.5,Sedan,0,,Absalon Mercator,Luisiana
+144402,9000,7442,2020,600**,135000,Ford,Expedition,2007,EL XLT,5.4L Gas V8,Limousine,8,RWD,Absalon Mercator,Delaware
+85831,7000,8791,2019,53154,88000,Pontiac,Firebird,2001,Trans Am,LS1,Convertible,8,RWD,Franklin Richards,Luisiana
+140117,1700,3650,2020,313**,145642,Honda,Civic,2007,,,Sedan,4,,Absalon Mercator,Delaware
+124956,3250,5779,2020,103**,96000,Jeep,Wagoneer,1983,Limited,V8 360ci,SUV,8,4WD,Robert Drake,Luisiana
+76419,5500,6351,2019,95603,999999,Chevrolet,C/K Pickup 1500,1956,,,,0,,Scott Summers,Delaware
+119519,1780,3980,2020,080**,110500,Lincoln,Town Car,2001,SIGNATURE,4.6L Gas V8,Sedan,0,RWD,James Howlett,Luisiana
+7724,12400,11332,2019,60623,123456,Pontiac,Bonneville,1961,,,Convertible,8,RWD,Erik Lensherr,Delaware
+119673,1030,4117,2020,11722,191880,Lexus,ES,2002,,,Sedan,6,FWD,Jean Grey,Luisiana
+26653,650,1669,2019,43050,188168,Jeep,Cherokee,1998,None,4.0 Liter Inline 6,SUV,6,4WD,Franklin Richards,Luisiana
+132413,5430,7082,2020,201**,97595,Porsche,944,1986,Turbo,2.5L Turbo,Coupe,4,RWD,Absalon Mercator,Delaware
+142410,1500,4787,2020,972**,173000,Acura,TL,2000,,3.2L Gas V6,Sedan,6,FWD,Erik Lensherr,Luisiana
+57907,28800,21624,2019,71201,20352,Mercedes-Benz,E-Class,2017,E 300,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,Sedan,4,RWD,Jean Grey,Delaware
+115975,4400,4381,2020,33435,106800,Jeep,Commander,2007,Leather,3.7L Gas V6,SUV,6,4WD,Robert Drake,Luisiana
+62620,19600,16118,2019,7628,72383,Chevrolet,Chevelle,1967,Malibu,454,Coupe,8,RWD,Scott Summers,Delaware
+37931,4600,3767,2019,72634,141400,BMW,3-Series,1987,,2.5 6 Cyl,Convertible,6,RWD,Scott Summers,Luisiana
+82271,5000,6353,2019,32504,41127,Jaguar,XJ,1991,,V12,Convertible,0,RWD,Scott Summers,Delaware
+138106,8450,9703,2020,080**,112000,Acura,ILX,2014,24 PREMIUM,2.4L Gas I4,Sedan,4,FWD,Scott Summers,Luisiana
+16917,3600,3796,2019,75252,186290,Ford,Mustang,1993,GT,302 5.0 V8,Coupe,8,RWD,Scott Summers,Delaware
+155508,11000,10222,2020,752**,176900,GMC,Sierra 1500,2007,Denali,6.2,Crew Cab Pickup,8,RWD,Scott Summers,Luisiana
+81014,10200,9323,2019,6457,38700,Chevrolet,Corvette,1998,T Tops,5.7 V8 345HP 350lbs,Hatchback,8,,Scott Summers,Luisiana
+150594,7500,8068,2020,065**,238000,Ford,F-250,1997,,,,8,4WD,Scott Summers,Delaware
+21164,1400,3313,2019,6812,198346,Dodge,Dakota,2005,ST,V6 3.7,Crew Cab Pickup,6,4WD,Absalon Mercator,Luisiana
+20767,600,4303,2019,6053,107000,Chevrolet,Malibu,2002,LS,,Sedan,6,FWD,Robert Drake,Delaware
+458,4730,3723,2019,6877,153356,Chevrolet,Tahoe,1999,LS,350,SUV,8,RWD,Robert Drake,Luisiana
+159655,29000,22034,2020,064**,21900,Ford,Mustang,2007,GT,4.6L Gas V8,Coupe,8,RWD,Robert Drake,Delaware
+147888,12850,9548,2020,302**,53116,Chevrolet,Caprice,1972,Chrome,400,Coupe,8,RWD,Robert Drake,Luisiana
+117669,27500,21139,2020,156**,130000,Pontiac,GTO,1969,,,,0,,Robert Drake,Delaware
+156716,25300,18940,2020,153**,1000,Chevrolet,Nova,1970,SS,427 V8,,8,RWD,Robert Drake,Delaware
+123483,10000,10518,2020,773**,166099,Toyota,Land Cruiser,1978,FJ40 Original I6,Original In-Line Six Cylinder Toyota,SUV,6,4WD,Robert Drake,Virgina
+27677,18100,14209,2019,34286,82000,Chevrolet,Other,1975,silverado,454,Standard Cab Pickup,8,RWD,Robert Drake,Delaware
+61138,1100,2166,2019,19128,212000,Honda,Accord,2004,,,Coupe,0,FWD,Robert Drake,Delaware
+99562,1480,4499,2019,6060,134590,Oldsmobile,442,1991,,,Coupe,4,FWD,Robert Drake,Delaware
+82874,2000,3034,2019,91006,99999,Oldsmobile,442,1968,Cutlass,None,Coupe,0,RWD,Robert Drake,Virgina
+133396,4500,4478,2020,980**,159000,Chevrolet,Corvette,1985,,5.7L Gas V8,Hatchback,8,RWD,Erik Lensherr,Arizona
+133224,4320,3860,2020,980**,124500,Mercedes-Benz,SL-Class,1982,,,Convertible,8,,Erik Lensherr,Delaware
+132992,6100,7176,2020,980**,122474,Porsche,Cayenne,2004,TURBO,4.5L Gas V8,SUV,8,AWD,Erik Lensherr,Virgina
+14185,7000,6651,2019,4042,0,Ford,Mustang,1965,,,,0,,Erik Lensherr,Arizona
+63547,2500,3942,2019,83709,0,Dodge,Dart,1970,,440,Coupe,8,,Erik Lensherr,Delaware
+160484,1530,1585,2020,201**,11383,Chrysler,Newport,1963,,,,8,,Erik Lensherr,Virgina
+30672,6000,4868,2019,71303,141256,Ford,F-250,1999,XL,V10,Extended Cab Pickup,10,4x4,Erik Lensherr,Luisiana
+86497,20000,15319,2019,95215,100321,Chevrolet,El Camino,1965,,,,0,,Erik Lensherr,Delaware
+112210,22500,19300,2020,95204,80000,Chevrolet,Impala,1965,convertible,283,Convertible,8,RWD,Erik Lensherr,Luisiana
+83713,7950,7937,2019,52347,105918,Toyota,Tacoma,2007,,2.7,Extended Cab Pickup,4,RWD,James Howlett,Delaware
+89488,2330,3506,2019,80016,100000,Ford,Other Pickups,1949,,,,0,,James Howlett,Luisiana
+157615,3500,6183,2020,463**,168000,GMC,Sierra 3500,2005,C3500,6.0L Gas V8,,0,RWD,James Howlett,Delaware
+30902,4800,5982,2019,89044,93940,Mercedes-Benz,190-Series,1990,190E 2.6,2.6L I6 F,Sedan,6,,James Howlett,Luisiana
+27419,1640,4826,2019,60048,0,Predator GSXR 750,Predator,1900,,GSXR 750,,0,,James Howlett,Delaware
+16550,6100,8237,2019,43214,999999,Ford,Bronco,1971,,,Wagon,8,4WD,James Howlett,Luisiana
+52426,4100,6215,2019,44133,100000,Oldsmobile,Cutlass,1972,,,,0,,James Howlett,Luisiana
+48402,16100,12632,2019,84040,94200,Ford,Mustang,1966,Red,289 4V,Coupe,8,RWD,James Howlett,Delaware
+11433,7000,6094,2018,78013,122000,Ford,F-100,1968,,360,,8,RWD,James Howlett,Luisiana
+100853,2030,4899,2019,78155,250000,Ford,Mustang,1965,,,,0,,Erik Lensherr,Delaware
+124641,1350,2138,2020,78233,100000,Ford,Mustang,1966,,,,8,,Erik Lensherr,Luisiana
+28790,8900,7148,2019,78233,55500,Porsche,Boxster,2004,S,6cly,Convertible,6,RWD,Erik Lensherr,Delaware
+9945,20000,15625,2019,68118,64000,Mercedes-Benz,E-Class,2014,,,,6,AWD,James Howlett,Luisiana
+125020,2330,3957,2020,703**,0,Porsche,928,1989,,V8,,0,,James Howlett,Delaware
+48108,19500,14960,2019,39110,89500,Mercedes-Benz,SL-Class,2005,Black Series Sport AMG,8,Convertible,8,RWD,James Howlett,Luisiana
+26592,4500,5891,2019,75032,97220,Cadillac,DTS,2007,,,Sedan,8,FWD,Scott Summers,Delaware
+19013,18000,15012,2019,75032,72000,Lexus,RX,2013,,,SUV,6,FWD,Scott Summers,Luisiana
+159587,3550,5658,2020,752**,185140,Mercedes-Benz,300-Series,1993,,,Coupe,6,RWD,Scott Summers,Luisiana
+120224,45100,31905,2020,959**,3800,Chevrolet,Camaro,2019,ZL1,6.2L Gas V8,Coupe,8,RWD,Absalon Mercator,Delaware
+55954,760,1645,2019,19040,96042,Mercury,Grand Marquis,2000,GS,4.6L,Sedan,0,RWD,Robert Drake,Luisiana
+79410,7200,5902,2019,44134,96000,Chevrolet,Impala,1966,,,Coupe,8,RWD,Robert Drake,Delaware
+115220,6200,7521,2020,441**,45000,Chevrolet,Malibu,2016,LT,4,4dr Car,0,4dr Sdn LT,Robert Drake,Luisiana
+6622,4850,6674,2019,44125,21000,Chevrolet,Cruze,2016,LT,,,0,FWD,Robert Drake,Delaware
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,Luisiana
